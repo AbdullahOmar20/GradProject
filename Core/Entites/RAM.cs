@@ -11,8 +11,8 @@ namespace Core.Entites
     {
         
         public int ID { get; set; }
-        public string RamType { get; set; }
-        public string Size { get; set; }
+        public string? RamType { get; set; }
+        public string? Size { get; set; }
         public int Clock { get; set; }
         public int Sticks { get; set; }
     }

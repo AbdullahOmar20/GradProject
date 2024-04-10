@@ -3,6 +3,7 @@ using Infrastructure.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -10,9 +11,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Infrastructure.Data.Migrations
 {
     [DbContext(typeof(SetupMasterDbContext))]
-    partial class SetupMasterDbContextModelSnapshot : ModelSnapshot
+    [Migration("20240409112404_addingnulls2")]
+    partial class addingnulls2
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -149,55 +152,6 @@ namespace Infrastructure.Data.Migrations
                     b.HasKey("ID");
 
                     b.ToTable("HDDs");
-                });
-
-            modelBuilder.Entity("Core.Entites.Motherboard", b =>
-                {
-                    b.Property<int>("ID")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("ID"));
-
-                    b.Property<string>("ChipSet")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("FormFactor")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("MemoryCapacity")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("MemoryType")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("Name")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<double>("Price")
-                        .HasColumnType("float");
-
-                    b.Property<int>("ProducerId")
-                        .HasColumnType("int");
-
-                    b.Property<string>("ProducerName")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("ProductPage")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<int>("RamSlot")
-                        .HasColumnType("int");
-
-                    b.Property<string>("Socket")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("Wifi")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.HasKey("ID");
-
-                    b.ToTable("motherboards");
                 });
 
             modelBuilder.Entity("Core.Entites.PowerSupply", b =>

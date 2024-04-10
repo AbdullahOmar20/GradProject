@@ -12,7 +12,7 @@ namespace Core.Entites
     {
         [Key]
         public int ID { get; set; }
-        public string Name { get; set; }
+        public string? Name { get; set; }
         public double Price { get; set; }
         //[ForeignKey(nameof(Producer))]
         public int ProducerId { get; set; }

@@ -8,10 +8,10 @@ namespace Core.Entites
 {
     public class GPU : BaseEntity
     {
-        public string BoostClock { get; set; }
-        public string VRam { get; set; }
-        public string MemoryClock { get; set; }
-        public string TDP { get; set; }
+        public string? BoostClock { get; set; }
+        public string? VRam { get; set; }
+        public string? MemoryClock { get; set; }
+        public string? TDP { get; set; }
 
     }
 }

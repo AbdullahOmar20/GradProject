@@ -8,8 +8,8 @@ namespace Core.Entites
 {
     public class SSD : BaseEntity
     {
-        public string FormFactor { get; set; }
-        public string Protocol { get; set; }
-        public string Size { get; set; }
+        public string? FormFactor { get; set; }
+        public string? Protocol { get; set; }
+        public string? Size { get; set; }
     }
 }

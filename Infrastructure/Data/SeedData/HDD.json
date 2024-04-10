@@ -336,7 +336,7 @@
     "MPN": "ST4000DM006",
     "Form Factor": 3.5,
     "Size": "4 TB",
-    "RPM": 7.2,
+    "RPM": 7200,
     "Cache": 128,
     "Product Page": ""
   },
@@ -347,7 +347,7 @@
     "MPN": "ST6000DM004",
     "Form Factor": 3.5,
     "Size": "6 TB",
-    "RPM": 7.2,
+    "RPM": 7200,
     "Cache": 256,
     "Product Page": ""
   },
@@ -358,7 +358,7 @@
     "MPN": "ST8000DM0004",
     "Form Factor": 3.5,
     "Size": "8 TB",
-    "RPM": 7.2,
+    "RPM": 7200,
     "Cache": 256,
     "Product Page": "https://www.amazon.ca/Seagate-ST8000DM0004-Drives-Cache-Internal/dp/B06Y6CCSVW?SubscriptionId=AKIAI7B523DQIKTQ3BRQ&tag=pckombo04b-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B06Y6CCSVW"
   },
@@ -732,7 +732,7 @@
     "MPN": "ST12000NM001G",
     "Form Factor": 3.5,
     "Size": "12 TB",
-    "RPM": 7.2,
+    "RPM": 7200,
     "Cache": 256,
     "Product Page": ""
   },
@@ -765,7 +765,7 @@
     "MPN": "ST18000NM000J",
     "Form Factor": 3.5,
     "Size": "18 TB",
-    "RPM": 7.2,
+    "RPM": 7200,
     "Cache": 256,
     "Product Page": ""
   },
@@ -776,7 +776,7 @@
     "MPN": "ST2000DX002",
     "Form Factor": 3.5,
     "Size": "2 TB",
-    "RPM": 7.2,
+    "RPM": 7200,
     "Cache": 64,
     "Product Page": ""
   },
@@ -820,7 +820,7 @@
     "MPN": "ST8000VN0022",
     "Form Factor": 3.5,
     "Size": "8 TB",
-    "RPM": 7.2,
+    "RPM": 7200,
     "Cache": 256,
     "Product Page": "https://www.amazon.ca/dp/B01M1BUBSO?tag=pckombo04b-20&linkCode=osi&th=1&psc=1"
   },
@@ -831,7 +831,7 @@
     "MPN": "ST12000VN0007",
     "Form Factor": 3.5,
     "Size": "12 TB",
-    "RPM": 7.2,
+    "RPM": 7200,
     "Cache": 256,
     "Product Page": "https://www.amazon.ca/dp/B075XPBD5B?tag=pckombo04b-20&linkCode=osi&th=1&psc=1"
   },
@@ -985,7 +985,7 @@
     "MPN": "ST4000NE0025",
     "Form Factor": 3.5,
     "Size": "4 TB",
-    "RPM": 7.2,
+    "RPM": 7200,
     "Cache": 128,
     "Product Page": "https://www.amazon.ca/dp/B01N98UJSD?tag=pckombo04b-20&linkCode=osi&th=1&psc=1"
   },
@@ -996,7 +996,7 @@
     "MPN": "ST6000NE0023",
     "Form Factor": 3.5,
     "Size": "6 TB",
-    "RPM": 7.2,
+    "RPM": 7200,
     "Cache": 256,
     "Product Page": "https://www.amazon.ca/Seagate-IronWolf-ST6000NE0023-Internal-Drive/dp/B075V6G82S?SubscriptionId=AKIAI7B523DQIKTQ3BRQ&tag=pckombo04b-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B075V6G82S"
   },
@@ -1007,7 +1007,7 @@
     "MPN": "ST8000NE0004",
     "Form Factor": 3.5,
     "Size": "8 TB",
-    "RPM": 7.2,
+    "RPM": 7200,
     "Cache": 256,
     "Product Page": "https://www.amazon.ca/Seagate-IronWolf-RAID-Internal-Drive/dp/B071JNJFBW?psc=1&SubscriptionId=AKIAI7B523DQIKTQ3BRQ&tag=pckombo04b-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B071JNJFBW"
   },
@@ -1018,7 +1018,7 @@
     "MPN": "ST12000NE0007",
     "Form Factor": 3.5,
     "Size": "12 TB",
-    "RPM": 7.2,
+    "RPM": 7200,
     "Cache": 256,
     "Product Page": "https://www.amazon.ca/dp/B075XNQYV1?tag=pckombo04b-20&linkCode=osi&th=1&psc=1"
   },
@@ -1183,7 +1183,7 @@
     "MPN": "ST3000VX010",
     "Form Factor": 3.5,
     "Size": "3 TB",
-    "RPM": 7.2,
+    "RPM": 7200,
     "Cache": 64,
     "Product Page": ""
   },
@@ -1194,7 +1194,7 @@
     "MPN": "ST10000VX0004",
     "Form Factor": 3.5,
     "Size": "10 TB",
-    "RPM": 7.2,
+    "RPM": 7200,
     "Cache": 256,
     "Product Page": "https://www.amazon.ca/dp/B07N33PYN4?tag=pckombo04b-20&linkCode=osi&th=1&psc=1"
   },
@@ -1227,7 +1227,7 @@
     "MPN": "ST6000VX001",
     "Form Factor": 3.5,
     "Size": "6 TB",
-    "RPM": 5.9,
+    "RPM": 5900,
     "Cache": 256,
     "Product Page": ""
   },
@@ -1249,7 +1249,7 @@
     "MPN": "ST8000VX004",
     "Form Factor": 3.5,
     "Size": "8 TB",
-    "RPM": 7.2,
+    "RPM": 7200,
     "Cache": 256,
     "Product Page": ""
   },
@@ -1502,7 +1502,7 @@
     "MPN": "HDWD240UZSVA",
     "Form Factor": 3.5,
     "Size": "4 TB",
-    "RPM": 5.4,
+    "RPM": 5400,
     "Cache": 128,
     "Product Page": ""
   },
@@ -1513,7 +1513,7 @@
     "MPN": "HDWD260UZSVA",
     "Form Factor": 3.5,
     "Size": "6 TB",
-    "RPM": 5.4,
+    "RPM": 5400,
     "Cache": 128,
     "Product Page": ""
   },
@@ -1546,7 +1546,7 @@
     "MPN": "MQ01ABD100",
     "Form Factor": 2.5,
     "Size": "1 TB",
-    "RPM": 5.4,
+    "RPM": 5400,
     "Cache": 8,
     "Product Page": ""
   },
@@ -1579,7 +1579,7 @@
     "MPN": "MD04ACA400",
     "Form Factor": 3.5,
     "Size": "4 TB",
-    "RPM": 7.2,
+    "RPM": 7200,
     "Cache": 128,
     "Product Page": ""
   },
@@ -2041,7 +2041,7 @@
     "MPN": "WD10JPLX",
     "Form Factor": 2.5,
     "Size": "1 TB",
-    "RPM": 7.2,
+    "RPM": 7200,
     "Cache": 32,
     "Product Page": "https://www.amazon.ca/WESTERN-DIGITAL-Performance-Mobile-WD10JPLX/dp/B01DOL05OC?psc=1&SubscriptionId=AKIAI7B523DQIKTQ3BRQ&tag=pckombo04b-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B01DOL05OC"
   },
@@ -2074,7 +2074,7 @@
     "MPN": "WD60EZRZ",
     "Form Factor": 3.5,
     "Size": "6 TB",
-    "RPM": 5.4,
+    "RPM": 5400,
     "Cache": 64,
     "Product Page": "https://www.amazon.ca/dp/B013HNYVCE?tag=pckombo04b-20&linkCode=osi&th=1&psc=1"
   },
@@ -2107,7 +2107,7 @@
     "MPN": "WD20EZAZ",
     "Form Factor": 3.5,
     "Size": "2 TB",
-    "RPM": 5.4,
+    "RPM": 5400,
     "Cache": 256,
     "Product Page": "https://www.amazon.ca/dp/B07JC1TQ7N?tag=pckombo04b-20&linkCode=osi&th=1&psc=1"
   },
@@ -2129,7 +2129,7 @@
     "MPN": "WD10JPVX",
     "Form Factor": 2.5,
     "Size": "1 TB",
-    "RPM": 5.4,
+    "RPM": 5400,
     "Cache": 8,
     "Product Page": "https://www.amazon.ca/5400rpm-Sata-Scorpio-Blue-WD10JPVX/dp/B00C9TEBJQ?SubscriptionId=AKIAI7B523DQIKTQ3BRQ&tag=pckombo04b-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00C9TEBJQ"
   },
@@ -2217,7 +2217,7 @@
     "MPN": "WD161KRYZ",
     "Form Factor": 3.5,
     "Size": "16 TB",
-    "RPM": 7.2,
+    "RPM": 7200,
     "Cache": 512,
     "Product Page": ""
   },
@@ -2272,7 +2272,7 @@
     "MPN": "WD6002FRYZ",
     "Form Factor": 3.5,
     "Size": "6 TB",
-    "RPM": 7.2,
+    "RPM": 7200,
     "Cache": 128,
     "Product Page": "https://www.amazon.ca/Western-Digital-Enterprise-Class-Drive/dp/B01AV168FS?psc=1&SubscriptionId=AKIAI7B523DQIKTQ3BRQ&tag=pckombo04b-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B01AV168FS"
   },
@@ -2283,7 +2283,7 @@
     "MPN": "WD8003FRYZ",
     "Form Factor": 3.5,
     "Size": "8 TB",
-    "RPM": 7.2,
+    "RPM": 7200,
     "Cache": 256,
     "Product Page": "https://www.amazon.ca/WESTERN-DIGITAL-Enterprise-Class-Drive/dp/B074WH5NPT?psc=1&SubscriptionId=AKIAI7B523DQIKTQ3BRQ&tag=pckombo04b-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B074WH5NPT"
   },
@@ -2294,7 +2294,7 @@
     "MPN": "WD101KRYZ",
     "Form Factor": 3.5,
     "Size": "10 TB",
-    "RPM": 7.2,
+    "RPM": 7200,
     "Cache": 256,
     "Product Page": "https://www.amazon.ca/Gold-10TB-Datacenter-Hard-Drive/dp/B01IWCMS5M?psc=1&SubscriptionId=AKIAI7B523DQIKTQ3BRQ&tag=pckombo04b-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B01IWCMS5M"
   },
@@ -2305,7 +2305,7 @@
     "MPN": "WD84PURZ",
     "Form Factor": 3.5,
     "Size": "8 TB",
-    "RPM": 7.2,
+    "RPM": 7200,
     "Cache": 256,
     "Product Page": "https://www.amazon.ca/dp/B08XNL4CRM?tag=pckombo04b-20&linkCode=osi&th=1&psc=1"
   },
@@ -2316,7 +2316,7 @@
     "MPN": "WD100PURZ",
     "Form Factor": 3.5,
     "Size": "10 TB",
-    "RPM": 5.4,
+    "RPM": 5400,
     "Cache": 256,
     "Product Page": "https://www.amazon.ca/Western-Digital-Surveillance-3-5-Inch-Internal/dp/B06XRRT1PJ?psc=1&SubscriptionId=AKIAI7B523DQIKTQ3BRQ&tag=pckombo04b-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B06XRRT1PJ"
   },
@@ -2360,7 +2360,7 @@
     "MPN": "WD101EFAX",
     "Form Factor": 3.5,
     "Size": "10 TB",
-    "RPM": 5.4,
+    "RPM": 5400,
     "Cache": 256,
     "Product Page": "https://www.amazon.ca/dp/B083JXTH5L?tag=pckombo04b-20&linkCode=osi&th=1&psc=1"
   },
@@ -2492,7 +2492,7 @@
     "MPN": "WD80EFZZ",
     "Form Factor": 3.5,
     "Size": "8 TB",
-    "RPM": 5.64,
+    "RPM": 5640,
     "Cache": 128,
     "Product Page": "https://www.amazon.ca/dp/B09QQX27GM?tag=pckombo04b-20&linkCode=osi&th=1&psc=1"
   },
@@ -2503,7 +2503,7 @@
     "MPN": "WD101EFBX",
     "Form Factor": 3.5,
     "Size": "10 TB",
-    "RPM": 7.2,
+    "RPM": 7200,
     "Cache": 256,
     "Product Page": "https://www.amazon.ca/dp/B08TZPS4QQ?tag=pckombo04b-20&linkCode=osi&th=1&psc=1"
   },
@@ -2514,7 +2514,7 @@
     "MPN": "WD120EFBX",
     "Form Factor": 3.5,
     "Size": "12 TB",
-    "RPM": 7.2,
+    "RPM": 7200,
     "Cache": 256,
     "Product Page": "https://www.amazon.ca/dp/B08V1L1WYD?tag=pckombo04b-20&linkCode=osi&th=1&psc=1"
   },
@@ -2525,7 +2525,7 @@
     "MPN": "WD140EFGX",
     "Form Factor": 3.5,
     "Size": "14 TB",
-    "RPM": 7.2,
+    "RPM": 7200,
     "Cache": 512,
     "Product Page": "https://www.amazon.ca/dp/B08V13TGP4?tag=pckombo04b-20&linkCode=osi&th=1&psc=1"
   },
@@ -2536,7 +2536,7 @@
     "MPN": "WD20EFZX",
     "Form Factor": 3.5,
     "Size": "2 TB",
-    "RPM": 5.4,
+    "RPM": 5400,
     "Cache": 128,
     "Product Page": "https://www.amazon.ca/dp/B08VH891FS?tag=pckombo04b-20&linkCode=osi&th=1&psc=1"
   },
@@ -2547,7 +2547,7 @@
     "MPN": "WD30EFZX",
     "Form Factor": 3.5,
     "Size": "3 TB",
-    "RPM": 5.4,
+    "RPM": 5400,
     "Cache": 128,
     "Product Page": "https://www.amazon.ca/dp/B08VH9NDV7?tag=pckombo04b-20&linkCode=osi&th=1&psc=1"
   },
@@ -2558,7 +2558,7 @@
     "MPN": "WD40EFZX",
     "Form Factor": 3.5,
     "Size": "4 TB",
-    "RPM": 5.4,
+    "RPM": 5400,
     "Cache": 128,
     "Product Page": "https://www.amazon.ca/dp/B08VH8C3WZ?tag=pckombo04b-20&linkCode=osi&th=1&psc=1"
   },
@@ -2569,7 +2569,7 @@
     "MPN": "WD60EFZX",
     "Form Factor": 3.5,
     "Size": "6 TB",
-    "RPM": 5.64,
+    "RPM": 5640,
     "Cache": 128,
     "Product Page": "https://www.amazon.ca/dp/B08TZYBMMC?tag=pckombo04b-20&linkCode=osi&th=1&psc=1"
   },
@@ -2580,7 +2580,7 @@
     "MPN": "WD80EFBX",
     "Form Factor": 3.5,
     "Size": "8 TB",
-    "RPM": 7.2,
+    "RPM": 7200,
     "Cache": 256,
     "Product Page": "https://www.amazon.ca/dp/B08TZT47VT?tag=pckombo04b-20&linkCode=osi&th=1&psc=1"
   },
@@ -2624,7 +2624,7 @@
     "MPN": "WD141KFGX",
     "Form Factor": 3.5,
     "Size": "14 TB",
-    "RPM": 7.2,
+    "RPM": 7200,
     "Cache": 512,
     "Product Page": "https://www.amazon.ca/dp/B07YFGW736?tag=pckombo04b-20&linkCode=osi&th=1&psc=1"
   },
@@ -2635,7 +2635,7 @@
     "MPN": "WD161KFGX",
     "Form Factor": 3.5,
     "Size": "16 TB",
-    "RPM": 7.2,
+    "RPM": 7200,
     "Cache": 512,
     "Product Page": "https://www.amazon.ca/dp/B08K3VVKSW?tag=pckombo04b-20&linkCode=osi&th=1&psc=1"
   },
@@ -2646,7 +2646,7 @@
     "MPN": "WD181KFGX",
     "Form Factor": 3.5,
     "Size": "18 TB",
-    "RPM": 7.2,
+    "RPM": 7200,
     "Cache": 512,
     "Product Page": "https://www.amazon.ca/dp/B08K3TFM92?tag=pckombo04b-20&linkCode=osi&th=1&psc=1"
   },
@@ -2701,7 +2701,7 @@
     "MPN": "WD60EFRX",
     "Form Factor": 3.5,
     "Size": "6 TB",
-    "RPM": 5.4,
+    "RPM": 5400,
     "Cache": 64,
     "Product Page": "https://www.amazon.ca/dp/B00LO3KR96?tag=pckombo04b-20&linkCode=osi&th=1&psc=1"
   },

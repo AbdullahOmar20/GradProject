@@ -8,7 +8,7 @@ namespace Core.Entites
 {
     public class HDD: BaseEntity
     {
-        public string Size { get; set; }
+        public string? Size { get; set; }
         public int RPM { get; set; }
         
     }

@@ -10,6 +10,6 @@ namespace Core.Entites
     {
         [Key]
         public int ProducerId { get; set; }   
-        public string ProducerName { get; set; }
+        public string? ProducerName { get; set; }
     }
 }

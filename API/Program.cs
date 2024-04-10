@@ -1,4 +1,5 @@
 using Core.Entites.Identity;
+using Core.Interfaces;
 using Infrastructure.Authentication;
 using Infrastructure.Configuration;
 using Infrastructure.Data;
@@ -32,6 +33,7 @@ namespace API
                 .AddDefaultTokenProviders()
                 .AddSignInManager<SignInManager<User>>();
             builder.Services.AddScoped<IAuthService, AuthService>();
+            builder.Services.AddScoped<IProcessorService,ProcessorService>();
             builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
             builder.Services.Configure<Jwt>(builder.Configuration.GetSection("Jwt"));
             
