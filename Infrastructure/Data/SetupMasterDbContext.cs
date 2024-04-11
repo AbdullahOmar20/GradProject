@@ -26,13 +26,5 @@ namespace Infrastructure.Data
         public DbSet<PowerSupply> PowerSupplies { get; set; }
         public DbSet<Producer> Producers { get; set; }
         public DbSet<Motherboard> motherboards{get;set;}
-
-        /*protected override void OnModelCreating(ModelBuilder modelBuilder)
-        {
-            base.OnModelCreating(modelBuilder); 
-
-            //modelBuilder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly());
-
-        }*/
         
     }}

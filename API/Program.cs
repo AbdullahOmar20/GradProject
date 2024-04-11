@@ -29,11 +29,22 @@ namespace API
                 opt.UseSqlServer(builder.Configuration.GetConnectionString("IdentityConnection"));
             }
             );
+            builder.Services.AddDbContext<BenchmarkDbContext>(options =>
+            options.UseSqlServer(builder.Configuration.GetConnectionString("BenchmarkConnection")));
             builder.Services.AddIdentity<User,IdentityRole>().AddEntityFrameworkStores<AppIdentityDbContext>()
                 .AddDefaultTokenProviders()
                 .AddSignInManager<SignInManager<User>>();
             builder.Services.AddScoped<IAuthService, AuthService>();
             builder.Services.AddScoped<IProcessorService,ProcessorService>();
+            builder.Services.AddScoped<IGPUService, GPUService>();
+            builder.Services.AddScoped<IMotherboardService, MotherboardService>();
+            builder.Services.AddScoped<IHDDService, HDDService>();
+            builder.Services.AddScoped<IRAMService, RAMService>();
+            builder.Services.AddScoped<ISSDService, SSDService>();
+            builder.Services.AddScoped<IPowerSupplieservice, PowerSupplieservice>();
+            builder.Services.AddScoped<ICPUCoolerService, CPUCoolerService>();
+            builder.Services.AddScoped<ICaseService, CaseService>();
+
             builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
             builder.Services.Configure<Jwt>(builder.Configuration.GetSection("Jwt"));
             
@@ -98,15 +109,18 @@ namespace API
             var services = scope.ServiceProvider;
             var context = services.GetRequiredService<SetupMasterDbContext>();
             var IdentityContext = services.GetRequiredService<AppIdentityDbContext>();
+            var BenchmarkContext = services.GetService<BenchmarkDbContext>();
             var userManager = services.GetRequiredService<UserManager<User>>();
             var logger = services.GetRequiredService<ILogger<Program>>();
             try
             {
                 await context.Database.MigrateAsync();
                 await IdentityContext.Database.MigrateAsync();
+                await BenchmarkContext.Database.MigrateAsync();
                 //adding seed contents json file to the darabse 
                 await SetupMasterContentSeed.SeedAsync(context);
                 await AppIdentityContentSeed.SeedusersAsync(userManager);
+                await BenchmarkContentSeed.SeedAsync(BenchmarkContext);
             }
             catch (Exception ex)
             {
