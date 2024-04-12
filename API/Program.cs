@@ -68,13 +68,8 @@ namespace API
                     ValidateLifetime = true
                 };
             });
-            builder.Services.AddCors(options =>
-            {
-                options.AddPolicy("AllowAll",
-                    b => b.AllowAnyMethod()
-                .AllowAnyHeader()
-                .AllowAnyOrigin());
-            });
+            builder.Services.AddCors(opt=>opt.AddPolicy
+            ("CorsPolicy",policy=>policy.AllowAnyHeader().AllowAnyMethod().WithOrigins("https://localhost:4200")));
 
             builder.Services.AddControllers();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
@@ -94,7 +89,7 @@ namespace API
             app.UseHttpsRedirection();
 
             app.UseAuthorization();
-            app.UseCors("AllowAll");
+            app.UseCors("CorsPolicy");
 
             app.UseAuthentication();
 
