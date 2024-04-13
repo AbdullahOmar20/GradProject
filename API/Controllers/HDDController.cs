@@ -1,4 +1,5 @@
-﻿using Core.Entites;
+﻿using API.Helpers;
+using Core.Entites;
 using Core.Interfaces;
 using Infrastructure.Services;
 using Microsoft.AspNetCore.Http;
@@ -17,34 +18,38 @@ namespace API.Controllers
         }
 
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<HDD>>> GetAllHDDs()
+        public async Task<ActionResult<IEnumerable<HDD>>> GetAllHDDs(int pageNumber = 1, int pageSize = 10)
         {
             var HDDs = await _HDDService.GetAllHDDs();
-            return Ok(HDDs);
+            var paginatedHDDs = PaginatedList<HDD>.Create(HDDs, pageNumber, pageSize);
+            return Ok(paginatedHDDs);
         }
 
         [HttpGet("sort")]
-        public async Task<ActionResult<IEnumerable<HDD>>> SortHDDs([FromQuery] string sortBy)
+        public async Task<ActionResult<IEnumerable<HDD>>> SortHDDs([FromQuery] string sortBy,int pageNumber = 1, int pageSize = 10)
         {
             var HDDs = await _HDDService.GetAllHDDs();
             var sortedHDDs = _HDDService.SortHDDs(HDDs, sortBy);
-            return Ok(sortedHDDs);
+            var paginatedSortedHDDs = PaginatedList<HDD>.Create(sortedHDDs, pageNumber, pageSize);
+            return Ok(paginatedSortedHDDs);
         }
 
         [HttpGet("filter")]
-        public async Task<ActionResult<IEnumerable<HDD>>> FilterHDDs([FromQuery] string filterBy)
+        public async Task<ActionResult<IEnumerable<HDD>>> FilterHDDs([FromQuery] string filterBy,int pageNumber = 1, int pageSize = 10)
         {
             var HDDs = await _HDDService.GetAllHDDs();
             var filteredHDDs = _HDDService.FilterHDDs(HDDs, filterBy);
-            return Ok(filteredHDDs);
+            var paginatedFilteredHDDs = PaginatedList<HDD>.Create(filteredHDDs, pageNumber, pageSize);
+            return Ok(paginatedFilteredHDDs);
         }
 
         [HttpGet("search")]
-        public async Task<ActionResult<IEnumerable<HDD>>> SearchHDDs([FromQuery] string searchQuery)
+        public async Task<ActionResult<IEnumerable<HDD>>> SearchHDDs([FromQuery] string searchQuery,int pageNumber = 1, int pageSize = 10)
         {
             var HDDs = await _HDDService.GetAllHDDs();
             var searchedHDDs = _HDDService.SearchHDDs(HDDs, searchQuery);
-            return Ok(searchedHDDs);
+            var paginatedSearchedHDDs = PaginatedList<HDD>.Create(searchedHDDs, pageNumber, pageSize);
+            return Ok(paginatedSearchedHDDs);
         }
     }
 }

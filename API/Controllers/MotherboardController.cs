@@ -1,4 +1,5 @@
-﻿using Core.Entites;
+﻿using API.Helpers;
+using Core.Entites;
 using Core.Interfaces;
 using Infrastructure.Services;
 using Microsoft.AspNetCore.Http;
@@ -17,34 +18,38 @@ namespace API.Controllers
         }
 
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<Motherboard>>> GetAllMotherboards()
+        public async Task<ActionResult<IEnumerable<Motherboard>>> GetAllMotherboards(int pageNumber = 1, int pageSize = 10)
         {
             var Motherboards = await _MotherboardService.GetAllMotherboards();
-            return Ok(Motherboards);
+            var paginatedMotherboards = PaginatedList<Motherboard>.Create(Motherboards, pageNumber, pageSize);
+            return Ok(paginatedMotherboards);
         }
 
         [HttpGet("sort")]
-        public async Task<ActionResult<IEnumerable<Motherboard>>> SortMotherboards([FromQuery] string sortBy)
+        public async Task<ActionResult<IEnumerable<Motherboard>>> SortMotherboards([FromQuery] string sortBy,int pageNumber = 1, int pageSize = 10)
         {
             var Motherboards = await _MotherboardService.GetAllMotherboards();
             var sortedMotherboards = _MotherboardService.SortMotherboards(Motherboards, sortBy);
-            return Ok(sortedMotherboards);
+            var paginatedSortedMotherboards = PaginatedList<Motherboard>.Create(sortedMotherboards, pageNumber, pageSize);
+            return Ok(paginatedSortedMotherboards);
         }
 
         [HttpGet("filter")]
-        public async Task<ActionResult<IEnumerable<Motherboard>>> FilterMotherboards([FromQuery] string filterBy)
+        public async Task<ActionResult<IEnumerable<Motherboard>>> FilterMotherboards([FromQuery] string filterBy,int pageNumber = 1, int pageSize = 10)
         {
             var Motherboards = await _MotherboardService.GetAllMotherboards();
             var filteredMotherboards = _MotherboardService.FilterMotherboards(Motherboards, filterBy);
-            return Ok(filteredMotherboards);
+            var paginatedFilteredMotherboards = PaginatedList<Motherboard>.Create(filteredMotherboards, pageNumber, pageSize);
+            return Ok(paginatedFilteredMotherboards);
         }
 
         [HttpGet("search")]
-        public async Task<ActionResult<IEnumerable<Motherboard>>> SearchMotherboards([FromQuery] string searchQuery)
+        public async Task<ActionResult<IEnumerable<Motherboard>>> SearchMotherboards([FromQuery] string searchQuery,int pageNumber = 1, int pageSize = 10)
         {
             var Motherboards = await _MotherboardService.GetAllMotherboards();
             var searchedMotherboards = _MotherboardService.SearchMotherboards(Motherboards, searchQuery);
-            return Ok(searchedMotherboards);
+            var paginatedSearchedMotherboards = PaginatedList<Motherboard>.Create(searchedMotherboards, pageNumber, pageSize);
+            return Ok(paginatedSearchedMotherboards);
         }
     }
 }

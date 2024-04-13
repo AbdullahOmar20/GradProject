@@ -20,16 +20,16 @@ namespace API.Helpers
             Items = items;
         }
 
-        public static PaginatedList<T> Create(IQueryable<T> source, int pageNumber, int pageSize)
+        public static PaginatedList<T> Create(List<T> source, int pageNumber, int pageSize)
         {
             var count = source.Count();
             var items = source.Skip((pageNumber - 1) * pageSize).Take(pageSize).ToList();
             return new PaginatedList<T>(items, count, pageNumber, pageSize);
         }
 
-        internal static object Create(List<GPU> sortedGPUs, int pageNumber, int pageSize)
+        /*internal static object Create(List<GPU> sortedGPUs, int pageNumber, int pageSize)
         {
             throw new NotImplementedException();
-        }
+        }*/
     }
 }
