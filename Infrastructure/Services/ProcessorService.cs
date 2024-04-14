@@ -1,4 +1,5 @@
 ﻿using Core.Entites;
+using Core.Entites.Benchmark;
 using Core.Interfaces;
 using Infrastructure.Data;
 using Microsoft.EntityFrameworkCore;
@@ -15,9 +16,11 @@ namespace Infrastructure.Services
     {
        
         private readonly SetupMasterDbContext _setupMasterDbContext;
-        public ProcessorService(SetupMasterDbContext setupMasterDbContext)
+        private readonly BenchmarkDbContext _benchmarkDbContext;
+        public ProcessorService(SetupMasterDbContext setupMasterDbContext , BenchmarkDbContext benchmarkDbContext)
         {
             _setupMasterDbContext = setupMasterDbContext;
+            _benchmarkDbContext = benchmarkDbContext;
         }
 
         public async Task<List<Processor>> GetAllProcessors()
@@ -69,6 +72,11 @@ namespace Infrastructure.Services
                     return Processors;
 
             }
+        }
+
+        public async Task<CPUBenchmark> GetProcessorsById(string name)
+        {
+            return await _benchmarkDbContext.CPUsbenchmark.Where(p => p.CpuName.Contains(name)).FirstAsync();
         }
     }
 }

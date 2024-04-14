@@ -1,13 +1,9 @@
 ﻿using Core.Entites;
+using Core.Entites.Benchmark;
 using Core.Interfaces;
 using Infrastructure.Data;
 using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Globalization;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace Infrastructure.Services
 {
@@ -15,9 +11,11 @@ namespace Infrastructure.Services
     {
        
         private readonly SetupMasterDbContext _setupMasterDbContext;
-        public GPUService(SetupMasterDbContext setupMasterDbContext)
+        private readonly BenchmarkDbContext _benchmarkDbContext;
+        public GPUService(SetupMasterDbContext setupMasterDbContext, BenchmarkDbContext benchmarkDbContext)
         {
             _setupMasterDbContext = setupMasterDbContext;
+            _benchmarkDbContext = benchmarkDbContext;
         }
 
         public async Task<List<GPU>> GetAllGPUs()
@@ -69,6 +67,11 @@ namespace Infrastructure.Services
                     return GPUs;
 
             }
+        }
+
+        public async Task<GPUBenchmark> GetGPUsById(string name)
+        {
+            return await _benchmarkDbContext.GPUsbenchmark.Where(p => p.GpuName.Contains(name)).FirstAsync();
         }
     }
 }

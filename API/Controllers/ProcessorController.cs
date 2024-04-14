@@ -1,6 +1,7 @@
 ﻿
 using API.Helpers;
 using Core.Entites;
+using Core.Entites.Benchmark;
 using Core.Interfaces;
 
 using Microsoft.AspNetCore.Mvc;
@@ -50,6 +51,41 @@ namespace API.Controllers
             var searchedCPUs = _processorService.SearchProcessors(CPUs, searchQuery);
             var paginatedSearchedCPUs = PaginatedList<Processor>.Create(searchedCPUs, pageNumber, pageSize);
             return Ok(paginatedSearchedCPUs);
+        }
+
+        [HttpGet("benchmark{name}")]
+        public async Task<ActionResult<CPUBenchmark>> GetProcessorById(string name)
+        {
+            var processor = await _processorService.GetProcessorsById(name);
+            if (processor == null)
+            {
+                return NotFound("processor not found. Check the name");
+            }
+            return Ok(processor);
+        }
+
+        [HttpGet("compare{Name1},{Name2}")]
+        public async Task<ActionResult<List<CPUBenchmark>>> Compareprocessors(string Name1, string Name2)
+        {
+            var processor1 = await _processorService.GetProcessorsById(Name1);
+            var processor2 = await _processorService.GetProcessorsById(Name2);
+
+            if (processor1 == null)
+            {
+                return NotFound("First processor not found. Check the name");
+            }
+            else if (processor2 == null)
+            {
+                return NotFound("Second processor not found. check the name");
+            }
+
+            var comparisonResult = new List<CPUBenchmark>()
+            {
+                processor1,processor2
+            };
+            
+
+            return Ok(comparisonResult);
         }
     }
 }

@@ -1,5 +1,6 @@
 ﻿using API.Helpers;
 using Core.Entites;
+using Core.Entites.Benchmark;
 using Core.Interfaces;
 using Infrastructure.Services;
 using Microsoft.AspNetCore.Http;
@@ -53,6 +54,40 @@ namespace API.Controllers
             var searchedGPUs = _GPUService.SearchGPUs(GPUs, searchQuery);
             var paginatedSearchedGPUs = PaginatedList<GPU>.Create(searchedGPUs, pageNumber, pageSize);
             return Ok(paginatedSearchedGPUs);
+        }
+        [HttpGet("benchmark{name}")]
+        public async Task<ActionResult<GPUBenchmark>> GetGPUById(string name)
+        {
+            var GPU = await _GPUService.GetGPUsById(name);
+            if (GPU == null)
+            {
+                return NotFound("GPU not found. Check the name");
+            }
+            return Ok(GPU);
+        }
+
+        [HttpGet("compare{Name1},{Name2}")]
+        public async Task<ActionResult<List<GPUBenchmark>>> CompareGPUs(string Name1, string Name2)
+        {
+            var GPU1 = await _GPUService.GetGPUsById(Name1);
+            var GPU2 = await _GPUService.GetGPUsById(Name2);
+
+            if (GPU1 == null)
+            {
+                return NotFound("First GPU not found. Check the name");
+            }
+            else if (GPU2 == null)
+            {
+                return NotFound("Second GPU not found. check the name");
+            }
+
+            var comparisonResult = new List<GPUBenchmark>()
+            {
+                GPU1,GPU2
+            };
+            
+
+            return Ok(comparisonResult);
         }
     }
 }

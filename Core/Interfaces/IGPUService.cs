@@ -1,4 +1,5 @@
 ﻿using Core.Entites;
+using Core.Entites.Benchmark;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -13,5 +14,6 @@ namespace Core.Interfaces
         public List<GPU> SortGPUs(List<GPU> GPUs, string sortBy);
         public List<GPU> FilterGPUs(List<GPU> GPUs, string filterBy);
         public List<GPU> SearchGPUs(List<GPU> GPUs, string searchQuery);
+        public Task<GPUBenchmark> GetGPUsById(string name);
     }
 }
