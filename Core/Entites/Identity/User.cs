@@ -6,6 +6,7 @@ namespace Core.Entites.Identity
     {
         public string FirstName { get; set; }
         public string LastName { get; set; }
-        
+        public string? Otp { get; set; }
+        public DateTime? Expire { get; set; }
     }
 }

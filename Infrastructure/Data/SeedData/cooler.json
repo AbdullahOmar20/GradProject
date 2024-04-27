@@ -1,0 +1,4102 @@
+[
+  {
+    "Name": "Cooler Master MASTERLIQUID ML240L RGB V2",
+    "Price": 99.99,
+    "rp": "6,501,800",
+    "Noise": "6,27",
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "6,27,",
+    "Rpm": "6501800,"
+  },
+  {
+    "Name": "NZXT Kraken Elite 360 RGB",
+    "Price": 282,
+    "rp": "5,001,800",
+    "Noise": "17.9,30.6",
+    "Color": "White",
+    "Size": 360,
+    "Noise_Level": "17.9,30.6,",
+    "Rpm": "5001800,"
+  },
+  {
+    "Name": "Corsair iCUE H150i ELITE CAPELLIX XT",
+    "Price": 189.99,
+    "rp": "5,502,100",
+    "Noise": "5,34.1",
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": "5,34.1,",
+    "Rpm": "5502100,"
+  },
+  {
+    "Name": "NZXT Kraken 240",
+    "Price": 121.99,
+    "rp": "5,001,800",
+    "Noise": "17.9,30.6",
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "17.9,30.6,",
+    "Rpm": "5001800,"
+  },
+  {
+    "Name": "Deepcool LS720 SE WH",
+    "Price": 109.99,
+    "rp": "5,002,250",
+    "Noise": "28.2,32.9",
+    "Color": "White",
+    "Size": 360,
+    "Noise_Level": "28.2,32.9,",
+    "Rpm": "5002250,"
+  },
+  {
+    "Name": "NZXT Kraken Elite 360 RGB",
+    "Price": 276.5,
+    "rp": "5,001,800",
+    "Noise": "17.9,30.6",
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": "17.9,30.6,",
+    "Rpm": "5001800,"
+  },
+  {
+    "Name": "NZXT Kraken 360",
+    "Price": 179.99,
+    "rp": "5,001,800",
+    "Noise": "17.9,30.6",
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": "17.9,30.6,",
+    "Rpm": "5001800,"
+  },
+  {
+    "Name": "ARCTIC Liquid Freezer III",
+    "Price": 90.08,
+    "rp": "2,001,800",
+    "Noise": "",
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": ",",
+    "Rpm": "2001800,"
+  },
+  {
+    "Name": "Corsair iCUE H100i RGB ELITE",
+    "Price": 139,
+    "rp": "4,001,850",
+    "Noise": "5,28.9",
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "5,28.9,",
+    "Rpm": "4001850,"
+  },
+  {
+    "Name": "Deepcool LS720 SE",
+    "Price": 90.98,
+    "rp": "5,002,250",
+    "Noise": "28.2,32.9",
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": "28.2,32.9,",
+    "Rpm": "5002250,"
+  },
+  {
+    "Name": "NZXT Kraken 240 RGB",
+    "Price": 159.99,
+    "rp": "5,001,800",
+    "Noise": "17.9,30.6",
+    "Color": "White",
+    "Size": 240,
+    "Noise_Level": "17.9,30.6,",
+    "Rpm": "5001800,"
+  },
+  {
+    "Name": "Corsair iCUE H150i ELITE LCD XT",
+    "Price": 232.99,
+    "rp": "5,502,100",
+    "Noise": "5,34.1",
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": "5,34.1,",
+    "Rpm": "5502100,"
+  },
+  {
+    "Name": "Deepcool LT720",
+    "Price": 123.49,
+    "rp": "5,002,250",
+    "Noise": 32.9,
+    "Color": "Black / Gray",
+    "Size": 360,
+    "Noise_Level": "32.9,",
+    "Rpm": "5002250,"
+  },
+  {
+    "Name": "Deepcool LS520 SE",
+    "Price": 74.99,
+    "rp": "5,002,250",
+    "Noise": "28.2,32.9",
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "28.2,32.9,",
+    "Rpm": "5002250,"
+  },
+  {
+    "Name": "ARCTIC Liquid Freezer II 360",
+    "Price": 114.95,
+    "rp": "8,002,000",
+    "Noise": "",
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": ",",
+    "Rpm": "8002000,"
+  },
+  {
+    "Name": "Lian Li Galahad II Trinity SL-INF",
+    "Price": 224.02,
+    "rp": 2100,
+    "Noise": 29,
+    "Color": "White",
+    "Size": 360,
+    "Noise_Level": "29,",
+    "Rpm": "2100,"
+  },
+  {
+    "Name": "ARCTIC Liquid Freezer II 240",
+    "Price": 149.9,
+    "rp": "2,001,800",
+    "Noise": "",
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": ",",
+    "Rpm": "2001800,"
+  },
+  {
+    "Name": "NZXT Kraken 360 RGB",
+    "Price": 219.99,
+    "rp": "5,001,800",
+    "Noise": "17.9,30.6",
+    "Color": "White",
+    "Size": 360,
+    "Noise_Level": "17.9,30.6,",
+    "Rpm": "5001800,"
+  },
+  {
+    "Name": "Corsair iCUE H100x RGB ELITE",
+    "Price": 99.99,
+    "rp": 1500,
+    "Noise": "7,28",
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "7,28,",
+    "Rpm": "1500,"
+  },
+  {
+    "Name": "Lian Li Galahad II Trinity SL-INF",
+    "Price": 169.99,
+    "rp": 2100,
+    "Noise": 29,
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": "29,",
+    "Rpm": "2100,"
+  },
+  {
+    "Name": "Thermalright Frozen Notte ARGB",
+    "Price": 50.9,
+    "rp": 2000,
+    "Noise": 27.7,
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "27.7,",
+    "Rpm": "2000,"
+  },
+  {
+    "Name": "NZXT Kraken Elite 360",
+    "Price": 267.87,
+    "rp": "5,001,800",
+    "Noise": "17.9,30.6",
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": "17.9,30.6,",
+    "Rpm": "5001800,"
+  },
+  {
+    "Name": "ARCTIC Liquid Freezer III A-RGB",
+    "Price": 107.79,
+    "rp": "2,002,000",
+    "Noise": "",
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": ",",
+    "Rpm": "2002000,"
+  },
+  {
+    "Name": "ARCTIC Liquid Freezer III",
+    "Price": 76.98,
+    "rp": "2,001,800",
+    "Noise": "",
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": ",",
+    "Rpm": "2001800,"
+  },
+  {
+    "Name": "Corsair iCUE H150i ELITE CAPELLIX XT",
+    "Price": 192.94,
+    "rp": "5,502,100",
+    "Noise": "",
+    "Color": "White",
+    "Size": 360,
+    "Noise_Level": ",",
+    "Rpm": "5502100,"
+  },
+  {
+    "Name": "Cooler Master MasterLiquid 360L Core ARGB",
+    "Price": 94.63,
+    "rp": "3,501,750",
+    "Noise": 27.2,
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": "27.2,",
+    "Rpm": "3501750,"
+  },
+  {
+    "Name": "Corsair iCUE H100i ELITE CAPELLIX XT",
+    "Price": 164.87,
+    "rp": "5,502,100",
+    "Noise": "5,34.1",
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "5,34.1,",
+    "Rpm": "5502100,"
+  },
+  {
+    "Name": "Asus ROG Ryujin III ARGB",
+    "Price": 339.99,
+    "rp": "6,002,200",
+    "Noise": 36.45,
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": "36.45,",
+    "Rpm": "6002200,"
+  },
+  {
+    "Name": "NZXT Kraken 240 RGB",
+    "Price": 160.99,
+    "rp": "5,001,800",
+    "Noise": "17.9,30.6",
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "17.9,30.6,",
+    "Rpm": "5001800,"
+  },
+  {
+    "Name": "NZXT Kraken 360 RGB",
+    "Price": 219.99,
+    "rp": "5,001,800",
+    "Noise": "17.9,30.6",
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": "17.9,30.6,",
+    "Rpm": "5001800,"
+  },
+  {
+    "Name": "ARCTIC Liquid Freezer II 280",
+    "Price": 95.99,
+    "rp": "2,001,700",
+    "Noise": "",
+    "Color": "Black",
+    "Size": 280,
+    "Noise_Level": ",",
+    "Rpm": "2001700,"
+  },
+  {
+    "Name": "Deepcool LT520",
+    "Price": 84.99,
+    "rp": "5,002,250",
+    "Noise": 32.9,
+    "Color": "Black / Gray",
+    "Size": 240,
+    "Noise_Level": "32.9,",
+    "Rpm": "5002250,"
+  },
+  {
+    "Name": "Thermalright Frozen Notte ARGB",
+    "Price": 50.9,
+    "rp": 2000,
+    "Noise": 27.7,
+    "Color": "White",
+    "Size": 240,
+    "Noise_Level": "27.7,",
+    "Rpm": "2000,"
+  },
+  {
+    "Name": "Deepcool LT720 WH",
+    "Price": 109.99,
+    "rp": "5,002,250",
+    "Noise": 32.9,
+    "Color": "White",
+    "Size": 360,
+    "Noise_Level": "32.9,",
+    "Rpm": "5002250,"
+  },
+  {
+    "Name": "ARCTIC Liquid Freezer III A-RGB",
+    "Price": 110.1,
+    "rp": "2,002,000",
+    "Noise": "",
+    "Color": "White",
+    "Size": 360,
+    "Noise_Level": ",",
+    "Rpm": "2002000,"
+  },
+  {
+    "Name": "Corsair iCUE H150i ELITE LCD XT",
+    "Price": 264.87,
+    "rp": "5,502,100",
+    "Noise": "5,31.1",
+    "Color": "White / Gray",
+    "Size": 360,
+    "Noise_Level": "5,31.1,",
+    "Rpm": "5502100,"
+  },
+  {
+    "Name": "Corsair iCUE H150i ELITE LCD",
+    "Price": 399,
+    "rp": "4,502,000",
+    "Noise": "10,30.4",
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": "10,30.4,",
+    "Rpm": "4502000,"
+  },
+  {
+    "Name": "Deepcool LS720",
+    "Price": 139,
+    "rp": "5,002,250",
+    "Noise": 32.9,
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": "32.9,",
+    "Rpm": "5002250,"
+  },
+  {
+    "Name": "ARCTIC Liquid Freezer III",
+    "Price": 86.23,
+    "rp": "2,001,700",
+    "Noise": "",
+    "Color": "Black",
+    "Size": 280,
+    "Noise_Level": ",",
+    "Rpm": "2001700,"
+  },
+  {
+    "Name": "Lian Li Galahad II Trinity",
+    "Price": 119,
+    "rp": 2450,
+    "Noise": 35.4,
+    "Color": "White",
+    "Size": 360,
+    "Noise_Level": "35.4,",
+    "Rpm": "2450,"
+  },
+  {
+    "Name": "Corsair iCUE H100i ELITE CAPELLIX XT",
+    "Price": 144.99,
+    "rp": "5,502,100",
+    "Noise": "5,34.1",
+    "Color": "White",
+    "Size": 240,
+    "Noise_Level": "5,34.1,",
+    "Rpm": "5502100,"
+  },
+  {
+    "Name": "ARCTIC Liquid Freezer II 420",
+    "Price": 92.39,
+    "rp": "2,001,700",
+    "Noise": "",
+    "Color": "Black",
+    "Size": 420,
+    "Noise_Level": ",",
+    "Rpm": "2001700,"
+  },
+  {
+    "Name": "Cooler Master MASTERLIQUID ML120L RGB V2",
+    "Price": 59.99,
+    "rp": "6,501,800",
+    "Noise": "6,27",
+    "Color": "Black",
+    "Size": 120,
+    "Noise_Level": "6,27,",
+    "Rpm": "6501800,"
+  },
+  {
+    "Name": "Asus ROG RYUJIN III 360 ARGB EVA-02 EDITION",
+    "Price": 558.73,
+    "rp": "6,002,200",
+    "Noise": 36.45,
+    "Color": "Red / Black",
+    "Size": 360,
+    "Noise_Level": "36.45,",
+    "Rpm": "6002200,"
+  },
+  {
+    "Name": "Corsair iCUE H150i RGB ELITE",
+    "Price": 179.99,
+    "rp": "4,001,850",
+    "Noise": "19,35.8",
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": "19,35.8,",
+    "Rpm": "4001850,"
+  },
+  {
+    "Name": "Corsair iCUE LINK H150i RGB",
+    "Price": 189.99,
+    "rp": "4,802,400",
+    "Noise": "",
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": ",",
+    "Rpm": "4802400,"
+  },
+  {
+    "Name": "Cooler Master MasterLiquid ML240L ARGB V2",
+    "Price": 65.98,
+    "rp": "6,501,800",
+    "Noise": "8,27",
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "8,27,",
+    "Rpm": "6501800,"
+  },
+  {
+    "Name": "NZXT Kraken Elite 240 RGB",
+    "Price": 226.99,
+    "rp": "5,001,800",
+    "Noise": "17.9,30.6",
+    "Color": "White",
+    "Size": 240,
+    "Noise_Level": "17.9,30.6,",
+    "Rpm": "5001800,"
+  },
+  {
+    "Name": "MSI MAG CORELIQUID 360R V2",
+    "Price": 114.99,
+    "rp": "5,002,000",
+    "Noise": "14.3,34.3",
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": "14.3,34.3,",
+    "Rpm": "5002000,"
+  },
+  {
+    "Name": "ARCTIC Liquid Freezer III",
+    "Price": 98.55,
+    "rp": "2,001,700",
+    "Noise": "",
+    "Color": "Black",
+    "Size": 420,
+    "Noise_Level": ",",
+    "Rpm": "2001700,"
+  },
+  {
+    "Name": "ARCTIC Liquid Freezer II 360 A-RGB",
+    "Price": 144.99,
+    "rp": "2,001,800",
+    "Noise": 22.5,
+    "Color": "Black / Gray",
+    "Size": 360,
+    "Noise_Level": "22.5,",
+    "Rpm": "2001800,"
+  },
+  {
+    "Name": "NZXT Kraken Z73 RGB",
+    "Price": 379.99,
+    "rp": "5,001,500",
+    "Noise": "22,33",
+    "Color": "White / Black",
+    "Size": 360,
+    "Noise_Level": "22,33,",
+    "Rpm": "5001500,"
+  },
+  {
+    "Name": "Corsair iCUE LINK H150i LCD",
+    "Price": 264.99,
+    "rp": "4,802,400",
+    "Noise": "",
+    "Color": "White",
+    "Size": 360,
+    "Noise_Level": ",",
+    "Rpm": "4802400,"
+  },
+  {
+    "Name": "Asus ROG STRIX LC II ARGB",
+    "Price": 129.99,
+    "rp": "8,002,500",
+    "Noise": 37.6,
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": "37.6,",
+    "Rpm": "8002500,"
+  },
+  {
+    "Name": "NZXT Kraken 280",
+    "Price": 144.99,
+    "rp": "5,001,500",
+    "Noise": "19.4,32.1",
+    "Color": "Black",
+    "Size": 280,
+    "Noise_Level": "19.4,32.1,",
+    "Rpm": "5001500,"
+  },
+  {
+    "Name": "Asus ROG RYUJIN II",
+    "Price": 499,
+    "rp": "4,502,000",
+    "Noise": 29.7,
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": "29.7,",
+    "Rpm": "4502000,"
+  },
+  {
+    "Name": "ARCTIC Liquid Freezer III A-RGB",
+    "Price": 87.77,
+    "rp": "2,002,000",
+    "Noise": "",
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": ",",
+    "Rpm": "2002000,"
+  },
+  {
+    "Name": "Thermalright Frozen Prism ARGB",
+    "Price": 60.59,
+    "rp": 1850,
+    "Noise": 27,
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": "27,",
+    "Rpm": "1850,"
+  },
+  {
+    "Name": "Corsair iCUE H150i ELITE CAPELLIX",
+    "Price": 288.99,
+    "rp": 2400,
+    "Noise": "10,37",
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": "10,37,",
+    "Rpm": "2400,"
+  },
+  {
+    "Name": "Cooler Master MasterLiquid 240L Core ARGB",
+    "Price": 84.99,
+    "rp": "3,501,750",
+    "Noise": 27.2,
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "27.2,",
+    "Rpm": "3501750,"
+  },
+  {
+    "Name": "EK Nucleus AIO CR360 Dark",
+    "Price": 167.94,
+    "rp": "5,502,300",
+    "Noise": 36,
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": "36,",
+    "Rpm": "5502300,"
+  },
+  {
+    "Name": "Corsair iCUE H170i ELITE LCD XT",
+    "Price": 299.99,
+    "rp": "5,001,700",
+    "Noise": "5,33.8",
+    "Color": "Black",
+    "Size": 420,
+    "Noise_Level": "5,33.8,",
+    "Rpm": "5001700,"
+  },
+  {
+    "Name": "MSI MAG CORELIQUID 240R V2",
+    "Price": 87.43,
+    "rp": "5,002,000",
+    "Noise": "14.3,34.3",
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "14.3,34.3,",
+    "Rpm": "5002000,"
+  },
+  {
+    "Name": "NZXT Kraken 120",
+    "Price": 84.99,
+    "rp": "5,002,000",
+    "Noise": "21,36",
+    "Color": "Black",
+    "Size": 120,
+    "Noise_Level": "21,36,",
+    "Rpm": "5002000,"
+  },
+  {
+    "Name": "Corsair iCUE LINK H150i LCD",
+    "Price": 254.99,
+    "rp": "4,802,400",
+    "Noise": "",
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": ",",
+    "Rpm": "4802400,"
+  },
+  {
+    "Name": "NZXT Kraken Elite 240",
+    "Price": 179.99,
+    "rp": "5,001,800",
+    "Noise": "17.9,30.6",
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "17.9,30.6,",
+    "Rpm": "5001800,"
+  },
+  {
+    "Name": "NZXT Kraken Elite 280 RGB",
+    "Price": 199.99,
+    "rp": "5,001,500",
+    "Noise": 34.48,
+    "Color": "White",
+    "Size": 280,
+    "Noise_Level": "34.48,",
+    "Rpm": "5001500,"
+  },
+  {
+    "Name": "Deepcool LS520 SE WH",
+    "Price": 74.98,
+    "rp": "5,002,250",
+    "Noise": "28.2,32.9",
+    "Color": "White",
+    "Size": 240,
+    "Noise_Level": "28.2,32.9,",
+    "Rpm": "5002250,"
+  },
+  {
+    "Name": "EK EK-Nucleus AIO CR360 Lux D-RGB",
+    "Price": 163.99,
+    "rp": "5,502,300",
+    "Noise": 36,
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": "36,",
+    "Rpm": "5502300,"
+  },
+  {
+    "Name": "Cooler Master MasterLiquid 360L Core ARGB",
+    "Price": 96.91,
+    "rp": "3,501,750",
+    "Noise": 27.2,
+    "Color": "White",
+    "Size": 360,
+    "Noise_Level": "27.2,",
+    "Rpm": "3501750,"
+  },
+  {
+    "Name": "ARCTIC Liquid Freezer II 240 A-RGB",
+    "Price": 80.84,
+    "rp": "2,001,800",
+    "Noise": 22.5,
+    "Color": "Black / Gray",
+    "Size": 240,
+    "Noise_Level": "22.5,",
+    "Rpm": "2001800,"
+  },
+  {
+    "Name": "EK Nucleus AIO CR240 Dark",
+    "Price": 129.99,
+    "rp": "5,502,300",
+    "Noise": 36,
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "36,",
+    "Rpm": "5502300,"
+  },
+  {
+    "Name": "NZXT Kraken X53",
+    "Price": 219.99,
+    "rp": "5,002,000",
+    "Noise": "21,36",
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "21,36,",
+    "Rpm": "5002000,"
+  },
+  {
+    "Name": "Thermalright Aqua Elite V3",
+    "Price": 55.9,
+    "rp": 1500,
+    "Noise": 25.6,
+    "Color": "White",
+    "Size": 360,
+    "Noise_Level": "25.6,",
+    "Rpm": "1500,"
+  },
+  {
+    "Name": "Corsair iCUE H60x RGB ELITE",
+    "Price": 79.99,
+    "rp": 1500,
+    "Noise": "7,28",
+    "Color": "Black",
+    "Size": 120,
+    "Noise_Level": "7,28,",
+    "Rpm": "1500,"
+  },
+  {
+    "Name": "NZXT Kraken Z73",
+    "Price": 388.46,
+    "rp": "5,001,800",
+    "Noise": "21,36",
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": "21,36,",
+    "Rpm": "5001800,"
+  },
+  {
+    "Name": "ARCTIC Liquid Freezer III A-RGB",
+    "Price": 115.49,
+    "rp": "2,001,900",
+    "Noise": "",
+    "Color": "Black",
+    "Size": 420,
+    "Noise_Level": ",",
+    "Rpm": "2001900,"
+  },
+  {
+    "Name": "Corsair iCUE H170i ELITE CAPELLIX",
+    "Price": 368.99,
+    "rp": 2000,
+    "Noise": "10,37",
+    "Color": "Black",
+    "Size": 420,
+    "Noise_Level": "10,37,",
+    "Rpm": "2000,"
+  },
+  {
+    "Name": "Thermalright Aqua Elite V3",
+    "Price": 49.9,
+    "rp": 1500,
+    "Noise": 25.6,
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "25.6,",
+    "Rpm": "1500,"
+  },
+  {
+    "Name": "NZXT Kraken 280 RGB",
+    "Price": 159.99,
+    "rp": "5,001,500",
+    "Noise": 34.48,
+    "Color": "White",
+    "Size": 280,
+    "Noise_Level": "34.48,",
+    "Rpm": "5001500,"
+  },
+  {
+    "Name": "Lian Li Galahad II Trinity Performance",
+    "Price": 169.99,
+    "rp": "23,003,000",
+    "Noise": "32.1,39.9",
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": "32.1,39.9,",
+    "Rpm": "23003000,"
+  },
+  {
+    "Name": "Deepcool LT520 WH",
+    "Price": 84.99,
+    "rp": "5,002,250",
+    "Noise": 32.9,
+    "Color": "White",
+    "Size": 240,
+    "Noise_Level": "32.9,",
+    "Rpm": "5002250,"
+  },
+  {
+    "Name": "NZXT Kraken Z63",
+    "Price": 230.38,
+    "rp": "5,001,800",
+    "Noise": "21,38",
+    "Color": "Black",
+    "Size": 280,
+    "Noise_Level": "21,38,",
+    "Rpm": "5001800,"
+  },
+  {
+    "Name": "Cooler Master MasterLiquid 240L Core ARGB",
+    "Price": 84.99,
+    "rp": "3,501,750",
+    "Noise": 27.2,
+    "Color": "White",
+    "Size": 240,
+    "Noise_Level": "27.2,",
+    "Rpm": "3501750,"
+  },
+  {
+    "Name": "ARCTIC Liquid Freezer II 280 A-RGB",
+    "Price": 92.39,
+    "rp": "2,001,900",
+    "Noise": 22.5,
+    "Color": "Black",
+    "Size": 280,
+    "Noise_Level": "22.5,",
+    "Rpm": "2001900,"
+  },
+  {
+    "Name": "Asus ROG Ryujin III",
+    "Price": 339.99,
+    "rp": "6,002,200",
+    "Noise": 36.45,
+    "Color": "White",
+    "Size": 360,
+    "Noise_Level": "36.45,",
+    "Rpm": "6002200,"
+  },
+  {
+    "Name": "Cooler Master MasterLiquid ML360L ARGB V2",
+    "Price": 114.99,
+    "rp": "6,501,800",
+    "Noise": "8,27",
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": "8,27,",
+    "Rpm": "6501800,"
+  },
+  {
+    "Name": "ARCTIC Liquid Freezer III A-RGB",
+    "Price": 90.08,
+    "rp": "2,002,000",
+    "Noise": "",
+    "Color": "White",
+    "Size": 240,
+    "Noise_Level": ",",
+    "Rpm": "2002000,"
+  },
+  {
+    "Name": "NZXT Kraken Z73 RGB",
+    "Price": 279.99,
+    "rp": "5,001,500",
+    "Noise": "22,33",
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": "22,33,",
+    "Rpm": "5001500,"
+  },
+  {
+    "Name": "ARCTIC Liquid Freezer III A-RGB",
+    "Price": 98.55,
+    "rp": "2,001,900",
+    "Noise": "",
+    "Color": "Black",
+    "Size": 280,
+    "Noise_Level": ",",
+    "Rpm": "2001900,"
+  },
+  {
+    "Name": "NZXT Kraken Elite 240 RGB",
+    "Price": 217.36,
+    "rp": "5,001,800",
+    "Noise": "17.9,30.6",
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "17.9,30.6,",
+    "Rpm": "5001800,"
+  },
+  {
+    "Name": "Thermalright Aqua Elite V3",
+    "Price": 44.99,
+    "rp": 1500,
+    "Noise": 25.6,
+    "Color": "White",
+    "Size": 240,
+    "Noise_Level": "25.6,",
+    "Rpm": "1500,"
+  },
+  {
+    "Name": "Thermalright Frozen Prism ARGB",
+    "Price": 50.9,
+    "rp": 1850,
+    "Noise": 27,
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "27,",
+    "Rpm": "1850,"
+  },
+  {
+    "Name": "ID-COOLING FROSTFLOW X",
+    "Price": 56.99,
+    "rp": "8,001,600",
+    "Noise": "16.8,32.6",
+    "Color": "Black / Silver",
+    "Size": 280,
+    "Noise_Level": "16.8,32.6,",
+    "Rpm": "8001600,"
+  },
+  {
+    "Name": "Deepcool LE720",
+    "Price": 123.24,
+    "rp": "5,002,250",
+    "Noise": 32.9,
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": "32.9,",
+    "Rpm": "5002250,"
+  },
+  {
+    "Name": "MSI MAG CORELIQUID P240",
+    "Price": 75,
+    "rp": "5,002,000",
+    "Noise": "14.3,34.3",
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "14.3,34.3,",
+    "Rpm": "5002000,"
+  },
+  {
+    "Name": "Thermalright Frozen Prism ARGB",
+    "Price": 48.9,
+    "rp": 1850,
+    "Noise": 27,
+    "Color": "White",
+    "Size": 240,
+    "Noise_Level": "27,",
+    "Rpm": "1850,"
+  },
+  {
+    "Name": "Asus TUF Gaming LC II ARGB",
+    "Price": 119.99,
+    "rp": "8,002,000",
+    "Noise": 29,
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": "29,",
+    "Rpm": "8002000,"
+  },
+  {
+    "Name": "Deepcool LE520",
+    "Price": 92.31,
+    "rp": "5,002,250",
+    "Noise": 32.9,
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "32.9,",
+    "Rpm": "5002250,"
+  },
+  {
+    "Name": "Corsair iCUE H100i ELITE LCD XT",
+    "Price": 209.99,
+    "rp": "5,502,100",
+    "Noise": "5,34.1",
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "5,34.1,",
+    "Rpm": "5502100,"
+  },
+  {
+    "Name": "Deepcool LS720 WH",
+    "Price": 166.9,
+    "rp": "5,002,250",
+    "Noise": 32.9,
+    "Color": "White",
+    "Size": 360,
+    "Noise_Level": "32.9,",
+    "Rpm": "5002250,"
+  },
+  {
+    "Name": "Corsair iCUE H115i ELITE CAPELLIX XT",
+    "Price": 181.87,
+    "rp": "5,001,700",
+    "Noise": "5,33.8",
+    "Color": "Black",
+    "Size": 280,
+    "Noise_Level": "5,33.8,",
+    "Rpm": "5001700,"
+  },
+  {
+    "Name": "Lian Li Galahad II Trinity",
+    "Price": 99,
+    "rp": 2450,
+    "Noise": 35.4,
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": "35.4,",
+    "Rpm": "2450,"
+  },
+  {
+    "Name": "Vetroo V240",
+    "Price": 64.98,
+    "rp": 1800,
+    "Noise": 30.8,
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "30.8,",
+    "Rpm": "1800,"
+  },
+  {
+    "Name": "Phanteks GLACIER ONE 360D30",
+    "Price": 179.99,
+    "rp": "2,502,000",
+    "Noise": 30.2,
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": "30.2,",
+    "Rpm": "2502000,"
+  },
+  {
+    "Name": "Thermalright Frozen Edge",
+    "Price": 55.9,
+    "rp": 2150,
+    "Noise": 28.1,
+    "Color": "White",
+    "Size": 360,
+    "Noise_Level": "28.1,",
+    "Rpm": "2150,"
+  },
+  {
+    "Name": "Corsair iCUE H100i ELITE CAPELLIX",
+    "Price": 223,
+    "rp": 2400,
+    "Noise": "10,37",
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "10,37,",
+    "Rpm": "2400,"
+  },
+  {
+    "Name": "NZXT Kraken Elite 280",
+    "Price": 179.99,
+    "rp": "5,001,500",
+    "Noise": "19.4,32.1",
+    "Color": "Black",
+    "Size": 280,
+    "Noise_Level": "19.4,32.1,",
+    "Rpm": "5001500,"
+  },
+  {
+    "Name": "Corsair iCUE LINK H150i RGB",
+    "Price": 199.99,
+    "rp": "4,802,400",
+    "Noise": "",
+    "Color": "White",
+    "Size": 360,
+    "Noise_Level": ",",
+    "Rpm": "4802400,"
+  },
+  {
+    "Name": "Thermalright Frozen Magic Scenic V2",
+    "Price": 49.9,
+    "rp": 2150,
+    "Noise": 28.1,
+    "Color": "White",
+    "Size": 360,
+    "Noise_Level": "28.1,",
+    "Rpm": "2150,"
+  },
+  {
+    "Name": "ARCTIC Liquid Freezer II 420 A-RGB",
+    "Price": 99.99,
+    "rp": "2,001,900",
+    "Noise": 22.5,
+    "Color": "Black",
+    "Size": 420,
+    "Noise_Level": "22.5,",
+    "Rpm": "2001900,"
+  },
+  {
+    "Name": "Corsair iCUE LINK H170i LCD",
+    "Price": 274.99,
+    "rp": "4,002,000",
+    "Noise": "",
+    "Color": "Black",
+    "Size": 420,
+    "Noise_Level": ",",
+    "Rpm": "4002000,"
+  },
+  {
+    "Name": "EK EK-Nucleus AIO CR240 Lux D-RGB",
+    "Price": 119.99,
+    "rp": "5,502,300",
+    "Noise": 36,
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "36,",
+    "Rpm": "5502300,"
+  },
+  {
+    "Name": "Lian Li GALAHAD AIO 360 RGB",
+    "Price": 219.99,
+    "rp": "8,001,900",
+    "Noise": "",
+    "Color": "White / Silver",
+    "Size": 360,
+    "Noise_Level": ",",
+    "Rpm": "8001900,"
+  },
+  {
+    "Name": "NZXT Kraken X73 RGB",
+    "Price": 279.99,
+    "rp": "5,001,500",
+    "Noise": "22,33",
+    "Color": "White / Black",
+    "Size": 360,
+    "Noise_Level": "22,33,",
+    "Rpm": "5001500,"
+  },
+  {
+    "Name": "Asus ROG STRIX LC II ARGB",
+    "Price": 154.72,
+    "rp": "8,002,500",
+    "Noise": 37.6,
+    "Color": "White / Black",
+    "Size": 360,
+    "Noise_Level": "37.6,",
+    "Rpm": "8002500,"
+  },
+  {
+    "Name": "Vetroo V360",
+    "Price": 89.99,
+    "rp": "8,001,800",
+    "Noise": "",
+    "Color": "White",
+    "Size": 360,
+    "Noise_Level": ",",
+    "Rpm": "8001800,"
+  },
+  {
+    "Name": "NZXT Kraken Elite 280 RGB",
+    "Price": 199.99,
+    "rp": "5,001,500",
+    "Noise": 34.48,
+    "Color": "Black",
+    "Size": 280,
+    "Noise_Level": "34.48,",
+    "Rpm": "5001500,"
+  },
+  {
+    "Name": "Lian Li Galahad II Trinity",
+    "Price": 119.99,
+    "rp": 2450,
+    "Noise": 35.4,
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "35.4,",
+    "Rpm": "2450,"
+  },
+  {
+    "Name": "Lian Li Galahad II Trinity",
+    "Price": 89.24,
+    "rp": 2450,
+    "Noise": 35.4,
+    "Color": "White",
+    "Size": 240,
+    "Noise_Level": "35.4,",
+    "Rpm": "2450,"
+  },
+  {
+    "Name": "ARCTIC Liquid Freezer III A-RGB",
+    "Price": 101.63,
+    "rp": "2,001,900",
+    "Noise": "",
+    "Color": "White",
+    "Size": 280,
+    "Noise_Level": ",",
+    "Rpm": "2001900,"
+  },
+  {
+    "Name": "Asus ProArt LC 420",
+    "Price": 269.99,
+    "rp": "8,002,000",
+    "Noise": 31.5,
+    "Color": "Black",
+    "Size": 420,
+    "Noise_Level": "31.5,",
+    "Rpm": "8002000,"
+  },
+  {
+    "Name": "Fractal Design Lumen S24 RGB V2",
+    "Price": 113.98,
+    "rp": "5,002,000",
+    "Noise": "10,33.2",
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "10,33.2,",
+    "Rpm": "5002000,"
+  },
+  {
+    "Name": "EK AIO Basic 360",
+    "Price": 109.64,
+    "rp": "5,502,200",
+    "Noise": 33.5,
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": "33.5,",
+    "Rpm": "5502200,"
+  },
+  {
+    "Name": "ID-COOLING DASHFLOW 240 BASIC",
+    "Price": 59.99,
+    "rp": "7,001,800",
+    "Noise": "15.2,35.2",
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "15.2,35.2,",
+    "Rpm": "7001800,"
+  },
+  {
+    "Name": "MSI MAG CORELIQUID C240",
+    "Price": 74.98,
+    "rp": "5,002,000",
+    "Noise": "14.3,34.3",
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "14.3,34.3,",
+    "Rpm": "5002000,"
+  },
+  {
+    "Name": "Asus ROG RYUO III 360 ARGB",
+    "Price": 213.56,
+    "rp": 2200,
+    "Noise": 36.45,
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": "36.45,",
+    "Rpm": "2200,"
+  },
+  {
+    "Name": "Phanteks GLACIER ONE 360D30",
+    "Price": 179.99,
+    "rp": "2,502,000",
+    "Noise": 30.2,
+    "Color": "White",
+    "Size": 360,
+    "Noise_Level": "30.2,",
+    "Rpm": "2502000,"
+  },
+  {
+    "Name": "Asus ROG Ryujin III",
+    "Price": 309.99,
+    "rp": "4,502,000",
+    "Noise": 29.7,
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": "29.7,",
+    "Rpm": "4502000,"
+  },
+  {
+    "Name": "Gigabyte AORUS WATERFORCE X",
+    "Price": 209.99,
+    "rp": "8,002,500",
+    "Noise": "7.9,37.6",
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": "7.9,37.6,",
+    "Rpm": "8002500,"
+  },
+  {
+    "Name": "Deepcool LS520",
+    "Price": 81.98,
+    "rp": "5,002,250",
+    "Noise": 32.9,
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "32.9,",
+    "Rpm": "5002250,"
+  },
+  {
+    "Name": "MSI MAG CORELIQUID C360",
+    "Price": 133.94,
+    "rp": "5,002,000",
+    "Noise": "14.3,34.3",
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": "14.3,34.3,",
+    "Rpm": "5002000,"
+  },
+  {
+    "Name": "NZXT Kraken X73",
+    "Price": 224.21,
+    "rp": "5,002,000",
+    "Noise": "21,36",
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": "21,36,",
+    "Rpm": "5002000,"
+  },
+  {
+    "Name": "Thermalright Aqua Elite V3",
+    "Price": 63.9,
+    "rp": 1500,
+    "Noise": 25.6,
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": "25.6,",
+    "Rpm": "1500,"
+  },
+  {
+    "Name": "NZXT Kraken X73 RGB",
+    "Price": 279.99,
+    "rp": "5,001,500",
+    "Noise": "22,33",
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": "22,33,",
+    "Rpm": "5001500,"
+  },
+  {
+    "Name": "Corsair iCUE H115i RGB ELITE",
+    "Price": 159.99,
+    "rp": "4,001,600",
+    "Noise": "19,35.8",
+    "Color": "Black",
+    "Size": 280,
+    "Noise_Level": "19,35.8,",
+    "Rpm": "4001600,"
+  },
+  {
+    "Name": "Corsair iCUE H100i RGB ELITE",
+    "Price": 149.99,
+    "rp": "4,001,850",
+    "Noise": "5,28.9",
+    "Color": "White",
+    "Size": 240,
+    "Noise_Level": "5,28.9,",
+    "Rpm": "4001850,"
+  },
+  {
+    "Name": "Corsair iCUE H150i RGB ELITE",
+    "Price": 189.99,
+    "rp": "4,001,850",
+    "Noise": "5,28.9",
+    "Color": "White",
+    "Size": 360,
+    "Noise_Level": "5,28.9,",
+    "Rpm": "4001850,"
+  },
+  {
+    "Name": "EK EK-Nucleus AIO CR360 Lux D-RGB",
+    "Price": 163.99,
+    "rp": "5,502,300",
+    "Noise": 36,
+    "Color": "White",
+    "Size": 360,
+    "Noise_Level": "36,",
+    "Rpm": "5502300,"
+  },
+  {
+    "Name": "ARCTIC Liquid Freezer II 360 Rev. 2",
+    "Price": 114.95,
+    "rp": "2,001,800",
+    "Noise": "",
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": ",",
+    "Rpm": "2001800,"
+  },
+  {
+    "Name": "Cooler Master MasterLiquid ML360 Illusion",
+    "Price": 227.18,
+    "rp": "6,501,800",
+    "Noise": "6,30",
+    "Color": "Black / Silver",
+    "Size": 360,
+    "Noise_Level": "6,30,",
+    "Rpm": "6501800,"
+  },
+  {
+    "Name": "be quiet! Silent Loop 2 360",
+    "Price": 234.59,
+    "rp": 2200,
+    "Noise": "17.7,39.8",
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": "17.7,39.8,",
+    "Rpm": "2200,"
+  },
+  {
+    "Name": "Lian Li Galahad II Trinity SL-INF",
+    "Price": 139.99,
+    "rp": 2100,
+    "Noise": 29,
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "29,",
+    "Rpm": "2100,"
+  },
+  {
+    "Name": "Thermalright Frozen Prism",
+    "Price": 46.9,
+    "rp": 1850,
+    "Noise": 27,
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "27,",
+    "Rpm": "1850,"
+  },
+  {
+    "Name": "EK AIO Basic 240",
+    "Price": 97.92,
+    "rp": "5,502,200",
+    "Noise": 33.5,
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "33.5,",
+    "Rpm": "5502200,"
+  },
+  {
+    "Name": "Vetroo V240",
+    "Price": 64.98,
+    "rp": 1800,
+    "Noise": 30.8,
+    "Color": "White / Gray",
+    "Size": 240,
+    "Noise_Level": "30.8,",
+    "Rpm": "1800,"
+  },
+  {
+    "Name": "Deepcool LE720",
+    "Price": 123.24,
+    "rp": "5,002,250",
+    "Noise": 32.9,
+    "Color": "White",
+    "Size": 360,
+    "Noise_Level": "32.9,",
+    "Rpm": "5002250,"
+  },
+  {
+    "Name": "Corsair iCUE LINK H100i RGB",
+    "Price": 159.99,
+    "rp": "4,802,400",
+    "Noise": "",
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": ",",
+    "Rpm": "4802400,"
+  },
+  {
+    "Name": "Thermaltake TH360 V2 ARGB Sync",
+    "Price": 109.99,
+    "rp": "5,002,000",
+    "Noise": 25.8,
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": "25.8,",
+    "Rpm": "5002000,"
+  },
+  {
+    "Name": "Asus ROG RYUO III 360 ARGB WHITE EDITION",
+    "Price": 229.77,
+    "rp": 2200,
+    "Noise": 36.45,
+    "Color": "White",
+    "Size": 360,
+    "Noise_Level": "36.45,",
+    "Rpm": "2200,"
+  },
+  {
+    "Name": "NZXT Kraken X53 RGB",
+    "Price": 149.99,
+    "rp": "5,001,500",
+    "Noise": "22,33",
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "22,33,",
+    "Rpm": "5001500,"
+  },
+  {
+    "Name": "NZXT Kraken Z53",
+    "Price": 239.99,
+    "rp": "5,002,000",
+    "Noise": "21,36",
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "21,36,",
+    "Rpm": "5002000,"
+  },
+  {
+    "Name": "NZXT Kraken 280 RGB",
+    "Price": 159.99,
+    "rp": "5,001,500",
+    "Noise": 34.48,
+    "Color": "Black",
+    "Size": 280,
+    "Noise_Level": "34.48,",
+    "Rpm": "5001500,"
+  },
+  {
+    "Name": "Thermalright Frozen Prism ARGB",
+    "Price": 55.9,
+    "rp": 1850,
+    "Noise": 27,
+    "Color": "White",
+    "Size": 360,
+    "Noise_Level": "27,",
+    "Rpm": "1850,"
+  },
+  {
+    "Name": "Thermaltake TH240 V2 ARGB Sync",
+    "Price": 79.98,
+    "rp": "5,002,000",
+    "Noise": 25.8,
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "25.8,",
+    "Rpm": "5002000,"
+  },
+  {
+    "Name": "Cooler Master MasterLiquid ML240L ARGB V2",
+    "Price": 99.99,
+    "rp": "6,501,800",
+    "Noise": "8,27",
+    "Color": "White",
+    "Size": 240,
+    "Noise_Level": "8,27,",
+    "Rpm": "6501800,"
+  },
+  {
+    "Name": "Corsair iCUE H150i ELITE CAPELLIX",
+    "Price": 378,
+    "rp": 2400,
+    "Noise": "10,37",
+    "Color": "White",
+    "Size": 360,
+    "Noise_Level": "10,37,",
+    "Rpm": "2400,"
+  },
+  {
+    "Name": "Asus ROG STRIX LC II ARGB",
+    "Price": 119.99,
+    "rp": "8,002,500",
+    "Noise": 37.6,
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "37.6,",
+    "Rpm": "8002500,"
+  },
+  {
+    "Name": "ID-COOLING PINKFLOW",
+    "Price": 99.99,
+    "rp": "9,002,000",
+    "Noise": "16.3,33.5",
+    "Color": "White / Pink",
+    "Size": 240,
+    "Noise_Level": "16.3,33.5,",
+    "Rpm": "9002000,"
+  },
+  {
+    "Name": "EK AIO Elite 360 D-RGB",
+    "Price": 119.99,
+    "rp": "5,502,200",
+    "Noise": 31.6,
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": "31.6,",
+    "Rpm": "5502200,"
+  },
+  {
+    "Name": "MSI MAG CORELIQUID 240R V2",
+    "Price": 97.99,
+    "rp": "5,002,000",
+    "Noise": "14.3,34.3",
+    "Color": "White",
+    "Size": 240,
+    "Noise_Level": "14.3,34.3,",
+    "Rpm": "5002000,"
+  },
+  {
+    "Name": "Corsair iCUE H100i RGB PRO XT",
+    "Price": 214.99,
+    "rp": 2400,
+    "Noise": 37,
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "37,",
+    "Rpm": "2400,"
+  },
+  {
+    "Name": "Corsair iCUE H170i ELITE CAPELLIX XT",
+    "Price": 239.99,
+    "rp": "5,001,700",
+    "Noise": "5,33.8",
+    "Color": "Black",
+    "Size": 420,
+    "Noise_Level": "5,33.8,",
+    "Rpm": "5001700,"
+  },
+  {
+    "Name": "MSI MAG CORELIQUID P360",
+    "Price": 99,
+    "rp": "5,002,000",
+    "Noise": "14.3,34.3",
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": "14.3,34.3,",
+    "Rpm": "5002000,"
+  },
+  {
+    "Name": "Lian Li Galahad II Trinity Performance",
+    "Price": 159.99,
+    "rp": "23,003,000",
+    "Noise": "32.1,39.9",
+    "Color": "White",
+    "Size": 360,
+    "Noise_Level": "32.1,39.9,",
+    "Rpm": "23003000,"
+  },
+  {
+    "Name": "Cooler Master MasterLiquid ML360L ARGB V2",
+    "Price": 119.99,
+    "rp": "6,501,800",
+    "Noise": "8,27",
+    "Color": "White",
+    "Size": 360,
+    "Noise_Level": "8,27,",
+    "Rpm": "6501800,"
+  },
+  {
+    "Name": "ID-COOLING DASHFLOW 240 BASIC",
+    "Price": 59.99,
+    "rp": "7,001,800",
+    "Noise": "15.2,35.2",
+    "Color": "White",
+    "Size": 240,
+    "Noise_Level": "15.2,35.2,",
+    "Rpm": "7001800,"
+  },
+  {
+    "Name": "Cooler Master MasterLiquid 240 Atmos",
+    "Price": 133.08,
+    "rp": "6,902,500",
+    "Noise": 27.2,
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "27.2,",
+    "Rpm": "6902500,"
+  },
+  {
+    "Name": "Asus TUF GAMING LC 240 ARGB",
+    "Price": 86.99,
+    "rp": "8,002,000",
+    "Noise": 29,
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "29,",
+    "Rpm": "8002000,"
+  },
+  {
+    "Name": "NZXT Kraken M22",
+    "Price": 84.99,
+    "rp": "5,002,000",
+    "Noise": "21,36",
+    "Color": "Black",
+    "Size": 120,
+    "Noise_Level": "21,36,",
+    "Rpm": "5002000,"
+  },
+  {
+    "Name": "Thermaltake TH360 V2 ARGB Sync",
+    "Price": 109.99,
+    "rp": "5,002,000",
+    "Noise": 25.8,
+    "Color": "White",
+    "Size": 360,
+    "Noise_Level": "25.8,",
+    "Rpm": "5002000,"
+  },
+  {
+    "Name": "Lian Li Galahad II LCD",
+    "Price": 224.99,
+    "rp": "3,002,450",
+    "Noise": 30,
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": "30,",
+    "Rpm": "3002450,"
+  },
+  {
+    "Name": "Asus ROG STRIX LC II",
+    "Price": 129.99,
+    "rp": "8,002,500",
+    "Noise": 37.6,
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": "37.6,",
+    "Rpm": "8002500,"
+  },
+  {
+    "Name": "Corsair iCUE LINK H100i RGB",
+    "Price": 169.99,
+    "rp": "4,802,400",
+    "Noise": "",
+    "Color": "White",
+    "Size": 240,
+    "Noise_Level": ",",
+    "Rpm": "4802400,"
+  },
+  {
+    "Name": "Thermalright Frozen Edge",
+    "Price": 46.59,
+    "rp": 2150,
+    "Noise": 28.1,
+    "Color": "White",
+    "Size": 240,
+    "Noise_Level": "28.1,",
+    "Rpm": "2150,"
+  },
+  {
+    "Name": "Enermax Liqmax III 360 ARGB",
+    "Price": 89.99,
+    "rp": "5,001,600",
+    "Noise": "14,27",
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": "14,27,",
+    "Rpm": "5001600,"
+  },
+  {
+    "Name": "Lian Li Galahad II LCD",
+    "Price": 234.99,
+    "rp": "3,002,450",
+    "Noise": 30,
+    "Color": "White",
+    "Size": 360,
+    "Noise_Level": "30,",
+    "Rpm": "3002450,"
+  },
+  {
+    "Name": "Gigabyte AORUS WATERFORCE 360",
+    "Price": 169.99,
+    "rp": "9,502,150",
+    "Noise": "16.9,31",
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": "16.9,31,",
+    "Rpm": "9502150,"
+  },
+  {
+    "Name": "Deepcool LS520 WH",
+    "Price": 89.99,
+    "rp": "5,002,250",
+    "Noise": 32.9,
+    "Color": "White",
+    "Size": 240,
+    "Noise_Level": "32.9,",
+    "Rpm": "5002250,"
+  },
+  {
+    "Name": "Thermaltake TH360 V2 Ultra ARGB Sync",
+    "Price": 149.99,
+    "rp": "5,001,800",
+    "Noise": 25.8,
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": "25.8,",
+    "Rpm": "5001800,"
+  },
+  {
+    "Name": "Corsair H100x",
+    "Price": 299.99,
+    "rp": 1700,
+    "Noise": 37,
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "37,",
+    "Rpm": "1700,"
+  },
+  {
+    "Name": "Cooler Master MasterLiquid 360 Atmos",
+    "Price": 152.09,
+    "rp": "6,902,500",
+    "Noise": 27.2,
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": "27.2,",
+    "Rpm": "6902500,"
+  },
+  {
+    "Name": "Lian Li Galahad II Trinity SL-INF",
+    "Price": 138.82,
+    "rp": 2100,
+    "Noise": 29,
+    "Color": "White",
+    "Size": 240,
+    "Noise_Level": "29,",
+    "Rpm": "2100,"
+  },
+  {
+    "Name": "Corsair iCUE H100i ELITE CAPELLIX",
+    "Price": 149.99,
+    "rp": 2400,
+    "Noise": "10,37",
+    "Color": "White",
+    "Size": 240,
+    "Noise_Level": "10,37,",
+    "Rpm": "2400,"
+  },
+  {
+    "Name": "EK AIO 280 D-RGB",
+    "Price": 113.59,
+    "rp": "5,002,000",
+    "Noise": 36.4,
+    "Color": "Black / Translucent White",
+    "Size": 280,
+    "Noise_Level": "36.4,",
+    "Rpm": "5002000,"
+  },
+  {
+    "Name": "Cooler Master MasterLiquid ML240L V2 RGB",
+    "Price": 129.25,
+    "rp": "6,501,800",
+    "Noise": "8,27",
+    "Color": "White / Black",
+    "Size": 240,
+    "Noise_Level": "8,27,",
+    "Rpm": "6501800,"
+  },
+  {
+    "Name": "Corsair iCUE LINK H170i RGB",
+    "Price": 214.99,
+    "rp": "4,002,000",
+    "Noise": "",
+    "Color": "Black",
+    "Size": 420,
+    "Noise_Level": ",",
+    "Rpm": "4002000,"
+  },
+  {
+    "Name": "ID-COOLING AURAFLOW X",
+    "Price": 59.99,
+    "rp": "7,001,800",
+    "Noise": "18,35.2",
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "18,35.2,",
+    "Rpm": "7001800,"
+  },
+  {
+    "Name": "Deepcool LS720S ZERO DARK",
+    "Price": 99.99,
+    "rp": "5,002,250",
+    "Noise": "28.2,32.9",
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": "28.2,32.9,",
+    "Rpm": "5002250,"
+  },
+  {
+    "Name": "Thermaltake TH360 V2 Ultra ARGB Sync",
+    "Price": 156.99,
+    "rp": "5,001,800",
+    "Noise": 25.8,
+    "Color": "White",
+    "Size": 360,
+    "Noise_Level": "25.8,",
+    "Rpm": "5001800,"
+  },
+  {
+    "Name": "Vetroo V360",
+    "Price": 89.99,
+    "rp": "8,001,800",
+    "Noise": "",
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": ",",
+    "Rpm": "8001800,"
+  },
+  {
+    "Name": "MSI MAG CORELIQUID 360R V2",
+    "Price": 140.63,
+    "rp": "5,002,000",
+    "Noise": "14.3,34.3",
+    "Color": "White",
+    "Size": 360,
+    "Noise_Level": "14.3,34.3,",
+    "Rpm": "5002000,"
+  },
+  {
+    "Name": "Gigabyte AORUS WATERFORCE X II 360 ICE",
+    "Price": 289.99,
+    "rp": "8,002,400",
+    "Noise": "12,37.5",
+    "Color": "White",
+    "Size": 360,
+    "Noise_Level": "12,37.5,",
+    "Rpm": "8002400,"
+  },
+  {
+    "Name": "Thermaltake TH420 V2 Ultra ARGB Sync",
+    "Price": 189.99,
+    "rp": "5,002,000",
+    "Noise": 34.7,
+    "Color": "White",
+    "Size": 420,
+    "Noise_Level": "34.7,",
+    "Rpm": "5002000,"
+  },
+  {
+    "Name": "NZXT Kraken X63 RGB",
+    "Price": 272.89,
+    "rp": "5,001,500",
+    "Noise": "22,33",
+    "Color": "White / Black",
+    "Size": 280,
+    "Noise_Level": "22,33,",
+    "Rpm": "5001500,"
+  },
+  {
+    "Name": "Lian Li GALAHAD AIO 240 RGB UNI FAN SL120 EDITION",
+    "Price": 235.18,
+    "rp": "8,001,900",
+    "Noise": 32,
+    "Color": "White / Silver",
+    "Size": 240,
+    "Noise_Level": "32,",
+    "Rpm": "8001900,"
+  },
+  {
+    "Name": "MSI MAG CORELIQUID M360",
+    "Price": 136.93,
+    "rp": "5,002,000",
+    "Noise": "14.3,34.3",
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": "14.3,34.3,",
+    "Rpm": "5002000,"
+  },
+  {
+    "Name": "Cooler Master MasterLiquid ML240 Illusion",
+    "Price": 140.47,
+    "rp": "6,501,800",
+    "Noise": "6,30",
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "6,30,",
+    "Rpm": "6501800,"
+  },
+  {
+    "Name": "Lian Li GALAHAD AIO 360 RGB",
+    "Price": 209,
+    "rp": "8,001,900",
+    "Noise": "",
+    "Color": "Black / Silver",
+    "Size": 360,
+    "Noise_Level": ",",
+    "Rpm": "8001900,"
+  },
+  {
+    "Name": "Fractal Design Lumen S36 RGB V2",
+    "Price": 134.98,
+    "rp": "5,002,000",
+    "Noise": "10,33.2",
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": "10,33.2,",
+    "Rpm": "5002000,"
+  },
+  {
+    "Name": "Phanteks Glacier One 360 T30 Gen2",
+    "Price": 376.89,
+    "rp": "12,003,000",
+    "Noise": "11.1,39.7",
+    "Color": "Black / Gray",
+    "Size": 360,
+    "Noise_Level": "11.1,39.7,",
+    "Rpm": "12003000,"
+  },
+  {
+    "Name": "Corsair iCUE LINK H115i RGB",
+    "Price": 174.99,
+    "rp": "4,002,000",
+    "Noise": "",
+    "Color": "Black",
+    "Size": 280,
+    "Noise_Level": ",",
+    "Rpm": "4002000,"
+  },
+  {
+    "Name": "Phanteks GLACIER ONE 420D30",
+    "Price": 189.99,
+    "rp": "2,501,800",
+    "Noise": 29.5,
+    "Color": "Black",
+    "Size": 420,
+    "Noise_Level": "29.5,",
+    "Rpm": "2501800,"
+  },
+  {
+    "Name": "Lian Li Galahad II LCD",
+    "Price": 199.99,
+    "rp": "3,001,550",
+    "Noise": 26.7,
+    "Color": "White",
+    "Size": 280,
+    "Noise_Level": "26.7,",
+    "Rpm": "3001550,"
+  },
+  {
+    "Name": "be quiet! Silent Loop 2 240",
+    "Price": 195.48,
+    "rp": 2200,
+    "Noise": "16.8,38.3",
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "16.8,38.3,",
+    "Rpm": "2200,"
+  },
+  {
+    "Name": "ID-COOLING DASHFLOW BASIC",
+    "Price": 79.98,
+    "rp": "7,001,800",
+    "Noise": "15.2,35.2",
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": "15.2,35.2,",
+    "Rpm": "7001800,"
+  },
+  {
+    "Name": "Corsair iCUE LINK H100i LCD",
+    "Price": 229.99,
+    "rp": "4,802,400",
+    "Noise": "",
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": ",",
+    "Rpm": "4802400,"
+  },
+  {
+    "Name": "Asus ROG STRIX LC II",
+    "Price": 109.99,
+    "rp": "8,002,500",
+    "Noise": 37.6,
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "37.6,",
+    "Rpm": "8002500,"
+  },
+  {
+    "Name": "Corsair iCUE H100i ELITE LCD",
+    "Price": 227.6,
+    "rp": "4,502,000",
+    "Noise": "10,30.4",
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "10,30.4,",
+    "Rpm": "4502000,"
+  },
+  {
+    "Name": "EK EK-Nucleus AIO CR240 Lux D-RGB",
+    "Price": 127.99,
+    "rp": "5,502,300",
+    "Noise": 36,
+    "Color": "White",
+    "Size": 240,
+    "Noise_Level": "36,",
+    "Rpm": "5502300,"
+  },
+  {
+    "Name": "ID-COOLING DASHFLOW BASIC",
+    "Price": 79.98,
+    "rp": "7,001,800",
+    "Noise": "15.2,35.2",
+    "Color": "White",
+    "Size": 360,
+    "Noise_Level": "15.2,35.2,",
+    "Rpm": "7001800,"
+  },
+  {
+    "Name": "ID-COOLING SL360",
+    "Price": 169.99,
+    "rp": "5,002,000",
+    "Noise": 29.9,
+    "Color": "White",
+    "Size": 360,
+    "Noise_Level": "29.9,",
+    "Rpm": "5002000,"
+  },
+  {
+    "Name": "Thermalright Frozen Magic Scenic V2",
+    "Price": 42.19,
+    "rp": 2150,
+    "Noise": 28.1,
+    "Color": "White",
+    "Size": 240,
+    "Noise_Level": "28.1,",
+    "Rpm": "2150,"
+  },
+  {
+    "Name": "Fractal Design Lumen S24 V2",
+    "Price": 143.65,
+    "rp": "5,002,000",
+    "Noise": "10,33.2",
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "10,33.2,",
+    "Rpm": "5002000,"
+  },
+  {
+    "Name": "MSI MAG CORELIQUID M240",
+    "Price": 102.79,
+    "rp": "5,002,000",
+    "Noise": "14.3,34.3",
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "14.3,34.3,",
+    "Rpm": "5002000,"
+  },
+  {
+    "Name": "Fractal Design Lumen S36 V2",
+    "Price": 171.11,
+    "rp": "5,002,000",
+    "Noise": "10,33.2",
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": "10,33.2,",
+    "Rpm": "5002000,"
+  },
+  {
+    "Name": "Corsair H115i RGB PLATINUM",
+    "Price": 289,
+    "rp": 2000,
+    "Noise": 37,
+    "Color": "Black / Silver",
+    "Size": 280,
+    "Noise_Level": "37,",
+    "Rpm": "2000,"
+  },
+  {
+    "Name": "Thermaltake TH420 V2 Ultra ARGB Sync",
+    "Price": 151.99,
+    "rp": "5,002,000",
+    "Noise": 34.7,
+    "Color": "Black",
+    "Size": 420,
+    "Noise_Level": "34.7,",
+    "Rpm": "5002000,"
+  },
+  {
+    "Name": "Lian Li Galahad II LCD",
+    "Price": 201.99,
+    "rp": "3,001,550",
+    "Noise": 26.7,
+    "Color": "Black",
+    "Size": 280,
+    "Noise_Level": "26.7,",
+    "Rpm": "3001550,"
+  },
+  {
+    "Name": "Asus ROG STRIX LC II 280 ARGB",
+    "Price": 119.99,
+    "rp": "7,002,100",
+    "Noise": 35.7,
+    "Color": "Black",
+    "Size": 280,
+    "Noise_Level": "35.7,",
+    "Rpm": "7002100,"
+  },
+  {
+    "Name": "Gigabyte AORUS WATERFORCE X II 360",
+    "Price": 289.99,
+    "rp": "8,002,400",
+    "Noise": "12,37.5",
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": "12,37.5,",
+    "Rpm": "8002400,"
+  },
+  {
+    "Name": "NZXT Kraken X63 RGB",
+    "Price": 199.99,
+    "rp": "5,001,500",
+    "Noise": "22,33",
+    "Color": "Black",
+    "Size": 280,
+    "Noise_Level": "22,33,",
+    "Rpm": "5001500,"
+  },
+  {
+    "Name": "Corsair iCUE H115i ELITE CAPELLIX",
+    "Price": 215,
+    "rp": 2000,
+    "Noise": "10,36",
+    "Color": "Black",
+    "Size": 280,
+    "Noise_Level": "10,36,",
+    "Rpm": "2000,"
+  },
+  {
+    "Name": "Phanteks GLACIER ONE 420D30",
+    "Price": 184.99,
+    "rp": "2,501,800",
+    "Noise": 29.5,
+    "Color": "White",
+    "Size": 420,
+    "Noise_Level": "29.5,",
+    "Rpm": "2501800,"
+  },
+  {
+    "Name": "NZXT Kraken X53 RGB",
+    "Price": 174.99,
+    "rp": "5,001,500",
+    "Noise": "22,33",
+    "Color": "White / Black",
+    "Size": 240,
+    "Noise_Level": "22,33,",
+    "Rpm": "5001500,"
+  },
+  {
+    "Name": "Enermax LIQMAX III 360 ARGB",
+    "Price": 99.99,
+    "rp": "5,001,600",
+    "Noise": "14,27",
+    "Color": "White / Black",
+    "Size": 360,
+    "Noise_Level": "14,27,",
+    "Rpm": "5001600,"
+  },
+  {
+    "Name": "Asus ROG RYUJIN II",
+    "Price": 192.49,
+    "rp": "4,502,000",
+    "Noise": 29.7,
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "29.7,",
+    "Rpm": "4502000,"
+  },
+  {
+    "Name": "Thermaltake TH120 V2 ARGB Sync",
+    "Price": 69.98,
+    "rp": "5,002,000",
+    "Noise": 25.8,
+    "Color": "Black",
+    "Size": 120,
+    "Noise_Level": "25.8,",
+    "Rpm": "5002000,"
+  },
+  {
+    "Name": "Asus TUF Gaming LC II ARGB",
+    "Price": 94.99,
+    "rp": "8,002,000",
+    "Noise": 29,
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "29,",
+    "Rpm": "8002000,"
+  },
+  {
+    "Name": "Asus ROG Ryujin III",
+    "Price": 239.99,
+    "rp": "6,002,200",
+    "Noise": 36.45,
+    "Color": "White",
+    "Size": 240,
+    "Noise_Level": "36.45,",
+    "Rpm": "6002200,"
+  },
+  {
+    "Name": "Thermaltake TH280 V2 ARGB Sync",
+    "Price": 99.99,
+    "rp": "5,001,800",
+    "Noise": 34.7,
+    "Color": "Black",
+    "Size": 280,
+    "Noise_Level": "34.7,",
+    "Rpm": "5001800,"
+  },
+  {
+    "Name": "Asus ROG RYUO III 240 ARGB",
+    "Price": 148.63,
+    "rp": 2200,
+    "Noise": 36.45,
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "36.45,",
+    "Rpm": "2200,"
+  },
+  {
+    "Name": "Asus ROG STRIX LC II ARGB",
+    "Price": 149.99,
+    "rp": "8,002,500",
+    "Noise": 37.6,
+    "Color": "White / Black",
+    "Size": 240,
+    "Noise_Level": "37.6,",
+    "Rpm": "8002500,"
+  },
+  {
+    "Name": "Deepcool LS520S ZERO DARK",
+    "Price": 79.99,
+    "rp": "5,002,250",
+    "Noise": "28.2,32.9",
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "28.2,32.9,",
+    "Rpm": "5002250,"
+  },
+  {
+    "Name": "Thermaltake TH240 V2 ARGB Sync",
+    "Price": 79.98,
+    "rp": "5,002,000",
+    "Noise": 25.8,
+    "Color": "White",
+    "Size": 240,
+    "Noise_Level": "25.8,",
+    "Rpm": "5002000,"
+  },
+  {
+    "Name": "Enermax LIQMAX III 240 ARGB",
+    "Price": 73.98,
+    "rp": "5,001,600",
+    "Noise": "14,27",
+    "Color": "White / Black",
+    "Size": 240,
+    "Noise_Level": "14,27,",
+    "Rpm": "5001600,"
+  },
+  {
+    "Name": "Gigabyte AORUS WATERFORCE X",
+    "Price": 186.32,
+    "rp": "8,002,500",
+    "Noise": "7.9,37.6",
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "7.9,37.6,",
+    "Rpm": "8002500,"
+  },
+  {
+    "Name": "Gigabyte AORUS WATERFORCE 240",
+    "Price": 176.93,
+    "rp": "9,502,150",
+    "Noise": "16.9,31",
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "16.9,31,",
+    "Rpm": "9502150,"
+  },
+  {
+    "Name": "Asus ROG Ryujin III ARGB",
+    "Price": 229.99,
+    "rp": "6,002,200",
+    "Noise": 36.45,
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "36.45,",
+    "Rpm": "6002200,"
+  },
+  {
+    "Name": "Antec VORTEX 360",
+    "Price": 142.6,
+    "rp": "6,002,000",
+    "Noise": 31.24,
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": "31.24,",
+    "Rpm": "6002000,"
+  },
+  {
+    "Name": "Lian Li Galahad AIO360 (2022)",
+    "Price": 239,
+    "rp": "8,001,900",
+    "Noise": 32,
+    "Color": "Black / Silver",
+    "Size": 360,
+    "Noise_Level": "32,",
+    "Rpm": "8001900,"
+  },
+  {
+    "Name": "Asus ROG Ryujin III",
+    "Price": 209.99,
+    "rp": "4,502,000",
+    "Noise": 29.7,
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "29.7,",
+    "Rpm": "4502000,"
+  },
+  {
+    "Name": "Fractal Design Lumen S28 RGB V2",
+    "Price": 192.07,
+    "rp": "5,001,700",
+    "Noise": "10,35.5",
+    "Color": "Black",
+    "Size": 280,
+    "Noise_Level": "10,35.5,",
+    "Rpm": "5001700,"
+  },
+  {
+    "Name": "ENDORFY Navis F360",
+    "Price": 147.1,
+    "rp": "2,501,800",
+    "Noise": "",
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": ",",
+    "Rpm": "2501800,"
+  },
+  {
+    "Name": "be quiet! Silent Loop 2 280",
+    "Price": 167.24,
+    "rp": 1600,
+    "Noise": "16.5,36.1",
+    "Color": "Black",
+    "Size": 280,
+    "Noise_Level": "16.5,36.1,",
+    "Rpm": "1600,"
+  },
+  {
+    "Name": "Asus ROG RYUJIN 360",
+    "Price": 277.97,
+    "rp": "4,502,000",
+    "Noise": 29.7,
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": "29.7,",
+    "Rpm": "4502000,"
+  },
+  {
+    "Name": "Cooler Master MasterLiquid ML240 Illusion",
+    "Price": 102.05,
+    "rp": "6,501,800",
+    "Noise": "6,30",
+    "Color": "White",
+    "Size": 240,
+    "Noise_Level": "6,30,",
+    "Rpm": "6501800,"
+  },
+  {
+    "Name": "Enermax AQUAFUSION ADV 360",
+    "Price": 119.99,
+    "rp": "5,002,000",
+    "Noise": "15,32.6",
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": "15,32.6,",
+    "Rpm": "5002000,"
+  },
+  {
+    "Name": "Asus TUF Gaming LC 120 RGB",
+    "Price": 61.98,
+    "rp": "8,002,000",
+    "Noise": "",
+    "Color": "Black",
+    "Size": 120,
+    "Noise_Level": ",",
+    "Rpm": "8002000,"
+  },
+  {
+    "Name": "Lian Li Galahad AIO240 (2022)",
+    "Price": 174.02,
+    "rp": "8,001,900",
+    "Noise": 32,
+    "Color": "Black / Silver",
+    "Size": 240,
+    "Noise_Level": "32,",
+    "Rpm": "8001900,"
+  },
+  {
+    "Name": "Asus ROG STRIX LC 360 RGB White Edition",
+    "Price": 329.99,
+    "rp": "8,002,500",
+    "Noise": 37.6,
+    "Color": "White",
+    "Size": 360,
+    "Noise_Level": "37.6,",
+    "Rpm": "8002500,"
+  },
+  {
+    "Name": "Thermaltake TOUGHLIQUID Ultra",
+    "Price": 199.99,
+    "rp": "5,002,500",
+    "Noise": 28.1,
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": "28.1,",
+    "Rpm": "5002500,"
+  },
+  {
+    "Name": "Gelid Solutions Liquid 120",
+    "Price": 64.98,
+    "rp": "7,501,800",
+    "Noise": 29.6,
+    "Color": "Black",
+    "Size": 120,
+    "Noise_Level": "29.6,",
+    "Rpm": "7501800,"
+  },
+  {
+    "Name": "ID-COOLING ZOOMFLOW 360 XT",
+    "Price": 99.99,
+    "rp": "5,001,500",
+    "Noise": "13.8,30.5",
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": "13.8,30.5,",
+    "Rpm": "5001500,"
+  },
+  {
+    "Name": "Thermaltake TH360 ARGB Sync",
+    "Price": 129.99,
+    "rp": 1500,
+    "Noise": 28.2,
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": "28.2,",
+    "Rpm": "1500,"
+  },
+  {
+    "Name": "Deepcool MYSTIQUE",
+    "Price": 149.99,
+    "rp": "5,002,150",
+    "Noise": 36.49,
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "36.49,",
+    "Rpm": "5002150,"
+  },
+  {
+    "Name": "Silverstone IceMyst 360",
+    "Price": 136.99,
+    "rp": "5,002,200",
+    "Noise": "12.1,33.1",
+    "Color": "Silver / Black",
+    "Size": 360,
+    "Noise_Level": "12.1,33.1,",
+    "Rpm": "5002200,"
+  },
+  {
+    "Name": "ID-COOLING PINKFLOW 240 Diamond",
+    "Price": 99.99,
+    "rp": "9,002,000",
+    "Noise": "16.3,33.5",
+    "Color": "Pink",
+    "Size": 240,
+    "Noise_Level": "16.3,33.5,",
+    "Rpm": "9002000,"
+  },
+  {
+    "Name": "Thermaltake TH240 V2 Ultra ARGB Sync",
+    "Price": 134.99,
+    "rp": "5,001,800",
+    "Noise": 25.8,
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "25.8,",
+    "Rpm": "5001800,"
+  },
+  {
+    "Name": "Thermaltake TH120 V2 ARGB Sync",
+    "Price": 69.98,
+    "rp": "5,002,000",
+    "Noise": 25.8,
+    "Color": "White",
+    "Size": 120,
+    "Noise_Level": "25.8,",
+    "Rpm": "5002000,"
+  },
+  {
+    "Name": "Lian Li Galahad AIO360 (2022)",
+    "Price": 249.95,
+    "rp": "8,001,900",
+    "Noise": 32,
+    "Color": "White / Silver",
+    "Size": 360,
+    "Noise_Level": "32,",
+    "Rpm": "8001900,"
+  },
+  {
+    "Name": "ID-COOLING SL240",
+    "Price": 124.99,
+    "rp": "5,002,000",
+    "Noise": 29.9,
+    "Color": "White",
+    "Size": 240,
+    "Noise_Level": "29.9,",
+    "Rpm": "5002000,"
+  },
+  {
+    "Name": "Enermax Liqmax III 240 ARGB",
+    "Price": 79.99,
+    "rp": "5,001,600",
+    "Noise": "14,27",
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "14,27,",
+    "Rpm": "5001600,"
+  },
+  {
+    "Name": "Thermaltake TH420 V2 ARGB Sync",
+    "Price": 119.99,
+    "rp": "5,001,800",
+    "Noise": 34.7,
+    "Color": "Black",
+    "Size": 420,
+    "Noise_Level": "34.7,",
+    "Rpm": "5001800,"
+  },
+  {
+    "Name": "Deepcool GAMMAXX L240 A-RGB",
+    "Price": 319.81,
+    "rp": "5,001,800",
+    "Noise": 30,
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "30,",
+    "Rpm": "5001800,"
+  },
+  {
+    "Name": "Thermaltake TH280 V2 ARGB Sync",
+    "Price": 109.99,
+    "rp": "5,001,800",
+    "Noise": 34.7,
+    "Color": "White",
+    "Size": 280,
+    "Noise_Level": "34.7,",
+    "Rpm": "5001800,"
+  },
+  {
+    "Name": "Gigabyte AORUS WATERFORCE 280",
+    "Price": 193.35,
+    "rp": "9,502,150",
+    "Noise": "17.1,36.5",
+    "Color": "Black",
+    "Size": 280,
+    "Noise_Level": "17.1,36.5,",
+    "Rpm": "9502150,"
+  },
+  {
+    "Name": "Silverstone VIDA 240 SLIM",
+    "Price": 126.99,
+    "rp": "3,001,800",
+    "Noise": "15.9,33.9",
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "15.9,33.9,",
+    "Rpm": "3001800,"
+  },
+  {
+    "Name": "EK AIO 120 D-RGB",
+    "Price": 67.41,
+    "rp": "4,502,600",
+    "Noise": 36.4,
+    "Color": "Black",
+    "Size": 120,
+    "Noise_Level": "36.4,",
+    "Rpm": "4502600,"
+  },
+  {
+    "Name": "Thermalright Aqua Elite V3",
+    "Price": 36.9,
+    "rp": 1500,
+    "Noise": 25.6,
+    "Color": "Black",
+    "Size": 120,
+    "Noise_Level": "25.6,",
+    "Rpm": "1500,"
+  },
+  {
+    "Name": "Thermaltake TOUGHLIQUID Ultra",
+    "Price": 214.99,
+    "rp": "5,002,000",
+    "Noise": 33.2,
+    "Color": "Black",
+    "Size": 420,
+    "Noise_Level": "33.2,",
+    "Rpm": "5002000,"
+  },
+  {
+    "Name": "Thermaltake Floe DX RGB TT Premium Edition B",
+    "Price": 278.62,
+    "rp": "5,001,500",
+    "Noise": "19,23.9",
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": "19,23.9,",
+    "Rpm": "5001500,"
+  },
+  {
+    "Name": "Thermaltake TH120 ARGB Sync",
+    "Price": 59.99,
+    "rp": 1500,
+    "Noise": 28.2,
+    "Color": "Black",
+    "Size": 120,
+    "Noise_Level": "28.2,",
+    "Rpm": "1500,"
+  },
+  {
+    "Name": "Thermaltake TH360 ARGB Sync",
+    "Price": 102.99,
+    "rp": 1500,
+    "Noise": 28.2,
+    "Color": "White",
+    "Size": 360,
+    "Noise_Level": "28.2,",
+    "Rpm": "1500,"
+  },
+  {
+    "Name": "Fractal Design Lumen S28 V2",
+    "Price": 129.51,
+    "rp": "5,001,700",
+    "Noise": "10,35.5",
+    "Color": "Black",
+    "Size": 280,
+    "Noise_Level": "10,35.5,",
+    "Rpm": "5001700,"
+  },
+  {
+    "Name": "Alphacool Eisbaer Aurora 420",
+    "Price": 189.95,
+    "rp": "6,001,500",
+    "Noise": "",
+    "Color": "Black",
+    "Size": 420,
+    "Noise_Level": ",",
+    "Rpm": "6001500,"
+  },
+  {
+    "Name": "Gelid Solutions Liquid 360",
+    "Price": 109.99,
+    "rp": "7,501,800",
+    "Noise": 29.6,
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": "29.6,",
+    "Rpm": "7501800,"
+  },
+  {
+    "Name": "ID-COOLING SL240",
+    "Price": 124.99,
+    "rp": "5,002,000",
+    "Noise": 29.9,
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "29.9,",
+    "Rpm": "5002000,"
+  },
+  {
+    "Name": "Asus ROG RYUO III 240 ARGB WHITE EDITION",
+    "Price": 187.8,
+    "rp": 2200,
+    "Noise": 36.45,
+    "Color": "White",
+    "Size": 240,
+    "Noise_Level": "36.45,",
+    "Rpm": "2200,"
+  },
+  {
+    "Name": "Cooler Master MasterLiquid 120L Core",
+    "Price": 64.98,
+    "rp": "6,501,750",
+    "Noise": 27.2,
+    "Color": "Black",
+    "Size": 120,
+    "Noise_Level": "27.2,",
+    "Rpm": "6501750,"
+  },
+  {
+    "Name": "Gigabyte AORUS WATERFORCE X",
+    "Price": 179.99,
+    "rp": 2300,
+    "Noise": "8.06,44.4",
+    "Color": "Black",
+    "Size": 280,
+    "Noise_Level": "8.06,44.4,",
+    "Rpm": "2300,"
+  },
+  {
+    "Name": "Thermaltake TH420 ARGB Sync",
+    "Price": 185.23,
+    "rp": "5,001,800",
+    "Noise": 34.7,
+    "Color": "Black",
+    "Size": 420,
+    "Noise_Level": "34.7,",
+    "Rpm": "5001800,"
+  },
+  {
+    "Name": "Enermax Liqmax III 120 HF",
+    "Price": 59.99,
+    "rp": "5,002,000",
+    "Noise": "14,32",
+    "Color": "Black",
+    "Size": 120,
+    "Noise_Level": "14,32,",
+    "Rpm": "5002000,"
+  },
+  {
+    "Name": "Thermaltake TH240 ARGB Sync",
+    "Price": 118.4,
+    "rp": 1500,
+    "Noise": 28.2,
+    "Color": "White",
+    "Size": 240,
+    "Noise_Level": "28.2,",
+    "Rpm": "1500,"
+  },
+  {
+    "Name": "Cooler Master MasterLiquid 240L Core",
+    "Price": 143.34,
+    "rp": "6,501,750",
+    "Noise": 27.2,
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "27.2,",
+    "Rpm": "6501750,"
+  },
+  {
+    "Name": "Antec VORTEX 240",
+    "Price": 99.98,
+    "rp": "6,002,000",
+    "Noise": 31.24,
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "31.24,",
+    "Rpm": "6002000,"
+  },
+  {
+    "Name": "MSI MAG CORELIQUID R",
+    "Price": 140.76,
+    "rp": "5,001,800",
+    "Noise": "14.8,33.28",
+    "Color": "Black",
+    "Size": 280,
+    "Noise_Level": "14.8,33.28,",
+    "Rpm": "5001800,"
+  },
+  {
+    "Name": "Enermax AQUAFUSION ADV 240",
+    "Price": 74.98,
+    "rp": "5,002,000",
+    "Noise": "15,32.6",
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "15,32.6,",
+    "Rpm": "5002000,"
+  },
+  {
+    "Name": "TEAMGROUP SIREN GD360E",
+    "Price": 104.99,
+    "rp": "6,002,200",
+    "Noise": "14.3,35.6",
+    "Color": "White",
+    "Size": 360,
+    "Noise_Level": "14.3,35.6,",
+    "Rpm": "6002200,"
+  },
+  {
+    "Name": "Enermax AQUAFUSION ADV",
+    "Price": 99.99,
+    "rp": "5,002,000",
+    "Noise": "17,32.6",
+    "Color": "White",
+    "Size": 240,
+    "Noise_Level": "17,32.6,",
+    "Rpm": "5002000,"
+  },
+  {
+    "Name": "Thermaltake TOUGHLIQUID Ultra RGB",
+    "Price": 279.99,
+    "rp": "5,002,000",
+    "Noise": 30.7,
+    "Color": "Black",
+    "Size": 420,
+    "Noise_Level": "30.7,",
+    "Rpm": "5002000,"
+  },
+  {
+    "Name": "Enermax LIQMAXFLO SR 120",
+    "Price": 92.87,
+    "rp": "5,001,800",
+    "Noise": 23.46,
+    "Color": "Black",
+    "Size": 120,
+    "Noise_Level": "23.46,",
+    "Rpm": "5001800,"
+  },
+  {
+    "Name": "Thermaltake TH120 ARGB Sync",
+    "Price": 73.4,
+    "rp": 1500,
+    "Noise": 28.2,
+    "Color": "White",
+    "Size": 120,
+    "Noise_Level": "28.2,",
+    "Rpm": "1500,"
+  },
+  {
+    "Name": "Deepcool LS320",
+    "Price": 89.99,
+    "rp": "5,002,250",
+    "Noise": 32.9,
+    "Color": "Black",
+    "Size": 120,
+    "Noise_Level": "32.9,",
+    "Rpm": "5002250,"
+  },
+  {
+    "Name": "ENDORFY Navis F240",
+    "Price": 121.55,
+    "rp": "2,501,800",
+    "Noise": "",
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": ",",
+    "Rpm": "2501800,"
+  },
+  {
+    "Name": "Yeston zeaginal Sakura",
+    "Price": 179,
+    "rp": "9,001,800",
+    "Noise": 30,
+    "Color": "White",
+    "Size": 360,
+    "Noise_Level": "30,",
+    "Rpm": "9001800,"
+  },
+  {
+    "Name": "Thermaltake TH420 V2 ARGB Sync",
+    "Price": 128.99,
+    "rp": "5,001,800",
+    "Noise": 34.7,
+    "Color": "White",
+    "Size": 420,
+    "Noise_Level": "34.7,",
+    "Rpm": "5001800,"
+  },
+  {
+    "Name": "Thermaltake TH280 V2 Ultra ARGB Sync",
+    "Price": 152.09,
+    "rp": "5,002,000",
+    "Noise": 34.7,
+    "Color": "Black",
+    "Size": 280,
+    "Noise_Level": "34.7,",
+    "Rpm": "5002000,"
+  },
+  {
+    "Name": "Enermax AQUAFUSION ADV",
+    "Price": 109.99,
+    "rp": "5,002,000",
+    "Noise": "15,32.6",
+    "Color": "White",
+    "Size": 360,
+    "Noise_Level": "15,32.6,",
+    "Rpm": "5002000,"
+  },
+  {
+    "Name": "Deepcool LS320 WH",
+    "Price": 69.99,
+    "rp": "5,002,250",
+    "Noise": 32.9,
+    "Color": "White",
+    "Size": 120,
+    "Noise_Level": "32.9,",
+    "Rpm": "5002250,"
+  },
+  {
+    "Name": "EK AIO Elite 280 D-RGB",
+    "Price": 103.5,
+    "rp": "5,502,200",
+    "Noise": 36.4,
+    "Color": "Black",
+    "Size": 280,
+    "Noise_Level": "36.4,",
+    "Rpm": "5502200,"
+  },
+  {
+    "Name": "Asus ROG Ryujin 240 RGB AIO",
+    "Price": 185.49,
+    "rp": "4,502,000",
+    "Noise": 29.7,
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "29.7,",
+    "Rpm": "4502000,"
+  },
+  {
+    "Name": "Silverstone IceMyst 420",
+    "Price": 162.99,
+    "rp": "4,001,750",
+    "Noise": "13.3,30.8",
+    "Color": "Silver / Black",
+    "Size": 420,
+    "Noise_Level": "13.3,30.8,",
+    "Rpm": "4001750,"
+  },
+  {
+    "Name": "MSI MAG CORELIQUID C280",
+    "Price": 184.91,
+    "rp": "5,001,800",
+    "Noise": "14.8,33.28",
+    "Color": "Black",
+    "Size": 280,
+    "Noise_Level": "14.8,33.28,",
+    "Rpm": "5001800,"
+  },
+  {
+    "Name": "Thermaltake TH240 V2 Ultra ARGB Sync",
+    "Price": 134.99,
+    "rp": "5,001,800",
+    "Noise": 25.8,
+    "Color": "White",
+    "Size": 240,
+    "Noise_Level": "25.8,",
+    "Rpm": "5001800,"
+  },
+  {
+    "Name": "TEAMGROUP SIREN GD360E",
+    "Price": 104.99,
+    "rp": "6,002,200",
+    "Noise": "14.3,35.6",
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": "14.3,35.6,",
+    "Rpm": "6002200,"
+  },
+  {
+    "Name": "Thermaltake TH420 ARGB Sync",
+    "Price": 127.59,
+    "rp": "5,001,800",
+    "Noise": 34.7,
+    "Color": "White",
+    "Size": 420,
+    "Noise_Level": "34.7,",
+    "Rpm": "5001800,"
+  },
+  {
+    "Name": "Asus ROG STRIX LC 240 RGB White Edition",
+    "Price": 184.99,
+    "rp": "8,002,500",
+    "Noise": 37.6,
+    "Color": "White",
+    "Size": 240,
+    "Noise_Level": "37.6,",
+    "Rpm": "8002500,"
+  },
+  {
+    "Name": "Enermax LIQTECH TR4 II 360",
+    "Price": 202.52,
+    "rp": "5,002,300",
+    "Noise": "14,28",
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": "14,28,",
+    "Rpm": "5002300,"
+  },
+  {
+    "Name": "Fractal Design Celsius+ S24 Prisma PWM ARGB",
+    "Price": 187.79,
+    "rp": "5,002,000",
+    "Noise": 32.7,
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "32.7,",
+    "Rpm": "5002000,"
+  },
+  {
+    "Name": "Thermaltake Floe DX RGB 360 TT Premium Edition",
+    "Price": 278.62,
+    "rp": "5,001,500",
+    "Noise": "19,23.9",
+    "Color": "Black / Gray",
+    "Size": 360,
+    "Noise_Level": "19,23.9,",
+    "Rpm": "5001500,"
+  },
+  {
+    "Name": "Fractal Design Celsius+ S36 Prisma PWM ARGB",
+    "Price": 242.97,
+    "rp": "5,002,000",
+    "Noise": 32.7,
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": "32.7,",
+    "Rpm": "5002000,"
+  },
+  {
+    "Name": "Antec Symphony ARGB",
+    "Price": 102.5,
+    "rp": "8,001,600",
+    "Noise": "20,35",
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "20,35,",
+    "Rpm": "8001600,"
+  },
+  {
+    "Name": "Thermaltake TH280 V2 Ultra ARGB Sync",
+    "Price": 152.09,
+    "rp": "5,002,000",
+    "Noise": 34.7,
+    "Color": "White",
+    "Size": 280,
+    "Noise_Level": "34.7,",
+    "Rpm": "5002000,"
+  },
+  {
+    "Name": "Antec Symphony ARGB",
+    "Price": 157.25,
+    "rp": "8,001,600",
+    "Noise": "20,35",
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": "20,35,",
+    "Rpm": "8001600,"
+  },
+  {
+    "Name": "Enermax LIQMAXFLO SR 360",
+    "Price": 89.99,
+    "rp": "5,001,800",
+    "Noise": 23.46,
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": "23.46,",
+    "Rpm": "5001800,"
+  },
+  {
+    "Name": "Corsair H75 2018",
+    "Price": 360,
+    "rp": 1900,
+    "Noise": 31,
+    "Color": "Black",
+    "Size": 120,
+    "Noise_Level": "31,",
+    "Rpm": "1900,"
+  },
+  {
+    "Name": "Thermaltake Water 3.0 240 ARGB Sync",
+    "Price": 176.54,
+    "rp": "5,001,500",
+    "Noise": 25.8,
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "25.8,",
+    "Rpm": "5001500,"
+  },
+  {
+    "Name": "Phanteks GLACIER ONE 240D30",
+    "Price": 262.93,
+    "rp": "2,502,000",
+    "Noise": 30.2,
+    "Color": "White",
+    "Size": 240,
+    "Noise_Level": "30.2,",
+    "Rpm": "2502000,"
+  },
+  {
+    "Name": "Thermaltake TOUGHLIQUID ARGB",
+    "Price": 139.99,
+    "rp": "5,002,000",
+    "Noise": 22.3,
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": "22.3,",
+    "Rpm": "5002000,"
+  },
+  {
+    "Name": "Gelid Solutions Liquid 240",
+    "Price": 84.98,
+    "rp": "7,501,800",
+    "Noise": 29.6,
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "29.6,",
+    "Rpm": "7501800,"
+  },
+  {
+    "Name": "Alphacool Eisbaer Aurora 360",
+    "Price": 154.95,
+    "rp": "8,002,000",
+    "Noise": "",
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": ",",
+    "Rpm": "8002000,"
+  },
+  {
+    "Name": "Cooler Master MasterLiquid ML360 Mirror",
+    "Price": 249,
+    "rp": "6,501,800",
+    "Noise": "8,27",
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": "8,27,",
+    "Rpm": "6501800,"
+  },
+  {
+    "Name": "ID-COOLING DASHFLOW XT LITE",
+    "Price": 99.99,
+    "rp": "5,002,000",
+    "Noise": 29.85,
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": "29.85,",
+    "Rpm": "5002000,"
+  },
+  {
+    "Name": "Enermax LIQMAXFLO SR 240",
+    "Price": 69.99,
+    "rp": "5,001,800",
+    "Noise": 23.46,
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "23.46,",
+    "Rpm": "5001800,"
+  },
+  {
+    "Name": "Azza CUBE 240",
+    "Price": 79.98,
+    "rp": "5,002,000",
+    "Noise": 34,
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "34,",
+    "Rpm": "5002000,"
+  },
+  {
+    "Name": "be quiet! Silent Loop 2 120",
+    "Price": 150.83,
+    "rp": 2200,
+    "Noise": "16.6,36.4",
+    "Color": "Black",
+    "Size": 120,
+    "Noise_Level": "16.6,36.4,",
+    "Rpm": "2200,"
+  },
+  {
+    "Name": "Asus ROG STRIX LC 120 RGB",
+    "Price": 199.27,
+    "rp": "8,002,500",
+    "Noise": 37.6,
+    "Color": "Black",
+    "Size": 120,
+    "Noise_Level": "37.6,",
+    "Rpm": "8002500,"
+  },
+  {
+    "Name": "Alphacool Eisbaer 420",
+    "Price": 150.7,
+    "rp": 1100,
+    "Noise": 29.4,
+    "Color": "Black / Blue",
+    "Size": 420,
+    "Noise_Level": "29.4,",
+    "Rpm": "1100,"
+  },
+  {
+    "Name": "Thermaltake TOUGHLIQUID Ultra",
+    "Price": 121.66,
+    "rp": "5,002,500",
+    "Noise": 28.1,
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "28.1,",
+    "Rpm": "5002500,"
+  },
+  {
+    "Name": "TEAMGROUP SIREN GD240E",
+    "Price": 90.99,
+    "rp": "6,002,200",
+    "Noise": "14.3,35.6",
+    "Color": "White",
+    "Size": 240,
+    "Noise_Level": "14.3,35.6,",
+    "Rpm": "6002200,"
+  },
+  {
+    "Name": "Asus ROG RYUO 240 RGB",
+    "Price": 189.98,
+    "rp": "8,002,500",
+    "Noise": 37,
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "37,",
+    "Rpm": "8002500,"
+  },
+  {
+    "Name": "BitFenix Cube ARGB",
+    "Price": 85.57,
+    "rp": 2000,
+    "Noise": 34,
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": "34,",
+    "Rpm": "2000,"
+  },
+  {
+    "Name": "Iceberg Thermal IceFLOE OASIS 360",
+    "Price": 89.99,
+    "rp": "2,002,200",
+    "Noise": 28.9,
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": "28.9,",
+    "Rpm": "2002200,"
+  },
+  {
+    "Name": "ADATA XPG LEVANTE 360",
+    "Price": 159.99,
+    "rp": "6,002,000",
+    "Noise": 34,
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": "34,",
+    "Rpm": "6002000,"
+  },
+  {
+    "Name": "Enermax LIQMAXFLO 360",
+    "Price": 107.99,
+    "rp": "5,001,800",
+    "Noise": 23.46,
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": "23.46,",
+    "Rpm": "5001800,"
+  },
+  {
+    "Name": "ARCTIC Liquid Freezer II 240 RGB",
+    "Price": 126.99,
+    "rp": "2,001,800",
+    "Noise": 22.5,
+    "Color": "Black / Gray",
+    "Size": 240,
+    "Noise_Level": "22.5,",
+    "Rpm": "2001800,"
+  },
+  {
+    "Name": "Geometric Future Eskimo Junior 36",
+    "Price": 119.9,
+    "rp": 2000,
+    "Noise": 29,
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": "29,",
+    "Rpm": "2000,"
+  },
+  {
+    "Name": "Silverstone IceMyst 240",
+    "Price": 109.99,
+    "rp": "5,002,200",
+    "Noise": "12.1,33.1",
+    "Color": "Silver / Black",
+    "Size": 240,
+    "Noise_Level": "12.1,33.1,",
+    "Rpm": "5002200,"
+  },
+  {
+    "Name": "Asus ROG STRIX LC 240 RGB",
+    "Price": 169.99,
+    "rp": "8,002,500",
+    "Noise": 37.6,
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "37.6,",
+    "Rpm": "8002500,"
+  },
+  {
+    "Name": "Alphacool Eisbaer 360",
+    "Price": 139.95,
+    "rp": "5,501,700",
+    "Noise": 29,
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": "29,",
+    "Rpm": "5501700,"
+  },
+  {
+    "Name": "Gigabyte AORUS WATERFORCE X II 240AORUS WATERFORCE X II 240",
+    "Price": 239.99,
+    "rp": "8,002,400",
+    "Noise": "12,37.5",
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "12,37.5,",
+    "Rpm": "8002400,"
+  },
+  {
+    "Name": "Yeston zeaginal Sakura",
+    "Price": 99,
+    "rp": "9,001,800",
+    "Noise": 30,
+    "Color": "White",
+    "Size": 240,
+    "Noise_Level": "30,",
+    "Rpm": "9001800,"
+  },
+  {
+    "Name": "YEYIAN VATN ARGB 360",
+    "Price": 109.99,
+    "rp": "8,002,000",
+    "Noise": "25,32",
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": "25,32,",
+    "Rpm": "8002000,"
+  },
+  {
+    "Name": "ARCTIC Liquid Freezer II 240 RGB",
+    "Price": 125.24,
+    "rp": "2,001,800",
+    "Noise": 22.5,
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "22.5,",
+    "Rpm": "2001800,"
+  },
+  {
+    "Name": "Enermax LIQMAX III RGB",
+    "Price": 69.98,
+    "rp": "5,001,600",
+    "Noise": "14,27",
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "14,27,",
+    "Rpm": "5001600,"
+  },
+  {
+    "Name": "BitFenix Cube ARGB",
+    "Price": 79.9,
+    "rp": 2000,
+    "Noise": 34,
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "34,",
+    "Rpm": "2000,"
+  },
+  {
+    "Name": "Alpenföhn Glacier Water High Speed 360",
+    "Price": 239.07,
+    "rp": "5,002,200",
+    "Noise": 36.8,
+    "Color": "White",
+    "Size": 360,
+    "Noise_Level": "36.8,",
+    "Rpm": "5002200,"
+  },
+  {
+    "Name": "Thermaltake Water 3.0 Riing RGB 280",
+    "Price": 139.22,
+    "rp": "3,001,500",
+    "Noise": "18.5,26.4",
+    "Color": "Black / Red",
+    "Size": 280,
+    "Noise_Level": "18.5,26.4,",
+    "Rpm": "3001500,"
+  },
+  {
+    "Name": "Enermax LIQMAXFLO 240",
+    "Price": 89.99,
+    "rp": "5,001,800",
+    "Noise": 23.46,
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "23.46,",
+    "Rpm": "5001800,"
+  },
+  {
+    "Name": "Alphacool Eisbaer LT240",
+    "Price": 113.5,
+    "rp": "5,501,700",
+    "Noise": 29,
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "29,",
+    "Rpm": "5501700,"
+  },
+  {
+    "Name": "Azza CUBE 360",
+    "Price": 99.99,
+    "rp": "5,002,000",
+    "Noise": 34,
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": "34,",
+    "Rpm": "5002000,"
+  },
+  {
+    "Name": "BitFenix Cube ARGB",
+    "Price": 99.9,
+    "rp": 2000,
+    "Noise": 34,
+    "Color": "White",
+    "Size": 360,
+    "Noise_Level": "34,",
+    "Rpm": "2000,"
+  },
+  {
+    "Name": "Thermaltake Floe DX RGB 240 TT Premium Edition",
+    "Price": 133.88,
+    "rp": "5,001,500",
+    "Noise": "19,23.9",
+    "Color": "Black / Gray",
+    "Size": 240,
+    "Noise_Level": "19,23.9,",
+    "Rpm": "5001500,"
+  },
+  {
+    "Name": "Enermax LIQMAXFLO 420",
+    "Price": 149.99,
+    "rp": "5,001,700",
+    "Noise": 25.47,
+    "Color": "Black",
+    "Size": 420,
+    "Noise_Level": "25.47,",
+    "Rpm": "5001700,"
+  },
+  {
+    "Name": "Enermax LIQMAX III RGB",
+    "Price": 74.8,
+    "rp": "5,001,600",
+    "Noise": "14,27",
+    "Color": "Black",
+    "Size": 120,
+    "Noise_Level": "14,27,",
+    "Rpm": "5001600,"
+  },
+  {
+    "Name": "ADATA XPG LEVANTE 240",
+    "Price": 109.99,
+    "rp": "6,002,000",
+    "Noise": 34,
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "34,",
+    "Rpm": "6002000,"
+  },
+  {
+    "Name": "Thermaltake TOUGHLIQUID Ultra RGB",
+    "Price": 229.99,
+    "rp": "5,002,000",
+    "Noise": 30.7,
+    "Color": "Black",
+    "Size": 280,
+    "Noise_Level": "30.7,",
+    "Rpm": "5002000,"
+  },
+  {
+    "Name": "Thermaltake TOUGHLIQUID Ultra",
+    "Price": 199.99,
+    "rp": "5,002,000",
+    "Noise": 33.2,
+    "Color": "Black",
+    "Size": 280,
+    "Noise_Level": "33.2,",
+    "Rpm": "5002000,"
+  },
+  {
+    "Name": "Alphacool Eisbaer Extreme",
+    "Price": 245.4,
+    "rp": 1000,
+    "Noise": 18.8,
+    "Color": "Black",
+    "Size": 280,
+    "Noise_Level": "18.8,",
+    "Rpm": "1000,"
+  },
+  {
+    "Name": "Iceberg Thermal IceFLOE OASIS 240",
+    "Price": 74.98,
+    "rp": "2,002,200",
+    "Noise": 28.9,
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "28.9,",
+    "Rpm": "2002200,"
+  },
+  {
+    "Name": "ENDORFY Navis F360 ARGB",
+    "Price": 179.31,
+    "rp": "2,501,800",
+    "Noise": "",
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": ",",
+    "Rpm": "2501800,"
+  },
+  {
+    "Name": "GAMDIAS CHIONE M3",
+    "Price": 84.99,
+    "rp": "8,002,000",
+    "Noise": "",
+    "Color": "White",
+    "Size": 240,
+    "Noise_Level": ",",
+    "Rpm": "8002000,"
+  },
+  {
+    "Name": "Alphacool Eisbaer 280",
+    "Price": 128.1,
+    "rp": 1100,
+    "Noise": 29.4,
+    "Color": "Black / Blue",
+    "Size": 280,
+    "Noise_Level": "29.4,",
+    "Rpm": "1100,"
+  },
+  {
+    "Name": "Alphacool Eisbaer Aurora 240",
+    "Price": 134.95,
+    "rp": "8,002,000",
+    "Noise": "",
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": ",",
+    "Rpm": "8002000,"
+  },
+  {
+    "Name": "Alphacool Eisbaer LT360",
+    "Price": 124.75,
+    "rp": "5,501,700",
+    "Noise": 29,
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": "29,",
+    "Rpm": "5501700,"
+  },
+  {
+    "Name": "Cougar Helor 240",
+    "Price": 124,
+    "rp": "6,001,800",
+    "Noise": 37.1,
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "37.1,",
+    "Rpm": "6001800,"
+  },
+  {
+    "Name": "Alpenföhn Glacier Water 360 High Speed",
+    "Price": 253.85,
+    "rp": "5,002,200",
+    "Noise": 36.8,
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": "36.8,",
+    "Rpm": "5002200,"
+  },
+  {
+    "Name": "Cougar Helor 360",
+    "Price": 229.3,
+    "rp": "6,001,800",
+    "Noise": 37.1,
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": "37.1,",
+    "Rpm": "6001800,"
+  },
+  {
+    "Name": "Thermaltake Floe DX RGB TT Premium Edition B",
+    "Price": 133.88,
+    "rp": "5,001,500",
+    "Noise": "19,23.9",
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "19,23.9,",
+    "Rpm": "5001500,"
+  },
+  {
+    "Name": "Enermax AQUAFUSION ADV",
+    "Price": 77.99,
+    "rp": "5,002,000",
+    "Noise": "17,32.6",
+    "Color": "White",
+    "Size": 120,
+    "Noise_Level": "17,32.6,",
+    "Rpm": "5002000,"
+  },
+  {
+    "Name": "Enermax AQUAFUSION ADV 120",
+    "Price": 77.99,
+    "rp": "5,002,000",
+    "Noise": "15,32.6",
+    "Color": "Black",
+    "Size": 120,
+    "Noise_Level": "15,32.6,",
+    "Rpm": "5002000,"
+  },
+  {
+    "Name": "Asus ROG RYUO 120 RGB",
+    "Price": 239,
+    "rp": "8,002,500",
+    "Noise": 37,
+    "Color": "Black",
+    "Size": 120,
+    "Noise_Level": "37,",
+    "Rpm": "8002500,"
+  },
+  {
+    "Name": "RAIJINTEK Orcus 140 RGW",
+    "Price": 91.93,
+    "rp": "4,001,800",
+    "Noise": 28,
+    "Color": "Black",
+    "Size": 140,
+    "Noise_Level": "28,",
+    "Rpm": "4001800,"
+  },
+  {
+    "Name": "Silverstone IceMyst 280",
+    "Price": 122.99,
+    "rp": "4,001,750",
+    "Noise": "13.3,30.8",
+    "Color": "Silver / Black",
+    "Size": 280,
+    "Noise_Level": "13.3,30.8,",
+    "Rpm": "4001750,"
+  },
+  {
+    "Name": "Silverstone IceGem 240P",
+    "Price": 60.55,
+    "rp": "6,002,200",
+    "Noise": "7.3,36.6",
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "7.3,36.6,",
+    "Rpm": "6002200,"
+  },
+  {
+    "Name": "RAIJINTEK EOS 240 RBW",
+    "Price": 59.99,
+    "rp": "8,001,800",
+    "Noise": 28,
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "28,",
+    "Rpm": "8001800,"
+  },
+  {
+    "Name": "Alpenföhn Glacier Water High Speed 240",
+    "Price": 182.79,
+    "rp": "5,002,200",
+    "Noise": 36.8,
+    "Color": "White",
+    "Size": 240,
+    "Noise_Level": "36.8,",
+    "Rpm": "5002200,"
+  },
+  {
+    "Name": "Thermaltake TOUGHLIQUID ARGB",
+    "Price": 119.99,
+    "rp": "5,002,000",
+    "Noise": 22.3,
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "22.3,",
+    "Rpm": "5002000,"
+  },
+  {
+    "Name": "BitFenix Cube ARGB",
+    "Price": 79.9,
+    "rp": 2000,
+    "Noise": 34,
+    "Color": "White",
+    "Size": 240,
+    "Noise_Level": "34,",
+    "Rpm": "2000,"
+  },
+  {
+    "Name": "TEAMGROUP SIREN GD240E",
+    "Price": 90.99,
+    "rp": "6,002,200",
+    "Noise": "14.3,35.6",
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "14.3,35.6,",
+    "Rpm": "6002200,"
+  },
+  {
+    "Name": "Alphacool Eisbaer 240",
+    "Price": 119.5,
+    "rp": "5,501,700",
+    "Noise": 29,
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "29,",
+    "Rpm": "5501700,"
+  },
+  {
+    "Name": "Thermaltake TOUGHLIQUID ARGB",
+    "Price": 124.98,
+    "rp": "5,002,000",
+    "Noise": 22.3,
+    "Color": "Teal",
+    "Size": 240,
+    "Noise_Level": "22.3,",
+    "Rpm": "5002000,"
+  },
+  {
+    "Name": "Geometric Future Eskimo Junior 24",
+    "Price": 89.9,
+    "rp": 2000,
+    "Noise": 29,
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "29,",
+    "Rpm": "2000,"
+  },
+  {
+    "Name": "Thermaltake Floe DX RGB 280 TT Premium Edition",
+    "Price": 184.35,
+    "rp": "5,001,400",
+    "Noise": "19.8,26.2",
+    "Color": "Black / Gray",
+    "Size": 280,
+    "Noise_Level": "19.8,26.2,",
+    "Rpm": "5001400,"
+  },
+  {
+    "Name": "Lian Li Galahad AIO240 (2022)",
+    "Price": 174.02,
+    "rp": "8,001,900",
+    "Noise": 32,
+    "Color": "White / Silver",
+    "Size": 240,
+    "Noise_Level": "32,",
+    "Rpm": "8001900,"
+  },
+  {
+    "Name": "In Win Nebula NR36",
+    "Price": 140.25,
+    "rp": "4,001,800",
+    "Noise": 25,
+    "Color": "Black / White",
+    "Size": 360,
+    "Noise_Level": "25,",
+    "Rpm": "4001800,"
+  },
+  {
+    "Name": "Alpenföhn Glacier Water 280",
+    "Price": 217.32,
+    "rp": "5,002,000",
+    "Noise": 36.4,
+    "Color": "Black",
+    "Size": 280,
+    "Noise_Level": "36.4,",
+    "Rpm": "5002000,"
+  },
+  {
+    "Name": "Silverstone IceGem 360",
+    "Price": 174.51,
+    "rp": "6,002,200",
+    "Noise": "7.3,36.6",
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": "7.3,36.6,",
+    "Rpm": "6002200,"
+  },
+  {
+    "Name": "Enermax LIQMAX III ARGB",
+    "Price": 75.68,
+    "rp": "5,001,600",
+    "Noise": "14,27",
+    "Color": "Black",
+    "Size": 120,
+    "Noise_Level": "14,27,",
+    "Rpm": "5001600,"
+  },
+  {
+    "Name": "Thermaltake Floe Riing RGB 360 TR4 Edition",
+    "Price": 160.41,
+    "rp": "10,002,000",
+    "Noise": "21.8,33",
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": "21.8,33,",
+    "Rpm": "10002000,"
+  },
+  {
+    "Name": "Thermaltake TOUGHLIQUID ARGB",
+    "Price": 150.13,
+    "rp": "5,002,000",
+    "Noise": 33.2,
+    "Color": "Black",
+    "Size": 280,
+    "Noise_Level": "33.2,",
+    "Rpm": "5002000,"
+  },
+  {
+    "Name": "Silverstone VIDA 120 SLIM",
+    "Price": 110.7,
+    "rp": "3,001,800",
+    "Noise": "15.9,33.9",
+    "Color": "Black",
+    "Size": 120,
+    "Noise_Level": "15.9,33.9,",
+    "Rpm": "3001800,"
+  },
+  {
+    "Name": "Alphacool Eisbaer Aurora 280",
+    "Price": 154.45,
+    "rp": "6,001,500",
+    "Noise": "",
+    "Color": "Black",
+    "Size": 280,
+    "Noise_Level": ",",
+    "Rpm": "6001500,"
+  },
+  {
+    "Name": "GAMDIAS CHIONE P2",
+    "Price": 104.98,
+    "rp": "8,001,800",
+    "Noise": "",
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": ",",
+    "Rpm": "8001800,"
+  },
+  {
+    "Name": "ENDORFY Navis F240 ARGB",
+    "Price": 143.32,
+    "rp": "2,501,800",
+    "Noise": "",
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": ",",
+    "Rpm": "2501800,"
+  },
+  {
+    "Name": "In Win SR24 PRO",
+    "Price": 64.98,
+    "rp": "5,002,500",
+    "Noise": 23,
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "23,",
+    "Rpm": "5002500,"
+  },
+  {
+    "Name": "Alpenföhn Glacier Water 240 High Speed",
+    "Price": 206.18,
+    "rp": "5,002,200",
+    "Noise": 36.8,
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "36.8,",
+    "Rpm": "5002200,"
+  },
+  {
+    "Name": "RAIJINTEK Orcus 280 RGW",
+    "Price": 64.95,
+    "rp": "4,001,800",
+    "Noise": 28,
+    "Color": "Black",
+    "Size": 280,
+    "Noise_Level": "28,",
+    "Rpm": "4001800,"
+  },
+  {
+    "Name": "RAIJINTEK Orcus 360 RGW",
+    "Price": 79.99,
+    "rp": "4,001,800",
+    "Noise": 28,
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": "28,",
+    "Rpm": "4001800,"
+  },
+  {
+    "Name": "Enermax Liqfusion 240",
+    "Price": 87.99,
+    "rp": "5,002,000",
+    "Noise": "14,28",
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "14,28,",
+    "Rpm": "5002000,"
+  },
+  {
+    "Name": "Silverstone IceGem 280",
+    "Price": 151.38,
+    "rp": "6,001,600",
+    "Noise": "9.8,23.4",
+    "Color": "Black",
+    "Size": 280,
+    "Noise_Level": "9.8,23.4,",
+    "Rpm": "6001600,"
+  },
+  {
+    "Name": "Enermax Liqtech TR4 II 240",
+    "Price": 159.99,
+    "rp": "5,002,300",
+    "Noise": "14,28",
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "14,28,",
+    "Rpm": "5002300,"
+  },
+  {
+    "Name": "RAIJINTEK Orcus 240 RGW",
+    "Price": 69.99,
+    "rp": "4,001,800",
+    "Noise": 28,
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "28,",
+    "Rpm": "4001800,"
+  },
+  {
+    "Name": "In Win BR24",
+    "Price": 100.92,
+    "rp": "4,001,800",
+    "Noise": 35.5,
+    "Color": "Black / White",
+    "Size": 240,
+    "Noise_Level": "35.5,",
+    "Rpm": "4001800,"
+  },
+  {
+    "Name": "In Win SR36 PRO",
+    "Price": 135.44,
+    "rp": "5,002,500",
+    "Noise": 23,
+    "Color": "Black",
+    "Size": 360,
+    "Noise_Level": "23,",
+    "Rpm": "5002500,"
+  },
+  {
+    "Name": "ENDORFY Navis F280 ARGB",
+    "Price": 182,
+    "rp": "2,501,800",
+    "Noise": "",
+    "Color": "Black",
+    "Size": 280,
+    "Noise_Level": ",",
+    "Rpm": "2501800,"
+  },
+  {
+    "Name": "GAMDIAS CHIONE M1",
+    "Price": 165.99,
+    "rp": "6,001,200",
+    "Noise": "",
+    "Color": "Black",
+    "Size": 280,
+    "Noise_Level": ",",
+    "Rpm": "6001200,"
+  },
+  {
+    "Name": "In Win SR24",
+    "Price": 125.85,
+    "rp": "5,002,500",
+    "Noise": 23,
+    "Color": "Black",
+    "Size": 240,
+    "Noise_Level": "23,",
+    "Rpm": "5002500,"
+  },
+  {
+    "Name": "In Win BR36",
+    "Price": 116.55,
+    "rp": "4,001,800",
+    "Noise": 35.5,
+    "Color": "Black / White",
+    "Size": 360,
+    "Noise_Level": "35.5,",
+    "Rpm": "4001800,"
+  }
+]

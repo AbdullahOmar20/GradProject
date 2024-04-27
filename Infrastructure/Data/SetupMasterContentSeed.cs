@@ -47,6 +47,25 @@ namespace Infrastructure.Data
                 var MotherBoeards = JsonSerializer.Deserialize<List<Motherboard>>(MotherboardData);
                 context.motherboards.AddRange(MotherBoeards);
             }
+            if(!context.Cases.Any())
+            {
+                var casesdata = File.ReadAllText(path+@"/Data/SeedData/case.json");
+                var cases = JsonSerializer.Deserialize<List<Case>>(casesdata);
+                context.Cases.AddRange(cases);
+            }
+            if(!context.CPUCoolers.Any())
+            {
+                var coolerdata = File.ReadAllText(path+@"/Data/SeedData/cooler.json");
+                var coolers = JsonSerializer.Deserialize<List<CPUCooler>>(coolerdata);
+                context.CPUCoolers.AddRange(coolers);
+            }
+            if(!context.PowerSupplies.Any())
+            {
+                var psudata = File.ReadAllText(path+@"/Data/SeedData/psu.json");
+                var psus = JsonSerializer.Deserialize<List<PowerSupply>>(psudata);
+                context.PowerSupplies.AddRange(psus);
+            }
+            
             if(context.ChangeTracker.HasChanges())
             {
                 await context.SaveChangesAsync();

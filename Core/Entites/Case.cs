@@ -8,7 +8,9 @@ namespace Core.Entites
 {
     public class Case : BaseEntity
     {
-        
+        public string? Type { get; set; }
+        public string? Color { get; set; }
+        public string? Side_Panel { get; set; }
 
     }
 }

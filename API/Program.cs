@@ -44,6 +44,7 @@ namespace API
             builder.Services.AddScoped<IPowerSupplieservice, PowerSupplieservice>();
             builder.Services.AddScoped<ICPUCoolerService, CPUCoolerService>();
             builder.Services.AddScoped<ICaseService, CaseService>();
+            builder.Services.AddScoped<EmailService>();
 
             builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
             builder.Services.Configure<Jwt>(builder.Configuration.GetSection("Jwt"));
@@ -68,8 +69,13 @@ namespace API
                     ValidateLifetime = true
                 };
             });
-            builder.Services.AddCors(opt=>opt.AddPolicy
-            ("CorsPolicy",policy=>policy.AllowAnyHeader().AllowAnyMethod().WithOrigins("https://localhost:4200")));
+            builder.Services.AddCors(options =>
+            {
+                options.AddPolicy("AllowAll",
+                 b => b.AllowAnyMethod()
+                .AllowAnyHeader()
+                .AllowAnyOrigin());
+            });
 
             builder.Services.AddControllers();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
@@ -88,8 +94,8 @@ namespace API
 
             app.UseHttpsRedirection();
 
-            app.UseAuthorization();
-            app.UseCors("CorsPolicy");
+            
+            app.UseCors("AllowAll");
 
             app.UseAuthentication();
 

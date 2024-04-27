@@ -10,6 +10,9 @@ namespace Infrastructure.Services
         Task<AuthModel> RegisterAsync(RegisterModel registerModel);
 		Task<AuthModel> GetTokenAsync(TokenRequestModel model);
 		Task<string> AddRoleAsync(AddRoleModel model);
+        Task<bool> ForgetPasswordEmail(ForgetPasswordDto forgetPasswordDto);
+        Task<bool> VerifyOTP(OTPVerificationDto verificationDto);
+        Task<bool> ResetPassword(ResetPasswordDto resetPasswordDto);
 
 	}
 }

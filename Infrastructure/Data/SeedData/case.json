@@ -1,0 +1,2502 @@
+[
+  {
+    "Name": "Montech AIR 100 ARGB",
+    "Price": 59.99,
+    "Type": "MicroATX Mid Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": "",
+    "internal_35_bays": 2
+  },
+  {
+    "Name": "Silverstone ALTA F2",
+    "Price": 999.99,
+    "Type": "ATX Full Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 98.9,
+    "internal_35_bays": 8
+  },
+  {
+    "Name": "Deepcool CH370",
+    "Price": 59.99,
+    "Type": "MicroATX Mid Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 38.3,
+    "internal_35_bays": 2
+  },
+  {
+    "Name": "Lian Li PC-O11 Dynamic",
+    "Price": 119.99,
+    "Type": "ATX Full Tower",
+    "Color": "White",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 54,
+    "internal_35_bays": 3
+  },
+  {
+    "Name": "Fractal Design Pop Mini Air",
+    "Price": 89.99,
+    "Type": "MicroATX Mid Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 36.5,
+    "internal_35_bays": 2
+  },
+  {
+    "Name": "Lian Li O11 Dynamic EVO XL",
+    "Price": 229.99,
+    "Type": "ATX Full Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 84.4,
+    "internal_35_bays": 4
+  },
+  {
+    "Name": "Fractal Design Pop XL Air",
+    "Price": 109.97,
+    "Type": "ATX Full Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 62.4,
+    "internal_35_bays": 3
+  },
+  {
+    "Name": "Corsair 7000D AIRFLOW",
+    "Price": 229.99,
+    "Type": "ATX Full Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 81.8,
+    "internal_35_bays": 6
+  },
+  {
+    "Name": "Montech AIR 100 ARGB",
+    "Price": 66.9,
+    "Type": "MicroATX Mid Tower",
+    "Color": "White",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": "",
+    "internal_35_bays": 2
+  },
+  {
+    "Name": "Lian Li O11 Dynamic EVO XL",
+    "Price": 229.99,
+    "Type": "ATX Full Tower",
+    "Color": "White",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 84.4,
+    "internal_35_bays": 4
+  },
+  {
+    "Name": "Fractal Design Pop Mini Air",
+    "Price": 86.99,
+    "Type": "MicroATX Mid Tower",
+    "Color": "White",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 36.5,
+    "internal_35_bays": 2
+  },
+  {
+    "Name": "Fractal Design Ridge PCIe 4.0",
+    "Price": 129.99,
+    "Type": "Mini ITX Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Mesh",
+    "external_volume": 16.3,
+    "internal_35_bays": 0
+  },
+  {
+    "Name": "Deepcool CH370",
+    "Price": 62.98,
+    "Type": "MicroATX Mid Tower",
+    "Color": "White",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 38.3,
+    "internal_35_bays": 2
+  },
+  {
+    "Name": "Fractal Design North XL",
+    "Price": 179.99,
+    "Type": "ATX Full Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tinted Tempered Glass",
+    "external_volume": 61.4,
+    "internal_35_bays": 2
+  },
+  {
+    "Name": "Asus ROG Strix Helios",
+    "Price": 298.23,
+    "Type": "ATX Full Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 83.5,
+    "internal_35_bays": 2
+  },
+  {
+    "Name": "Corsair iCUE 7000X RGB",
+    "Price": 299.99,
+    "Type": "ATX Full Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 81.8,
+    "internal_35_bays": 6
+  },
+  {
+    "Name": "Corsair Obsidian Series 1000D",
+    "Price": 514.99,
+    "Type": "ATX Full Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": "",
+    "internal_35_bays": 5
+  },
+  {
+    "Name": "Cooler Master Cosmos Infinity 30th Anniversary",
+    "Price": 949.99,
+    "Type": "ATX Full Tower",
+    "Color": "Black / Silver",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 129.5,
+    "internal_35_bays": 2
+  },
+  {
+    "Name": "Corsair 2000D AIRFLOW",
+    "Price": 119.99,
+    "Type": "Mini ITX Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Mesh",
+    "external_volume": 24.8,
+    "internal_35_bays": 0
+  },
+  {
+    "Name": "Phanteks Enthoo Pro",
+    "Price": 99.99,
+    "Type": "ATX Full Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Acrylic",
+    "external_volume": 68.6,
+    "internal_35_bays": 6
+  },
+  {
+    "Name": "Lian Li PC-O11 Dynamic",
+    "Price": 325.7,
+    "Type": "ATX Full Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 54,
+    "internal_35_bays": 3
+  },
+  {
+    "Name": "Apevia PRISM",
+    "Price": 79.98,
+    "Type": "MicroATX Mid Tower",
+    "Color": "White",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 35.4,
+    "internal_35_bays": 2
+  },
+  {
+    "Name": "Fractal Design Ridge PCIe 4.0",
+    "Price": 129.99,
+    "Type": "Mini ITX Tower",
+    "Color": "White",
+    "psu": "",
+    "Side_Panel": "Mesh",
+    "external_volume": 16.3,
+    "internal_35_bays": 0
+  },
+  {
+    "Name": "Antec NX200M",
+    "Price": 54.99,
+    "Type": "MicroATX Mid Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": "",
+    "internal_35_bays": 2
+  },
+  {
+    "Name": "Fractal Design Meshify 2 Mini",
+    "Price": 71.98,
+    "Type": "MicroATX Mid Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tinted Tempered Glass",
+    "external_volume": 33,
+    "internal_35_bays": 2
+  },
+  {
+    "Name": "Fractal Design Meshify 2 XL",
+    "Price": 204.99,
+    "Type": "ATX Full Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tinted Tempered Glass",
+    "external_volume": 81.5,
+    "internal_35_bays": 6
+  },
+  {
+    "Name": "Fractal Design North XL",
+    "Price": 179.99,
+    "Type": "ATX Full Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Mesh",
+    "external_volume": 61.4,
+    "internal_35_bays": 2
+  },
+  {
+    "Name": "Thermaltake The Tower 300",
+    "Price": 149.99,
+    "Type": "MicroATX Mid Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 53,
+    "internal_35_bays": 3
+  },
+  {
+    "Name": "Fractal Design Node 804",
+    "Price": 124.99,
+    "Type": "MicroATX Mid Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Acrylic",
+    "external_volume": 41.1,
+    "internal_35_bays": 10
+  },
+  {
+    "Name": "MSI MAG PANO M100R PZ",
+    "Price": 104,
+    "Type": "MicroATX Mid Tower",
+    "Color": "White",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 41.9,
+    "internal_35_bays": 1
+  },
+  {
+    "Name": "Phanteks Enthoo Elite",
+    "Price": 899.99,
+    "Type": "ATX Full Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tinted Tempered Glass",
+    "external_volume": 124.5,
+    "internal_35_bays": 6
+  },
+  {
+    "Name": "Fractal Design Node 304",
+    "Price": 105.99,
+    "Type": "Mini ITX Tower",
+    "Color": "Black / White",
+    "psu": "",
+    "Side_Panel": "",
+    "external_volume": 19.5,
+    "internal_35_bays": 6
+  },
+  {
+    "Name": "Fractal Design Pop Mini Silent",
+    "Price": 79.99,
+    "Type": "MicroATX Mid Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "",
+    "external_volume": 36.5,
+    "internal_35_bays": 2
+  },
+  {
+    "Name": "Fractal Design Pop XL Air",
+    "Price": 109.99,
+    "Type": "ATX Full Tower",
+    "Color": "White",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 62.4,
+    "internal_35_bays": 3
+  },
+  {
+    "Name": "Phanteks NV7",
+    "Price": 199.99,
+    "Type": "ATX Full Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 78.9,
+    "internal_35_bays": 2
+  },
+  {
+    "Name": "Thermaltake Versa H15",
+    "Price": 53.27,
+    "Type": "MicroATX Mid Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "",
+    "external_volume": "",
+    "internal_35_bays": 3
+  },
+  {
+    "Name": "Lian Li PC-O11 Dynamic Razer",
+    "Price": 313.08,
+    "Type": "ATX Full Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 54,
+    "internal_35_bays": 3
+  },
+  {
+    "Name": "HYTE REVOLT 3",
+    "Price": 149.99,
+    "Type": "Mini ITX Tower",
+    "Color": "Black",
+    "psu": 700,
+    "Side_Panel": "Mesh",
+    "external_volume": "",
+    "internal_35_bays": 1
+  },
+  {
+    "Name": "Fractal Design Define 7 XL",
+    "Price": 224.99,
+    "Type": "ATX Full Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "",
+    "external_volume": 82,
+    "internal_35_bays": 6
+  },
+  {
+    "Name": "ZZEW A1 Plus",
+    "Price": 109.99,
+    "Type": "Mini ITX Tower",
+    "Color": "Silver",
+    "psu": "",
+    "Side_Panel": "Mesh",
+    "external_volume": 5.8,
+    "internal_35_bays": 0
+  },
+  {
+    "Name": "Phanteks NV7",
+    "Price": 199.99,
+    "Type": "ATX Full Tower",
+    "Color": "White",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 78.9,
+    "internal_35_bays": 2
+  },
+  {
+    "Name": "Phanteks Enthoo Pro 2",
+    "Price": 139.99,
+    "Type": "ATX Full Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": "",
+    "internal_35_bays": 12
+  },
+  {
+    "Name": "Antec Performance 1 FT",
+    "Price": 134.99,
+    "Type": "ATX Full Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 62.7,
+    "internal_35_bays": 2
+  },
+  {
+    "Name": "MSI MAG PANO M100R PZ",
+    "Price": 104,
+    "Type": "MicroATX Mid Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 41.9,
+    "internal_35_bays": 1
+  },
+  {
+    "Name": "Thermaltake The Tower 100",
+    "Price": 89.99,
+    "Type": "Mini ITX Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": "",
+    "internal_35_bays": 2
+  },
+  {
+    "Name": "Corsair iCUE 7000X RGB",
+    "Price": 299.99,
+    "Type": "ATX Full Tower",
+    "Color": "White",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 81.8,
+    "internal_35_bays": 6
+  },
+  {
+    "Name": "Thermaltake The Tower 200",
+    "Price": 129.99,
+    "Type": "Mini ITX Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 45.1,
+    "internal_35_bays": 2
+  },
+  {
+    "Name": "Fractal Design North XL",
+    "Price": 179.99,
+    "Type": "ATX Full Tower",
+    "Color": "White",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 61.4,
+    "internal_35_bays": 2
+  },
+  {
+    "Name": "Fractal Design Core 1000 USB 3.0",
+    "Price": 47.99,
+    "Type": "MicroATX Mid Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "",
+    "external_volume": 25.8,
+    "internal_35_bays": 2
+  },
+  {
+    "Name": "Phanteks NV9",
+    "Price": 244.99,
+    "Type": "ATX Full Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 99,
+    "internal_35_bays": 3
+  },
+  {
+    "Name": "Thermaltake The Tower 300",
+    "Price": 149.99,
+    "Type": "MicroATX Mid Tower",
+    "Color": "White",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 53,
+    "internal_35_bays": 3
+  },
+  {
+    "Name": "Fractal Design Pop XL Silent",
+    "Price": 99.99,
+    "Type": "ATX Full Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "",
+    "external_volume": 62.4,
+    "internal_35_bays": 3
+  },
+  {
+    "Name": "Phanteks Enthoo Pro Tempered Glass",
+    "Price": 110.99,
+    "Type": "ATX Full Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tinted Tempered Glass",
+    "external_volume": 69.1,
+    "internal_35_bays": 6
+  },
+  {
+    "Name": "Fractal Design Torrent Nano RGB",
+    "Price": 206.64,
+    "Type": "Mini ITX Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tinted Tempered Glass",
+    "external_volume": 34.6,
+    "internal_35_bays": 1
+  },
+  {
+    "Name": "Antec NX200M",
+    "Price": 54.99,
+    "Type": "MicroATX Mid Tower",
+    "Color": "White",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": "",
+    "internal_35_bays": 2
+  },
+  {
+    "Name": "Corsair 2000D RGB AIRFLOW",
+    "Price": 139.99,
+    "Type": "Mini ITX Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Mesh",
+    "external_volume": 24.8,
+    "internal_35_bays": 0
+  },
+  {
+    "Name": "Lian Li V3000 PLUS",
+    "Price": 499.99,
+    "Type": "ATX Full Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 127.6,
+    "internal_35_bays": 8
+  },
+  {
+    "Name": "Phanteks Enthoo Pro 2",
+    "Price": 124.99,
+    "Type": "ATX Full Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "",
+    "external_volume": "",
+    "internal_35_bays": 12
+  },
+  {
+    "Name": "Corsair 7000D AIRFLOW",
+    "Price": 229.99,
+    "Type": "ATX Full Tower",
+    "Color": "White / Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 81.8,
+    "internal_35_bays": 6
+  },
+  {
+    "Name": "Asus ROG Strix Helios EVA Edition",
+    "Price": 799.99,
+    "Type": "ATX Full Tower",
+    "Color": "Black / Multicolor",
+    "psu": "",
+    "Side_Panel": "Tinted Tempered Glass",
+    "external_volume": 83.5,
+    "internal_35_bays": 2
+  },
+  {
+    "Name": "Lian Li O11D XL-W",
+    "Price": 239,
+    "Type": "ATX Full Tower",
+    "Color": "White / Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 68.9,
+    "internal_35_bays": 4
+  },
+  {
+    "Name": "Corsair 2000D AIRFLOW",
+    "Price": 110.39,
+    "Type": "Mini ITX Tower",
+    "Color": "White",
+    "psu": "",
+    "Side_Panel": "Mesh",
+    "external_volume": 24.8,
+    "internal_35_bays": 0
+  },
+  {
+    "Name": "Fractal Design Torrent Nano",
+    "Price": 199.18,
+    "Type": "Mini ITX Tower",
+    "Color": "White / Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 34.6,
+    "internal_35_bays": 1
+  },
+  {
+    "Name": "Phanteks Enthoo Pro",
+    "Price": 99.99,
+    "Type": "ATX Full Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "",
+    "external_volume": 68.6,
+    "internal_35_bays": 6
+  },
+  {
+    "Name": "Fractal Design North XL",
+    "Price": 179.99,
+    "Type": "ATX Full Tower",
+    "Color": "White",
+    "psu": "",
+    "Side_Panel": "Mesh",
+    "external_volume": 61.4,
+    "internal_35_bays": 2
+  },
+  {
+    "Name": "Phanteks NV9",
+    "Price": 239.99,
+    "Type": "ATX Full Tower",
+    "Color": "White",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 99,
+    "internal_35_bays": 3
+  },
+  {
+    "Name": "Silverstone SG13 V2",
+    "Price": 64.98,
+    "Type": "Mini ITX Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "",
+    "external_volume": 11.5,
+    "internal_35_bays": 1
+  },
+  {
+    "Name": "GameMax M60",
+    "Price": 46.98,
+    "Type": "MicroATX Mid Tower",
+    "Color": "White",
+    "psu": "",
+    "Side_Panel": "Mesh",
+    "external_volume": 29.4,
+    "internal_35_bays": 2
+  },
+  {
+    "Name": "Deepcool CH780",
+    "Price": 129.99,
+    "Type": "ATX Full Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 72.7,
+    "internal_35_bays": 2
+  },
+  {
+    "Name": "Fractal Design Torrent Nano",
+    "Price": 223.62,
+    "Type": "Mini ITX Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tinted Tempered Glass",
+    "external_volume": 34.6,
+    "internal_35_bays": 1
+  },
+  {
+    "Name": "Thermaltake Core W200",
+    "Price": 506.86,
+    "Type": "ATX Full Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Acrylic",
+    "external_volume": "",
+    "internal_35_bays": 4
+  },
+  {
+    "Name": "Thermaltake View 91",
+    "Price": 504.98,
+    "Type": "ATX Full Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": "",
+    "internal_35_bays": 12
+  },
+  {
+    "Name": "Thermaltake Tower 900 Snow Edition",
+    "Price": 234.98,
+    "Type": "ATX Full Tower",
+    "Color": "White",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 153.6,
+    "internal_35_bays": 6
+  },
+  {
+    "Name": "Fractal Design Define 7 XL Dark",
+    "Price": 234.99,
+    "Type": "ATX Full Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tinted Tempered Glass",
+    "external_volume": 82,
+    "internal_35_bays": 6
+  },
+  {
+    "Name": "Thermaltake Tower 900",
+    "Price": 257.98,
+    "Type": "ATX Full Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 153.6,
+    "internal_35_bays": 6
+  },
+  {
+    "Name": "Asus GX601",
+    "Price": 309.99,
+    "Type": "ATX Full Tower",
+    "Color": "White / Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 83.5,
+    "internal_35_bays": 2
+  },
+  {
+    "Name": "Deepcool CH360",
+    "Price": 84.99,
+    "Type": "MicroATX Mid Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 39.7,
+    "internal_35_bays": 2
+  },
+  {
+    "Name": "CiT Seven",
+    "Price": 85.21,
+    "Type": "MicroATX Mid Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Acrylic",
+    "external_volume": "",
+    "internal_35_bays": 1
+  },
+  {
+    "Name": "Lian Li O11D XL-X",
+    "Price": 222.99,
+    "Type": "ATX Full Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 68.9,
+    "internal_35_bays": 4
+  },
+  {
+    "Name": "Cooler Master MasterBox MB311L ARGB",
+    "Price": 94.99,
+    "Type": "MicroATX Mid Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": "",
+    "internal_35_bays": 2
+  },
+  {
+    "Name": "Montech AIR 100 LITE",
+    "Price": 86.64,
+    "Type": "MicroATX Mid Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": "",
+    "internal_35_bays": 2
+  },
+  {
+    "Name": "Apevia PRISM",
+    "Price": 79.98,
+    "Type": "MicroATX Mid Tower",
+    "Color": "Pink",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 35.4,
+    "internal_35_bays": 2
+  },
+  {
+    "Name": "Fractal Design Meshify 2 Nano",
+    "Price": 109.82,
+    "Type": "Mini ITX Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 29.3,
+    "internal_35_bays": 1
+  },
+  {
+    "Name": "GAMDIAS NESO P1",
+    "Price": 149.99,
+    "Type": "ATX Full Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 75.2,
+    "internal_35_bays": 5
+  },
+  {
+    "Name": "HYTE REVOLT 3",
+    "Price": 129.99,
+    "Type": "Mini ITX Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Mesh",
+    "external_volume": "",
+    "internal_35_bays": 1
+  },
+  {
+    "Name": "Deepcool MORPHEUS",
+    "Price": 187.98,
+    "Type": "ATX Full Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 72.7,
+    "internal_35_bays": 2
+  },
+  {
+    "Name": "HYTE REVOLT 3",
+    "Price": 129.99,
+    "Type": "Mini ITX Tower",
+    "Color": "White",
+    "psu": "",
+    "Side_Panel": "Mesh",
+    "external_volume": "",
+    "internal_35_bays": 1
+  },
+  {
+    "Name": "Deepcool CH780",
+    "Price": 149.99,
+    "Type": "ATX Full Tower",
+    "Color": "White",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 72.7,
+    "internal_35_bays": 2
+  },
+  {
+    "Name": "Thermaltake The Tower 200",
+    "Price": 124.99,
+    "Type": "Mini ITX Tower",
+    "Color": "White",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 45.1,
+    "internal_35_bays": 2
+  },
+  {
+    "Name": "Thermaltake Level 20",
+    "Price": 754.96,
+    "Type": "ATX Full Tower",
+    "Color": "Black / Silver",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 141,
+    "internal_35_bays": 8
+  },
+  {
+    "Name": "Silverstone SG13",
+    "Price": 70.2,
+    "Type": "Mini ITX Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "",
+    "external_volume": 11.5,
+    "internal_35_bays": 1
+  },
+  {
+    "Name": "Deepcool CH360 DIGITAL",
+    "Price": 99.99,
+    "Type": "MicroATX Mid Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 39.7,
+    "internal_35_bays": 2
+  },
+  {
+    "Name": "Lian Li V3000 PLUS White GGF Edition",
+    "Price": 349.99,
+    "Type": "ATX Full Tower",
+    "Color": "White",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 127.6,
+    "internal_35_bays": 8
+  },
+  {
+    "Name": "In Win BM639.AD160TBL",
+    "Price": 82.95,
+    "Type": "Mini ITX Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "",
+    "external_volume": 6.8,
+    "internal_35_bays": 1
+  },
+  {
+    "Name": "Silverstone Sugo 16",
+    "Price": 84.99,
+    "Type": "Mini ITX Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "",
+    "external_volume": 13,
+    "internal_35_bays": 1
+  },
+  {
+    "Name": "Cooler Master HAF 700",
+    "Price": 299.99,
+    "Type": "ATX Full Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 83.6,
+    "internal_35_bays": 9
+  },
+  {
+    "Name": "Razer Tomahawk Mini-ITX",
+    "Price": 137.99,
+    "Type": "Mini ITX Tower",
+    "Color": "Black / Green",
+    "psu": "",
+    "Side_Panel": "Tinted Tempered Glass",
+    "external_volume": "",
+    "internal_35_bays": 0
+  },
+  {
+    "Name": "GAMDIAS NESO P1",
+    "Price": 149.99,
+    "Type": "ATX Full Tower",
+    "Color": "White",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 75.2,
+    "internal_35_bays": 5
+  },
+  {
+    "Name": "Cooler Master Cosmos C700M",
+    "Price": 549.99,
+    "Type": "ATX Full Tower",
+    "Color": "Silver / Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": "",
+    "internal_35_bays": 4
+  },
+  {
+    "Name": "Thermaltake The Tower 100 Snow",
+    "Price": 104.98,
+    "Type": "Mini ITX Tower",
+    "Color": "White",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": "",
+    "internal_35_bays": 2
+  },
+  {
+    "Name": "Lian Li O11D XL-A",
+    "Price": 199.99,
+    "Type": "ATX Full Tower",
+    "Color": "Silver / Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 68.9,
+    "internal_35_bays": 4
+  },
+  {
+    "Name": "Corsair Crystal 280X RGB",
+    "Price": 274.45,
+    "Type": "MicroATX Mid Tower",
+    "Color": "White",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": "",
+    "internal_35_bays": 2
+  },
+  {
+    "Name": "Cooler Master CMP 320",
+    "Price": 77.37,
+    "Type": "MicroATX Mid Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 38.6,
+    "internal_35_bays": 2
+  },
+  {
+    "Name": "Phanteks Enthoo Pro 2 Server Edition",
+    "Price": 169.99,
+    "Type": "ATX Full Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 78,
+    "internal_35_bays": 4
+  },
+  {
+    "Name": "Cooler Master MasterBox NR400 (w/ODD)",
+    "Price": 126.13,
+    "Type": "MicroATX Mid Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 35.5,
+    "internal_35_bays": 4
+  },
+  {
+    "Name": "Thermaltake View 71 TG RGB",
+    "Price": 219.99,
+    "Type": "ATX Full Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Acrylic",
+    "external_volume": "",
+    "internal_35_bays": 7
+  },
+  {
+    "Name": "GameMax Master M905",
+    "Price": 109.99,
+    "Type": "ATX Full Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 53.8,
+    "internal_35_bays": 8
+  },
+  {
+    "Name": "Corsair 2000D RGB AIRFLOW",
+    "Price": 159.99,
+    "Type": "Mini ITX Tower",
+    "Color": "White",
+    "psu": "",
+    "Side_Panel": "Mesh",
+    "external_volume": 24.8,
+    "internal_35_bays": 0
+  },
+  {
+    "Name": "Thermaltake CTE C750 Air ARGB",
+    "Price": 179.99,
+    "Type": "ATX Full Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 110.7,
+    "internal_35_bays": 7
+  },
+  {
+    "Name": "Zalman Z1 Iceberg",
+    "Price": 59.99,
+    "Type": "MicroATX Mid Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 38.5,
+    "internal_35_bays": 2
+  },
+  {
+    "Name": "Thermaltake CTE T500 Air",
+    "Price": 139.99,
+    "Type": "ATX Full Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 87.3,
+    "internal_35_bays": 4
+  },
+  {
+    "Name": "Fractal Design Define 7 XL Light",
+    "Price": 439.41,
+    "Type": "ATX Full Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 82,
+    "internal_35_bays": 6
+  },
+  {
+    "Name": "Fractal Design Pop Mini Silent",
+    "Price": 100,
+    "Type": "MicroATX Mid Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 36.5,
+    "internal_35_bays": 2
+  },
+  {
+    "Name": "Cooler Master Cosmos C700P Black Edition",
+    "Price": 482.42,
+    "Type": "ATX Full Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 127.3,
+    "internal_35_bays": 2
+  },
+  {
+    "Name": "Phanteks Enthoo Pro 2 Server Edition",
+    "Price": 149.99,
+    "Type": "ATX Full Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "",
+    "external_volume": 78,
+    "internal_35_bays": 4
+  },
+  {
+    "Name": "Fractal Design Meshify 2 Nano",
+    "Price": 112,
+    "Type": "Mini ITX Tower",
+    "Color": "White",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 29.3,
+    "internal_35_bays": 1
+  },
+  {
+    "Name": "Silverstone SG13 V2",
+    "Price": 64.56,
+    "Type": "Mini ITX Tower",
+    "Color": "Pink",
+    "psu": "",
+    "Side_Panel": "",
+    "external_volume": 11.5,
+    "internal_35_bays": 1
+  },
+  {
+    "Name": "Antec Performance 1 FT",
+    "Price": 134.99,
+    "Type": "ATX Full Tower",
+    "Color": "White",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 62.7,
+    "internal_35_bays": 2
+  },
+  {
+    "Name": "RAIJINTEK PAEAN MINI",
+    "Price": 69.9,
+    "Type": "Mini ITX Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 26,
+    "internal_35_bays": 1
+  },
+  {
+    "Name": "Jonsbo D300",
+    "Price": 136,
+    "Type": "MicroATX Mid Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 45.8,
+    "internal_35_bays": 2
+  },
+  {
+    "Name": "Thermaltake Divider 170 TG ARGB",
+    "Price": 84.98,
+    "Type": "MicroATX Mid Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 36.5,
+    "internal_35_bays": 2
+  },
+  {
+    "Name": "Fractal Design Define Mini C TG",
+    "Price": 113.29,
+    "Type": "MicroATX Mid Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 36.9,
+    "internal_35_bays": 2
+  },
+  {
+    "Name": "Fractal Design Meshify 2 Mini",
+    "Price": 213.08,
+    "Type": "MicroATX Mid Tower",
+    "Color": "White / Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 33,
+    "internal_35_bays": 2
+  },
+  {
+    "Name": "HYTE REVOLT 3",
+    "Price": 199.99,
+    "Type": "Mini ITX Tower",
+    "Color": "White",
+    "psu": 700,
+    "Side_Panel": "Mesh",
+    "external_volume": "",
+    "internal_35_bays": 1
+  },
+  {
+    "Name": "Thermaltake AH T600 Snow",
+    "Price": 299.99,
+    "Type": "ATX Full Tower",
+    "Color": "White / Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 161.6,
+    "internal_35_bays": 2
+  },
+  {
+    "Name": "Thermaltake The Tower 300",
+    "Price": 149.99,
+    "Type": "MicroATX Mid Tower",
+    "Color": "Turquoise / Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 53,
+    "internal_35_bays": 3
+  },
+  {
+    "Name": "Phanteks Enthoo 719",
+    "Price": 169.99,
+    "Type": "ATX Full Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 81.4,
+    "internal_35_bays": 4
+  },
+  {
+    "Name": "GAMDIAS NESO P1",
+    "Price": 150.99,
+    "Type": "ATX Full Tower",
+    "Color": "Black / Red",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 75.2,
+    "internal_35_bays": 5
+  },
+  {
+    "Name": "Deepcool CH360",
+    "Price": 91.98,
+    "Type": "MicroATX Mid Tower",
+    "Color": "White",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 39.7,
+    "internal_35_bays": 2
+  },
+  {
+    "Name": "Fractal Design Torrent Nano RGB",
+    "Price": 230.12,
+    "Type": "Mini ITX Tower",
+    "Color": "White",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 34.6,
+    "internal_35_bays": 1
+  },
+  {
+    "Name": "Antec Performance 1 SILENT",
+    "Price": 144.99,
+    "Type": "ATX Full Tower",
+    "Color": "Black / Silver",
+    "psu": "",
+    "Side_Panel": "",
+    "external_volume": 62.7,
+    "internal_35_bays": 2
+  },
+  {
+    "Name": "Asus ROG Z11",
+    "Price": 279.99,
+    "Type": "Mini ITX Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tinted Tempered Glass",
+    "external_volume": "",
+    "internal_35_bays": 1
+  },
+  {
+    "Name": "Thermaltake View 51 ARGB Edition",
+    "Price": 179.99,
+    "Type": "ATX Full Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": "",
+    "internal_35_bays": 2
+  },
+  {
+    "Name": "Zalman Z1 Iceberg",
+    "Price": 59.99,
+    "Type": "MicroATX Mid Tower",
+    "Color": "White",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 38.5,
+    "internal_35_bays": 2
+  },
+  {
+    "Name": "Silverstone SG13",
+    "Price": 71.09,
+    "Type": "Mini ITX Tower",
+    "Color": "White / Black",
+    "psu": "",
+    "Side_Panel": "",
+    "external_volume": 11.5,
+    "internal_35_bays": 1
+  },
+  {
+    "Name": "Thermaltake Core P8 TG",
+    "Price": 234.98,
+    "Type": "ATX Full Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": "",
+    "internal_35_bays": 3
+  },
+  {
+    "Name": "Antec VSK10",
+    "Price": 51.52,
+    "Type": "MicroATX Mid Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "",
+    "external_volume": "",
+    "internal_35_bays": 2
+  },
+  {
+    "Name": "Thermaltake Core X71",
+    "Price": 149.99,
+    "Type": "ATX Full Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Acrylic",
+    "external_volume": "",
+    "internal_35_bays": 3
+  },
+  {
+    "Name": "Thermaltake AH T600",
+    "Price": 299.99,
+    "Type": "ATX Full Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 161.6,
+    "internal_35_bays": 2
+  },
+  {
+    "Name": "Cooler Master MasterBox Lite 3.1",
+    "Price": 67.2,
+    "Type": "MicroATX Mid Tower",
+    "Color": "Black / Red",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 36.1,
+    "internal_35_bays": 2
+  },
+  {
+    "Name": "Thermaltake Divider 170 TG Snow ARGB",
+    "Price": 79.98,
+    "Type": "MicroATX Mid Tower",
+    "Color": "White / Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 36.5,
+    "internal_35_bays": 2
+  },
+  {
+    "Name": "Lian Li ODYSSEY X",
+    "Price": 137.98,
+    "Type": "ATX Full Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": "",
+    "internal_35_bays": 3
+  },
+  {
+    "Name": "Thermaltake Core W100",
+    "Price": 354.98,
+    "Type": "ATX Full Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Acrylic",
+    "external_volume": "",
+    "internal_35_bays": 10
+  },
+  {
+    "Name": "be quiet! Dark Base 900",
+    "Price": 464.36,
+    "Type": "ATX Full Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "",
+    "external_volume": 82,
+    "internal_35_bays": 7
+  },
+  {
+    "Name": "Jonsbo D300",
+    "Price": 136,
+    "Type": "MicroATX Mid Tower",
+    "Color": "White",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 45.8,
+    "internal_35_bays": 2
+  },
+  {
+    "Name": "Thermaltake The Tower 300",
+    "Price": 149.99,
+    "Type": "MicroATX Mid Tower",
+    "Color": "Green / Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 53,
+    "internal_35_bays": 3
+  },
+  {
+    "Name": "Thermaltake Core V71 TG",
+    "Price": 186.86,
+    "Type": "ATX Full Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": "",
+    "internal_35_bays": 8
+  },
+  {
+    "Name": "Thermaltake The Tower 300 Matcha",
+    "Price": 149.99,
+    "Type": "MicroATX Mid Tower",
+    "Color": "Green",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 53,
+    "internal_35_bays": 3
+  },
+  {
+    "Name": "SHARKOON REV300",
+    "Price": 398.13,
+    "Type": "ATX Full Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 65.6,
+    "internal_35_bays": 4
+  },
+  {
+    "Name": "RAIJINTEK OPHION ELITE WHITE",
+    "Price": 79.9,
+    "Type": "Mini ITX Tower",
+    "Color": "White",
+    "psu": "",
+    "Side_Panel": "Mesh",
+    "external_volume": 24.9,
+    "internal_35_bays": 3
+  },
+  {
+    "Name": "Silverstone PS15",
+    "Price": 70.68,
+    "Type": "MicroATX Mid Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 25.7,
+    "internal_35_bays": 1
+  },
+  {
+    "Name": "Thermaltake V150 Tempered Glass ARGB Breeze",
+    "Price": 93.82,
+    "Type": "MicroATX Mid Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": "",
+    "internal_35_bays": 2
+  },
+  {
+    "Name": "Apex TX-606-U3",
+    "Price": 84.35,
+    "Type": "MicroATX Mid Tower",
+    "Color": "Black",
+    "psu": 300,
+    "Side_Panel": "",
+    "external_volume": 27.9,
+    "internal_35_bays": 5
+  },
+  {
+    "Name": "Thermaltake CTE T500 Air",
+    "Price": 119.99,
+    "Type": "ATX Full Tower",
+    "Color": "White",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 87.3,
+    "internal_35_bays": 4
+  },
+  {
+    "Name": "Anidees AI CRYSTAL XL PRO LITE",
+    "Price": 299.89,
+    "Type": "ATX Full Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": "",
+    "internal_35_bays": 0
+  },
+  {
+    "Name": "Apex MI-008",
+    "Price": 69.27,
+    "Type": "Mini ITX Tower",
+    "Color": "Black",
+    "psu": 250,
+    "Side_Panel": "",
+    "external_volume": 8.5,
+    "internal_35_bays": 1
+  },
+  {
+    "Name": "Thermaltake The Tower 200 Bumblebee",
+    "Price": 129.99,
+    "Type": "Mini ITX Tower",
+    "Color": "Yellow / Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 45.1,
+    "internal_35_bays": 2
+  },
+  {
+    "Name": "Thermaltake View 71 TG",
+    "Price": 199.99,
+    "Type": "ATX Full Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Acrylic",
+    "external_volume": "",
+    "internal_35_bays": 7
+  },
+  {
+    "Name": "Deepcool CH360 DIGITAL",
+    "Price": 99.99,
+    "Type": "MicroATX Mid Tower",
+    "Color": "White",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 39.7,
+    "internal_35_bays": 2
+  },
+  {
+    "Name": "Thermaltake View 51 Snow ARGB Edition",
+    "Price": 199.99,
+    "Type": "ATX Full Tower",
+    "Color": "White",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": "",
+    "internal_35_bays": 2
+  },
+  {
+    "Name": "GAMDIAS NESO P1",
+    "Price": 150.99,
+    "Type": "ATX Full Tower",
+    "Color": "Black / White",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 75.2,
+    "internal_35_bays": 5
+  },
+  {
+    "Name": "Thermaltake The Tower 200",
+    "Price": 129.99,
+    "Type": "Mini ITX Tower",
+    "Color": "Green",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 45.1,
+    "internal_35_bays": 2
+  },
+  {
+    "Name": "Thermaltake The Tower 100",
+    "Price": 99.99,
+    "Type": "Mini ITX Tower",
+    "Color": "Green / Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": "",
+    "internal_35_bays": 2
+  },
+  {
+    "Name": "Phanteks Enthoo Series Primo Aluminum",
+    "Price": 219.99,
+    "Type": "ATX Full Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Acrylic",
+    "external_volume": 96.8,
+    "internal_35_bays": 6
+  },
+  {
+    "Name": "Thermaltake View 71 TG Snow",
+    "Price": 204.99,
+    "Type": "ATX Full Tower",
+    "Color": "White",
+    "psu": "",
+    "Side_Panel": "Acrylic",
+    "external_volume": "",
+    "internal_35_bays": 7
+  },
+  {
+    "Name": "Thermaltake CTE C750 Air ARGB",
+    "Price": 169.56,
+    "Type": "ATX Full Tower",
+    "Color": "White",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 110.7,
+    "internal_35_bays": 7
+  },
+  {
+    "Name": "be quiet! Dark Base Pro 901",
+    "Price": 307.14,
+    "Type": "ATX Full Tower",
+    "Color": "White",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 94.5,
+    "internal_35_bays": 2
+  },
+  {
+    "Name": "Thermaltake Versa H15",
+    "Price": 149,
+    "Type": "MicroATX Mid Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Acrylic",
+    "external_volume": "",
+    "internal_35_bays": 3
+  },
+  {
+    "Name": "Silverstone ALTA G1M",
+    "Price": 153.33,
+    "Type": "MicroATX Mid Tower",
+    "Color": "",
+    "psu": "",
+    "Side_Panel": "",
+    "external_volume": "",
+    "internal_35_bays": 4
+  },
+  {
+    "Name": "Silverstone DS380B",
+    "Price": 214.82,
+    "Type": "Mini ITX Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "",
+    "external_volume": "",
+    "internal_35_bays": 0
+  },
+  {
+    "Name": "Cooler Master MasterFrame 700",
+    "Price": 191.99,
+    "Type": "ATX Full Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": "",
+    "internal_35_bays": 4
+  },
+  {
+    "Name": "Thermaltake CTE C750 ARGB",
+    "Price": 168.99,
+    "Type": "ATX Full Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 110.7,
+    "internal_35_bays": 7
+  },
+  {
+    "Name": "be quiet! Dark Base 900",
+    "Price": 370,
+    "Type": "ATX Full Tower",
+    "Color": "Black / Orange",
+    "psu": "",
+    "Side_Panel": "",
+    "external_volume": 82,
+    "internal_35_bays": 7
+  },
+  {
+    "Name": "Cougar PANZER MAX-G",
+    "Price": 173.99,
+    "Type": "ATX Full Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 90.5,
+    "internal_35_bays": 2
+  },
+  {
+    "Name": "Phanteks Enthoo Primo",
+    "Price": 209.99,
+    "Type": "ATX Full Tower",
+    "Color": "Black / White",
+    "psu": "",
+    "Side_Panel": "Acrylic",
+    "external_volume": "",
+    "internal_35_bays": 6
+  },
+  {
+    "Name": "Thermaltake The Tower 100",
+    "Price": 99.99,
+    "Type": "Mini ITX Tower",
+    "Color": "Turquoise / Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": "",
+    "internal_35_bays": 2
+  },
+  {
+    "Name": "Deepcool MORPHEUS",
+    "Price": 159.99,
+    "Type": "ATX Full Tower",
+    "Color": "White",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 72.7,
+    "internal_35_bays": 2
+  },
+  {
+    "Name": "Cougar Panzer Max",
+    "Price": 174.99,
+    "Type": "ATX Full Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Acrylic",
+    "external_volume": 90.5,
+    "internal_35_bays": 2
+  },
+  {
+    "Name": "RAIJINTEK ASTERION CLASSIC",
+    "Price": 99.9,
+    "Type": "ATX Full Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 56,
+    "internal_35_bays": 3
+  },
+  {
+    "Name": "Thermaltake View 71 ARGB",
+    "Price": 229.99,
+    "Type": "ATX Full Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": "",
+    "internal_35_bays": 7
+  },
+  {
+    "Name": "Silverstone Sugo 16",
+    "Price": 88,
+    "Type": "Mini ITX Tower",
+    "Color": "White",
+    "psu": "",
+    "Side_Panel": "",
+    "external_volume": 13,
+    "internal_35_bays": 1
+  },
+  {
+    "Name": "Silverstone PS15",
+    "Price": 69.94,
+    "Type": "MicroATX Mid Tower",
+    "Color": "White",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 25.7,
+    "internal_35_bays": 1
+  },
+  {
+    "Name": "Phanteks Enthoo 719",
+    "Price": 159.99,
+    "Type": "ATX Full Tower",
+    "Color": "Gray",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 81.4,
+    "internal_35_bays": 4
+  },
+  {
+    "Name": "be quiet! Dark Base 900",
+    "Price": 375,
+    "Type": "ATX Full Tower",
+    "Color": "Black / Silver",
+    "psu": "",
+    "Side_Panel": "",
+    "external_volume": 82,
+    "internal_35_bays": 7
+  },
+  {
+    "Name": "Thermaltake The Tower 200",
+    "Price": 129.99,
+    "Type": "Mini ITX Tower",
+    "Color": "Beige",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 45.1,
+    "internal_35_bays": 2
+  },
+  {
+    "Name": "Cougar PANZER EVO RGB",
+    "Price": 264.74,
+    "Type": "ATX Full Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": "",
+    "internal_35_bays": 2
+  },
+  {
+    "Name": "Silverstone PS15 PRO",
+    "Price": 193.53,
+    "Type": "MicroATX Mid Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 25.7,
+    "internal_35_bays": 1
+  },
+  {
+    "Name": "Rosewill Legacy V3 Plus-B",
+    "Price": 90,
+    "Type": "Mini ITX Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "",
+    "external_volume": 10,
+    "internal_35_bays": 1
+  },
+  {
+    "Name": "Thermaltake AH T200",
+    "Price": 169.99,
+    "Type": "MicroATX Mid Tower",
+    "Color": "Pink / Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": "",
+    "internal_35_bays": 2
+  },
+  {
+    "Name": "Lian Li ODYSSEY X",
+    "Price": 187.98,
+    "Type": "ATX Full Tower",
+    "Color": "Silver / Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": "",
+    "internal_35_bays": 3
+  },
+  {
+    "Name": "Cougar MX600 RGB",
+    "Price": 181.75,
+    "Type": "ATX Full Tower",
+    "Color": "White",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 57.8,
+    "internal_35_bays": 1
+  },
+  {
+    "Name": "Phanteks Evolv Shift 2",
+    "Price": 140.84,
+    "Type": "Mini ITX Tower",
+    "Color": "Gray",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 22.8,
+    "internal_35_bays": 1
+  },
+  {
+    "Name": "Thermaltake AH T200 Snow",
+    "Price": 134.88,
+    "Type": "MicroATX Mid Tower",
+    "Color": "White",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": "",
+    "internal_35_bays": 2
+  },
+  {
+    "Name": "In Win BP655.FH300TB3",
+    "Price": 92.34,
+    "Type": "Mini ITX Tower",
+    "Color": "Black / Blue",
+    "psu": 300,
+    "Side_Panel": "",
+    "external_volume": 8.1,
+    "internal_35_bays": 2
+  },
+  {
+    "Name": "Azza Elise",
+    "Price": 69.98,
+    "Type": "MicroATX Mid Tower",
+    "Color": "Black / Pink",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 34.4,
+    "internal_35_bays": 2
+  },
+  {
+    "Name": "Thermaltake The Tower 200",
+    "Price": 134.98,
+    "Type": "Mini ITX Tower",
+    "Color": "Turquoise",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 45.1,
+    "internal_35_bays": 2
+  },
+  {
+    "Name": "Thermaltake CTE C750 ARGB",
+    "Price": 179.99,
+    "Type": "ATX Full Tower",
+    "Color": "White",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 110.7,
+    "internal_35_bays": 7
+  },
+  {
+    "Name": "Jonsbo D500",
+    "Price": 320,
+    "Type": "ATX Full Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 90.8,
+    "internal_35_bays": 10
+  },
+  {
+    "Name": "In Win A1 Plus",
+    "Price": 219.99,
+    "Type": "Mini ITX Tower",
+    "Color": "White",
+    "psu": 650,
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 21.8,
+    "internal_35_bays": 0
+  },
+  {
+    "Name": "Silverstone Precision PS15 RGB",
+    "Price": 74.92,
+    "Type": "MicroATX Mid Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 25.7,
+    "internal_35_bays": 1
+  },
+  {
+    "Name": "RAIJINTEK Metis Plus",
+    "Price": 80.53,
+    "Type": "Mini ITX Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Acrylic",
+    "external_volume": 13.4,
+    "internal_35_bays": 2
+  },
+  {
+    "Name": "Azza Pyramid Mini 806",
+    "Price": 279.99,
+    "Type": "Mini ITX Tower",
+    "Color": "Silver / Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": "",
+    "internal_35_bays": 0
+  },
+  {
+    "Name": "Jonsbo D300 4PCS",
+    "Price": 129.99,
+    "Type": "MicroATX Mid Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 45.8,
+    "internal_35_bays": 2
+  },
+  {
+    "Name": "G.Skill Z5i",
+    "Price": 139.99,
+    "Type": "Mini ITX Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 24.4,
+    "internal_35_bays": 1
+  },
+  {
+    "Name": "RAIJINTEK ASTERION CLASSIC",
+    "Price": 99.9,
+    "Type": "ATX Full Tower",
+    "Color": "Silver",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 56,
+    "internal_35_bays": 3
+  },
+  {
+    "Name": "Thermaltake CTE T500",
+    "Price": 134.29,
+    "Type": "ATX Full Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 87.3,
+    "internal_35_bays": 4
+  },
+  {
+    "Name": "Supermicro SuperChassis 721TQ-350B2",
+    "Price": 271.93,
+    "Type": "Mini ITX Tower",
+    "Color": "Black",
+    "psu": 350,
+    "Side_Panel": "",
+    "external_volume": 14.1,
+    "internal_35_bays": 0
+  },
+  {
+    "Name": "darkFlash DLH21",
+    "Price": 129.44,
+    "Type": "Mini ITX Tower",
+    "Color": "White",
+    "psu": "",
+    "Side_Panel": "",
+    "external_volume": 17.2,
+    "internal_35_bays": 1
+  },
+  {
+    "Name": "Thermaltake V150",
+    "Price": 98.49,
+    "Type": "MicroATX Mid Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": "",
+    "internal_35_bays": 2
+  },
+  {
+    "Name": "In Win A1 Plus",
+    "Price": 219.99,
+    "Type": "Mini ITX Tower",
+    "Color": "Black",
+    "psu": 650,
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 21.8,
+    "internal_35_bays": 0
+  },
+  {
+    "Name": "Silverstone Lucid LD03",
+    "Price": 109.99,
+    "Type": "Mini ITX Tower",
+    "Color": "",
+    "psu": "",
+    "Side_Panel": "Tinted Tempered Glass",
+    "external_volume": 25.2,
+    "internal_35_bays": 1
+  },
+  {
+    "Name": "RAIJINTEK Metis Plus",
+    "Price": 80.53,
+    "Type": "Mini ITX Tower",
+    "Color": "Silver",
+    "psu": "",
+    "Side_Panel": "Acrylic",
+    "external_volume": 13.4,
+    "internal_35_bays": 2
+  },
+  {
+    "Name": "Phanteks EVOLV SHIFT 2 AIR",
+    "Price": 191.37,
+    "Type": "Mini ITX Tower",
+    "Color": "Gray / Black",
+    "psu": "",
+    "Side_Panel": "",
+    "external_volume": "",
+    "internal_35_bays": 1
+  },
+  {
+    "Name": "Jonsbo V11",
+    "Price": 397.69,
+    "Type": "Mini ITX Tower",
+    "Color": "Silver",
+    "psu": "",
+    "Side_Panel": "Mesh",
+    "external_volume": 13,
+    "internal_35_bays": 0
+  },
+  {
+    "Name": "Thermaltake AH T200",
+    "Price": 129.99,
+    "Type": "MicroATX Mid Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": "",
+    "internal_35_bays": 2
+  },
+  {
+    "Name": "SHARKOON MS-Y1000",
+    "Price": 81.86,
+    "Type": "MicroATX Mid Tower",
+    "Color": "White",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 26.2,
+    "internal_35_bays": 1
+  },
+  {
+    "Name": "Thermaltake AH T200",
+    "Price": 134.98,
+    "Type": "MicroATX Mid Tower",
+    "Color": "Green / Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": "",
+    "internal_35_bays": 2
+  },
+  {
+    "Name": "SaharaGaming M808W",
+    "Price": 193.54,
+    "Type": "MicroATX Mid Tower",
+    "Color": "White",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 41.9,
+    "internal_35_bays": 2
+  },
+  {
+    "Name": "Thermaltake CTE T500",
+    "Price": 179.99,
+    "Type": "ATX Full Tower",
+    "Color": "White",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 87.3,
+    "internal_35_bays": 4
+  },
+  {
+    "Name": "Chieftec BT-02B-U3-250VS (230V)",
+    "Price": 181,
+    "Type": "Mini ITX Tower",
+    "Color": "",
+    "psu": 250,
+    "Side_Panel": "",
+    "external_volume": 9.6,
+    "internal_35_bays": 1
+  },
+  {
+    "Name": "FSP Group CUT593A",
+    "Price": 104.99,
+    "Type": "ATX Full Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 62.6,
+    "internal_35_bays": 3
+  },
+  {
+    "Name": "Silverstone ALTA G1M",
+    "Price": 159.85,
+    "Type": "MicroATX Mid Tower",
+    "Color": "White",
+    "psu": "",
+    "Side_Panel": "",
+    "external_volume": "",
+    "internal_35_bays": 4
+  },
+  {
+    "Name": "Cougar Dust 2",
+    "Price": 166.87,
+    "Type": "Mini ITX Tower",
+    "Color": "Black / Gold",
+    "psu": "",
+    "Side_Panel": "Mesh",
+    "external_volume": 23.6,
+    "internal_35_bays": 0
+  },
+  {
+    "Name": "SHARKOON MS-Y1000",
+    "Price": 77.55,
+    "Type": "MicroATX Mid Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 26.2,
+    "internal_35_bays": 1
+  },
+  {
+    "Name": "SHARKOON MS-Z1000",
+    "Price": 76.62,
+    "Type": "MicroATX Mid Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 26.2,
+    "internal_35_bays": 1
+  },
+  {
+    "Name": "RAIJINTEK OPHION M EVO TGS",
+    "Price": 69.9,
+    "Type": "MicroATX Mid Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": "",
+    "internal_35_bays": 3
+  },
+  {
+    "Name": "RAIJINTEK Metis Plus",
+    "Price": 80.53,
+    "Type": "Mini ITX Tower",
+    "Color": "White",
+    "psu": "",
+    "Side_Panel": "Acrylic",
+    "external_volume": 13.4,
+    "internal_35_bays": 2
+  },
+  {
+    "Name": "RAIJINTEK Metis Plus",
+    "Price": 80.53,
+    "Type": "Mini ITX Tower",
+    "Color": "Blue",
+    "psu": "",
+    "Side_Panel": "Acrylic",
+    "external_volume": 13.4,
+    "internal_35_bays": 2
+  },
+  {
+    "Name": "RAIJINTEK Metis Plus",
+    "Price": 80.53,
+    "Type": "Mini ITX Tower",
+    "Color": "Red",
+    "psu": "",
+    "Side_Panel": "Acrylic",
+    "external_volume": 13.4,
+    "internal_35_bays": 2
+  },
+  {
+    "Name": "Silverstone CS280B",
+    "Price": 199.48,
+    "Type": "Mini ITX Tower",
+    "Color": "Black / Silver",
+    "psu": "",
+    "Side_Panel": "",
+    "external_volume": "",
+    "internal_35_bays": 0
+  },
+  {
+    "Name": "iStarUSA S-917",
+    "Price": 317.94,
+    "Type": "Mini ITX Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "",
+    "external_volume": 28.2,
+    "internal_35_bays": 0
+  },
+  {
+    "Name": "RAIJINTEK OPHION M EVO ALS",
+    "Price": 69.9,
+    "Type": "MicroATX Mid Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "",
+    "external_volume": "",
+    "internal_35_bays": 3
+  },
+  {
+    "Name": "FSP Group CUT593P",
+    "Price": 149.99,
+    "Type": "ATX Full Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 62.6,
+    "internal_35_bays": 3
+  },
+  {
+    "Name": "Thermaltake Level 20 GT",
+    "Price": 292.99,
+    "Type": "ATX Full Tower",
+    "Color": "Black / Silver",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 100.9,
+    "internal_35_bays": 7
+  },
+  {
+    "Name": "Antec VSK10 Window",
+    "Price": 78.2,
+    "Type": "MicroATX Mid Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Acrylic",
+    "external_volume": "",
+    "internal_35_bays": 2
+  },
+  {
+    "Name": "Azza Zircon 7000B",
+    "Price": 169.99,
+    "Type": "ATX Full Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 61.8,
+    "internal_35_bays": 5
+  },
+  {
+    "Name": "Silverstone CS01",
+    "Price": 149.99,
+    "Type": "Mini ITX Tower",
+    "Color": "Silver",
+    "psu": "",
+    "Side_Panel": "",
+    "external_volume": "",
+    "internal_35_bays": 2
+  },
+  {
+    "Name": "Thermaltake Level 20 GT ARGB",
+    "Price": 353.38,
+    "Type": "ATX Full Tower",
+    "Color": "Silver / Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 100.9,
+    "internal_35_bays": 7
+  },
+  {
+    "Name": "Silverstone Lucid LD03-AF",
+    "Price": 138.38,
+    "Type": "Mini ITX Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 25.2,
+    "internal_35_bays": 1
+  },
+  {
+    "Name": "Azza CUBE MINI 805",
+    "Price": 299.99,
+    "Type": "Mini ITX Tower",
+    "Color": "Silver / Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 17.6,
+    "internal_35_bays": 0
+  },
+  {
+    "Name": "Silverstone FARA V1M PRO",
+    "Price": 76.56,
+    "Type": "MicroATX Mid Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 36,
+    "internal_35_bays": 2
+  },
+  {
+    "Name": "BitFenix Colossus Micro",
+    "Price": 230,
+    "Type": "MicroATX Mid Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "",
+    "external_volume": 30.6,
+    "internal_35_bays": 4
+  },
+  {
+    "Name": "Thermaltake Level 20 HT Snow Edition",
+    "Price": 311.54,
+    "Type": "ATX Full Tower",
+    "Color": "",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": "",
+    "internal_35_bays": 4
+  },
+  {
+    "Name": "Cougar GEMINI X",
+    "Price": 806.55,
+    "Type": "ATX Full Tower",
+    "Color": "Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": "",
+    "internal_35_bays": 4
+  },
+  {
+    "Name": "Thermaltake AH T200",
+    "Price": 134.98,
+    "Type": "MicroATX Mid Tower",
+    "Color": "Turquoise / Black",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": "",
+    "internal_35_bays": 2
+  },
+  {
+    "Name": "SHARKOON MS-Z1000",
+    "Price": 152.43,
+    "Type": "MicroATX Mid Tower",
+    "Color": "White",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 26.2,
+    "internal_35_bays": 1
+  },
+  {
+    "Name": "FSP Group CUT593P",
+    "Price": 159.99,
+    "Type": "ATX Full Tower",
+    "Color": "White",
+    "psu": "",
+    "Side_Panel": "Tempered Glass",
+    "external_volume": 62.6,
+    "internal_35_bays": 3
+  },
+  {
+    "Name": "RAIJINTEK Metis Plus",
+    "Price": 80.53,
+    "Type": "Mini ITX Tower",
+    "Color": "Gold",
+    "psu": "",
+    "Side_Panel": "Acrylic",
+    "external_volume": 13.4,
+    "internal_35_bays": 2
+  },
+  {
+    "Name": "Silverstone CS01-HS",
+    "Price": 199.99,
+    "Type": "Mini ITX Tower",
+    "Color": "Silver",
+    "psu": "",
+    "Side_Panel": "",
+    "external_volume": "",
+    "internal_35_bays": 0
+  },
+  {
+    "Name": "Chieftec BT-04B-U3-250VS (230V)",
+    "Price": 235,
+    "Type": "Mini ITX Tower",
+    "Color": "Black",
+    "psu": 250,
+    "Side_Panel": "",
+    "external_volume": 10.5,
+    "internal_35_bays": 1
+  }
+]
