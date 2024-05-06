@@ -11,6 +11,7 @@ using System.Text;
 using Infrastructure.Services;
 using Core.Entites.Identity;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
 
 
 namespace Setup_Master.API.Services
@@ -19,15 +20,15 @@ namespace Setup_Master.API.Services
     {
         private readonly UserManager<User> _userManager;
         private readonly IMapper _mapper; // Inject IMapper
-        private readonly Jwt _jwt;
+        private readonly IConfiguration _config;
         private readonly RoleManager<IdentityRole> _roleManager;
         private readonly EmailService emailService;
 
 
-        public AuthService(UserManager<User> userManager, IOptions<Jwt> jwt, RoleManager<IdentityRole> roleManager, IMapper mapper,EmailService emailService)
+        public AuthService(UserManager<User> userManager, IConfiguration config, RoleManager<IdentityRole> roleManager, IMapper mapper,EmailService emailService)
         {
             _userManager = userManager;
-            _jwt = jwt.Value;
+            _config = config;
             _mapper = mapper; // Initialize IMapper
             _roleManager = roleManager;
             this.emailService=emailService;
@@ -147,14 +148,14 @@ namespace Setup_Master.API.Services
             .Union(userClaims)
             .Union(roleClaims);
 
-            var symmetricSecurityKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_jwt.Key));
+            var symmetricSecurityKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_config["Jwt:Key"]));
             var signingCredentials = new SigningCredentials(symmetricSecurityKey, SecurityAlgorithms.HmacSha256);
-
+            double t = Convert.ToDouble(_config["Jwt:DurationInDays"]);
             var jwtSecurityToken = new JwtSecurityToken(
-                issuer: _jwt.Issuer,
-                audience: _jwt.Audience,
+                issuer: _config["Jwt:Issuer"],
+                audience: _config["Jwt:Audience"],
                 claims: claims,
-                expires: DateTime.Now.AddDays(_jwt.DurationInDays),
+                expires: DateTime.Now.AddDays(t),
                 signingCredentials: signingCredentials
             );
 

@@ -56,19 +56,22 @@ namespace API
             builder.Services.AddAuthentication(options =>
             {
                 options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
+                options.DefaultScheme = JwtBearerDefaults.AuthenticationScheme;
                 options.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
             })
             .AddJwtBearer(jwt =>
             {
                 var key = Encoding.UTF8.GetBytes(builder.Configuration.GetSection("Jwt:Key").Value);
-                jwt.SaveToken = true;
+                jwt.SaveToken = false;
                 jwt.TokenValidationParameters = new TokenValidationParameters
                 {
                     ValidateIssuerSigningKey = true,
                     IssuerSigningKey = new SymmetricSecurityKey(key),
                     ValidateIssuer = true,
-                    //ValidateAudience = true,
-                    RequireExpirationTime = true, // for dev -- needs to be updated when refresh token is added
+                    ValidateAudience = true,
+                    ValidIssuer = "SecureGradApi",
+                    ValidAudience = "SecuregradUser",
+                    RequireExpirationTime = true, 
                     ValidateLifetime = true
                 };
             });
