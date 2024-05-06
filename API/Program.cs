@@ -7,7 +7,9 @@ using Infrastructure.Services;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Options;
 using Microsoft.IdentityModel.Tokens;
+using Microsoft.OpenApi.Models;
 using Setup_Master.API.Services;
 using System.Text;
 
@@ -33,6 +35,8 @@ namespace API
             options.UseSqlServer(builder.Configuration.GetConnectionString("BenchmarkConnection")));
             builder.Services.AddIdentity<User,IdentityRole>().AddEntityFrameworkStores<AppIdentityDbContext>()
                 .AddDefaultTokenProviders()
+                .AddRoles<IdentityRole>()
+                .AddRoleManager<RoleManager<IdentityRole>>()
                 .AddSignInManager<SignInManager<User>>();
             builder.Services.AddScoped<IAuthService, AuthService>();
             builder.Services.AddScoped<IProcessorService,ProcessorService>();
@@ -52,23 +56,23 @@ namespace API
             builder.Services.AddAuthentication(options =>
             {
                 options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
-                options.DefaultScheme = JwtBearerDefaults.AuthenticationScheme;
                 options.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
             })
             .AddJwtBearer(jwt =>
             {
-                var key = Encoding.ASCII.GetBytes(builder.Configuration.GetSection("Jwt:Key").Value);
-                jwt.SaveToken = false;
+                var key = Encoding.UTF8.GetBytes(builder.Configuration.GetSection("Jwt:Key").Value);
+                jwt.SaveToken = true;
                 jwt.TokenValidationParameters = new TokenValidationParameters
                 {
                     ValidateIssuerSigningKey = true,
                     IssuerSigningKey = new SymmetricSecurityKey(key),
                     ValidateIssuer = true,
-                    ValidateAudience = true,
+                    //ValidateAudience = true,
                     RequireExpirationTime = true, // for dev -- needs to be updated when refresh token is added
                     ValidateLifetime = true
                 };
             });
+            builder.Services.AddAuthorization();
             builder.Services.AddCors(options =>
             {
                 options.AddPolicy("AllowAll",
@@ -80,7 +84,31 @@ namespace API
             builder.Services.AddControllers();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
-            builder.Services.AddSwaggerGen();
+            builder.Services.AddSwaggerGen(c=>
+            {
+                var securitySchema = new OpenApiSecurityScheme
+                {
+                    Description = "JWT Auth Bearer Shceme",
+                    Name = "Autharization",
+                    In = ParameterLocation.Header,
+                    Type=SecuritySchemeType.Http,
+                    Scheme = "Bearer",
+                    Reference= new OpenApiReference
+                    {
+                        Type = ReferenceType.SecurityScheme,
+                        Id = "Bearer"
+                    }
+                };
+                c.AddSecurityDefinition("Bearer", securitySchema);
+                var securityrequriments = new OpenApiSecurityRequirement
+                {
+                    {
+                        securitySchema, new [] {"Bearer"}
+                    }
+                };
+                c.AddSecurityRequirement(securityrequriments);
+            }
+            );
 
 
             var app = builder.Build();
@@ -92,8 +120,7 @@ namespace API
 
             // Configure the HTTP request pipeline.
 
-            app.UseHttpsRedirection();
-
+            //app.UseHttpsRedirection();
             
             app.UseCors("AllowAll");
 
@@ -112,6 +139,7 @@ namespace API
             var IdentityContext = services.GetRequiredService<AppIdentityDbContext>();
             var BenchmarkContext = services.GetService<BenchmarkDbContext>();
             var userManager = services.GetRequiredService<UserManager<User>>();
+            var roleManager = services.GetRequiredService<RoleManager<IdentityRole>>();
             var logger = services.GetRequiredService<ILogger<Program>>();
             try
             {
@@ -122,12 +150,13 @@ namespace API
                 await SetupMasterContentSeed.SeedAsync(context);
                 await AppIdentityContentSeed.SeedusersAsync(userManager);
                 await BenchmarkContentSeed.SeedAsync(BenchmarkContext);
+                IdentityIntializer.IntializeRole(roleManager, userManager,"abdullahamer323@gmail.com").Wait();
             }
             catch (Exception ex)
             {
                 logger.LogError(ex, "Error occured during migration");
             }
-
+            
             app.Run();
         }
     }
