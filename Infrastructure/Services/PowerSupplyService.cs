@@ -33,8 +33,6 @@ namespace Infrastructure.Services
                     return PowerSupplies.OrderBy(p => p.Name).ToList();
                 case "price":
                     return PowerSupplies.OrderBy(p => p.Price).ToList();
-                case "producer":
-                    return PowerSupplies.OrderBy(p => p.ProducerName).ToList();
                 default:
                     return PowerSupplies;
             }
@@ -42,33 +40,39 @@ namespace Infrastructure.Services
 
         public List<PowerSupply> FilterPowerSupplies(List<PowerSupply> PowerSupplies, string filterBy)
         {
-            switch (filterBy.ToLower())
-            {
-                case "name":
-                    return PowerSupplies.Where(p => p.Name == filterBy).ToList();
-                case "price":
-                    return PowerSupplies.Where(p => p.Price == Int32.Parse(filterBy)).ToList();
-                case "producer":
-                    return PowerSupplies.Where(p => p.ProducerName == filterBy).ToList();
-                default:
-                    return PowerSupplies;
-            }
+            // switch (filterBy.ToLower())
+            // {
+            //     case "name":
+            //         return PowerSupplies.Where(p => p.Name == filterBy).ToList();
+            //     case "price":
+            //         return PowerSupplies.Where(p => p.Price == Int32.Parse(filterBy)).ToList();
+            //     case "producer":
+            //         return PowerSupplies.Where(p => p.ProducerName == filterBy).ToList();
+            //     default:
+            //         return PowerSupplies;
+            // }
+            if(filterBy == "")
+                return PowerSupplies;
+            return PowerSupplies.Where(p => p.Price <= Int32.Parse(filterBy)).ToList();
         }
 
         public List<PowerSupply> SearchPowerSupplies(List<PowerSupply> PowerSupplies, string searchQuery)
         {
-            switch (searchQuery.ToLower())
-            {
-                case "name":
-                    return PowerSupplies.Where(p => p.Name.ToLower().Contains(searchQuery.ToLower())).ToList();
-                case "price":
-                    return PowerSupplies.Where(p => p.Price == Int32.Parse(searchQuery)).ToList();
-                case "producer":
-                    return PowerSupplies.Where(p => p.ProducerName.ToLower().Contains(searchQuery.ToLower())).ToList();
-                default:
-                    return PowerSupplies;
+            // switch (searchQuery.ToLower())
+            // {
+            //     case "name":
+            //         return PowerSupplies.Where(p => p.Name.ToLower().Contains(searchQuery.ToLower())).ToList();
+            //     case "price":
+            //         return PowerSupplies.Where(p => p.Price == Int32.Parse(searchQuery)).ToList();
+            //     case "producer":
+            //         return PowerSupplies.Where(p => p.ProducerName.ToLower().Contains(searchQuery.ToLower())).ToList();
+            //     default:
+            //         return PowerSupplies;
 
-            }
+            // }
+            if(searchQuery == "")
+                return PowerSupplies;
+             return PowerSupplies.Where(p => p.Name.ToLower().Contains(searchQuery.ToLower())).ToList();
         }
     }
 }

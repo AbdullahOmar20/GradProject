@@ -33,8 +33,6 @@ namespace Infrastructure.Services
                     return RAMs.OrderBy(p => p.Name).ToList();
                 case "price":
                     return RAMs.OrderBy(p => p.Price).ToList();
-                case "producer":
-                    return RAMs.OrderBy(p => p.ProducerName).ToList();
                 default:
                     return RAMs;
             }
@@ -42,33 +40,39 @@ namespace Infrastructure.Services
 
         public List<RAM> FilterRAMs(List<RAM> RAMs, string filterBy)
         {
-            switch (filterBy.ToLower())
-            {
-                case "name":
-                    return RAMs.Where(p => p.Name == filterBy).ToList();
-                case "price":
-                    return RAMs.Where(p => p.Price == Int32.Parse(filterBy)).ToList();
-                case "producer":
-                    return RAMs.Where(p => p.ProducerName == filterBy).ToList();
-                default:
-                    return RAMs;
-            }
+            // switch (filterBy.ToLower())
+            // {
+            //     case "name":
+            //         return RAMs.Where(p => p.Name == filterBy).ToList();
+            //     case "price":
+            //         return RAMs.Where(p => p.Price == Int32.Parse(filterBy)).ToList();
+            //     case "producer":
+            //         return RAMs.Where(p => p.ProducerName == filterBy).ToList();
+            //     default:
+            //         return RAMs;
+            // }
+             if(filterBy == "")
+                return RAMs;
+            return RAMs.Where(p => p.Price <= Int32.Parse(filterBy)).ToList();
         }
 
         public List<RAM> SearchRAMs(List<RAM> RAMs, string searchQuery)
         {
-            switch (searchQuery.ToLower())
-            {
-                case "name":
-                    return RAMs.Where(p => p.Name.ToLower().Contains(searchQuery.ToLower())).ToList();
-                case "price":
-                    return RAMs.Where(p => p.Price == Int32.Parse(searchQuery)).ToList();
-                case "producer":
-                    return RAMs.Where(p => p.ProducerName.ToLower().Contains(searchQuery.ToLower())).ToList();
-                default:
-                    return RAMs;
+            // switch (searchQuery.ToLower())
+            // {
+            //     case "name":
+            //         return RAMs.Where(p => p.Name.ToLower().Contains(searchQuery.ToLower())).ToList();
+            //     case "price":
+            //         return RAMs.Where(p => p.Price == Int32.Parse(searchQuery)).ToList();
+            //     case "producer":
+            //         return RAMs.Where(p => p.ProducerName.ToLower().Contains(searchQuery.ToLower())).ToList();
+            //     default:
+            //         return RAMs;
 
-            }
+            // }
+             if(searchQuery == "")
+                return RAMs;
+             return RAMs.Where(p => p.Name.ToLower().Contains(searchQuery.ToLower())).ToList();
         }
     }
 }

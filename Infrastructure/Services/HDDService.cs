@@ -32,8 +32,6 @@ namespace Infrastructure.Services
                     return HDDs.OrderBy(p => p.Name).ToList();
                 case "price":
                     return HDDs.OrderBy(p => p.Price).ToList();
-                case "producer":
-                    return HDDs.OrderBy(p => p.ProducerName).ToList();
                 default:
                     return HDDs;
             }
@@ -41,33 +39,39 @@ namespace Infrastructure.Services
 
         public List<HDD> FilterHDDs(List<HDD> HDDs, string filterBy)
         {
-            switch (filterBy.ToLower())
-            {
-                case "name":
-                    return HDDs.Where(p => p.Name == filterBy).ToList();
-                case "price":
-                    return HDDs.Where(p => p.Price == Int32.Parse(filterBy)).ToList();
-                case "producer":
-                    return HDDs.Where(p => p.ProducerName == filterBy).ToList();
-                default:
-                    return HDDs;
-            }
+            // switch (filterBy.ToLower())
+            // {
+            //     case "name":
+            //         return HDDs.Where(p => p.Name == filterBy).ToList();
+            //     case "price":
+            //         return HDDs.Where(p => p.Price == Int32.Parse(filterBy)).ToList();
+            //     case "producer":
+            //         return HDDs.Where(p => p.ProducerName == filterBy).ToList();
+            //     default:
+            //         return HDDs;
+            // }
+            if(filterBy == "")
+                return HDDs;
+            return HDDs.Where(p => p.Price <= Int32.Parse(filterBy)).ToList();
         }
 
         public List<HDD> SearchHDDs(List<HDD> HDDs, string searchQuery)
         {
-            switch (searchQuery.ToLower())
-            {
-                case "name":
-                    return HDDs.Where(p => p.Name.ToLower().Contains(searchQuery.ToLower())).ToList();
-                case "price":
-                    return HDDs.Where(p => p.Price == Int32.Parse(searchQuery)).ToList();
-                case "producer":
-                    return HDDs.Where(p => p.ProducerName.ToLower().Contains(searchQuery.ToLower())).ToList();
-                default:
-                    return HDDs;
+            // switch (searchQuery.ToLower())
+            // {
+            //     case "name":
+            //         return HDDs.Where(p => p.Name.ToLower().Contains(searchQuery.ToLower())).ToList();
+            //     case "price":
+            //         return HDDs.Where(p => p.Price == Int32.Parse(searchQuery)).ToList();
+            //     case "producer":
+            //         return HDDs.Where(p => p.ProducerName.ToLower().Contains(searchQuery.ToLower())).ToList();
+            //     default:
+            //         return HDDs;
 
-            }
+            // }
+            if(searchQuery == "")
+                return HDDs;
+             return HDDs.Where(p => p.Name.ToLower().Contains(searchQuery.ToLower())).ToList();
         }
     }
 }

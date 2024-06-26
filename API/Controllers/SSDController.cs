@@ -18,9 +18,12 @@ namespace API.Controllers
         }
 
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<SSD>>> GetAllSSDs(int pageNumber = 1, int pageSize = 10)
+        public async Task<ActionResult<IEnumerable<SSD>>> GetAllSSDs(int pageNumber = 1, int pageSize = 10,string sortBy ="",string filterBy="",string searchQuery="")
         {
             var SSDs = await _SSDService.GetAllSSDs();
+            SSDs =_SSDService.SortSSDs(SSDs, sortBy);
+            SSDs=_SSDService.FilterSSDs(SSDs, filterBy);
+            SSDs=_SSDService.SearchSSDs(SSDs, searchQuery);
             var paginatedSSDs = PaginatedList<SSD>.Create(SSDs, pageNumber, pageSize);
             return Ok(paginatedSSDs);
         }

@@ -18,9 +18,12 @@ namespace API.Controllers
         }
 
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<RAM>>> GetAllRAMs(int pageNumber = 1, int pageSize = 10)
+        public async Task<ActionResult<IEnumerable<RAM>>> GetAllRAMs(int pageNumber = 1, int pageSize = 10,string sortBy ="",string filterBy="",string searchQuery="")
         {
             var RAMs = await _RAMService.GetAllRAMs();
+            RAMs =_RAMService.SortRAMs(RAMs, sortBy);
+            RAMs=_RAMService.FilterRAMs(RAMs, filterBy);
+            RAMs=_RAMService.SearchRAMs(RAMs, searchQuery);
             var paginatedRAMs = PaginatedList<RAM>.Create(RAMs, pageNumber, pageSize);
             return Ok(paginatedRAMs);
         }

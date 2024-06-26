@@ -36,8 +36,6 @@ namespace Infrastructure.Services
                     return   Processors.OrderBy(p => p.Name).ToList();
                 case "price":
                     return Processors.OrderBy(p => p.Price).ToList();
-                case "producer":
-                    return Processors.OrderBy(p => p.ProducerName).ToList();
                 default:
                     return Processors;
             }
@@ -45,33 +43,39 @@ namespace Infrastructure.Services
 
         public List<Processor> FilterProcessors(List<Processor> Processors, string filterBy)
         {
-            switch (filterBy.ToLower())
-            {
-                case "name":
-                    return Processors.Where(p => p.Name==filterBy).ToList();
-                case "price":
-                    return Processors.Where(p => p.Price == Int32.Parse(filterBy)).ToList();
-                case "producer":
-                    return Processors.Where(p => p.ProducerName == filterBy).ToList();
-                default:
-                    return Processors;
-            }
+            // switch (filterBy.ToLower())
+            // {
+            //     case "name":
+            //         return Processors.Where(p => p.Name==filterBy).ToList();
+            //     case "price":
+            //         return Processors.Where(p => p.Price == Int32.Parse(filterBy)).ToList();
+            //     case "producer":
+            //         return Processors.Where(p => p.ProducerName == filterBy).ToList();
+            //     default:
+            //         return Processors;
+            // }
+            if(filterBy == "")
+                return Processors;
+            return Processors.Where(p => p.Price <= Int32.Parse(filterBy)).ToList();
         }
 
         public List<Processor> SearchProcessors(List<Processor> Processors, string searchQuery)
         {
-            switch (searchQuery.ToLower())
-            {
-                case "name":
-                    return Processors.Where(p => p.Name.ToLower().Contains(searchQuery.ToLower())).ToList();
-                case "price":
-                    return Processors.Where(p => p.Price==Int32.Parse(searchQuery)).ToList();
-                case "producer":
-                    return Processors.Where(p => p.ProducerName.ToLower().Contains(searchQuery.ToLower())).ToList();
-                default:
-                    return Processors;
+            // switch (searchQuery.ToLower())
+            // {
+            //     case "name":
+            //         return Processors.Where(p => p.Name.ToLower().Contains(searchQuery.ToLower())).ToList();
+            //     case "price":
+            //         return Processors.Where(p => p.Price==Int32.Parse(searchQuery)).ToList();
+            //     case "producer":
+            //         return Processors.Where(p => p.ProducerName.ToLower().Contains(searchQuery.ToLower())).ToList();
+            //     default:
+            //         return Processors;
 
-            }
+            // }
+             if(searchQuery == "")
+                return Processors;
+             return Processors.Where(p => p.Name.ToLower().Contains(searchQuery.ToLower())).ToList();
         }
 
         public async Task<CPUBenchmark> GetProcessorsById(string name)

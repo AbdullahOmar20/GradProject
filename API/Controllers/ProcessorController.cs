@@ -19,9 +19,12 @@ namespace API.Controllers
         }
 
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<Processor>>> GetAllProcessors(int pageNumber = 1, int pageSize = 10)
+        public async Task<ActionResult<IEnumerable<Processor>>> GetAllProcessors(int pageNumber = 1, int pageSize = 10,string sortBy ="",string filterBy="",string searchQuery="")
         {
             var CPUs = await _processorService.GetAllProcessors();
+            CPUs =_processorService.SortProcessors(CPUs, sortBy);
+            CPUs=_processorService.FilterProcessors(CPUs, filterBy);
+            CPUs=_processorService.SearchProcessors(CPUs, searchQuery);
             var paginatedCPUs = PaginatedList<Processor>.Create(CPUs, pageNumber, pageSize);
             return Ok(paginatedCPUs);
         }

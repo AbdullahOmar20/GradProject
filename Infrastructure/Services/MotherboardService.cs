@@ -33,8 +33,6 @@ namespace Infrastructure.Services
                     return Motherboards.OrderBy(p => p.Name).ToList();
                 case "price":
                     return Motherboards.OrderBy(p => p.Price).ToList();
-                case "producer":
-                    return Motherboards.OrderBy(p => p.ProducerName).ToList();
                 default:
                     return Motherboards;
             }
@@ -42,33 +40,39 @@ namespace Infrastructure.Services
 
         public List<Motherboard> FilterMotherboards(List<Motherboard> Motherboards, string filterBy)
         {
-            switch (filterBy.ToLower())
-            {
-                case "name":
-                    return Motherboards.Where(p => p.Name == filterBy).ToList();
-                case "price":
-                    return Motherboards.Where(p => p.Price == Int32.Parse(filterBy)).ToList();
-                case "producer":
-                    return Motherboards.Where(p => p.ProducerName == filterBy).ToList();
-                default:
-                    return Motherboards;
-            }
+            // switch (filterBy.ToLower())
+            // {
+            //     case "name":
+            //         return Motherboards.Where(p => p.Name == filterBy).ToList();
+            //     case "price":
+            //         return Motherboards.Where(p => p.Price == Int32.Parse(filterBy)).ToList();
+            //     case "producer":
+            //         return Motherboards.Where(p => p.ProducerName == filterBy).ToList();
+            //     default:
+            //         return Motherboards;
+            // }
+            if(filterBy == "")
+                return Motherboards;
+            return Motherboards.Where(p => p.Price <= Int32.Parse(filterBy)).ToList();
         }
 
         public List<Motherboard> SearchMotherboards(List<Motherboard> Motherboards, string searchQuery)
         {
-            switch (searchQuery.ToLower())
-            {
-                case "name":
-                    return Motherboards.Where(p => p.Name.ToLower().Contains(searchQuery.ToLower())).ToList();
-                case "price":
-                    return Motherboards.Where(p => p.Price == Int32.Parse(searchQuery)).ToList();
-                case "producer":
-                    return Motherboards.Where(p => p.ProducerName.ToLower().Contains(searchQuery.ToLower())).ToList();
-                default:
-                    return Motherboards;
+            // switch (searchQuery.ToLower())
+            // {
+            //     case "name":
+            //         return Motherboards.Where(p => p.Name.ToLower().Contains(searchQuery.ToLower())).ToList();
+            //     case "price":
+            //         return Motherboards.Where(p => p.Price == Int32.Parse(searchQuery)).ToList();
+            //     case "producer":
+            //         return Motherboards.Where(p => p.ProducerName.ToLower().Contains(searchQuery.ToLower())).ToList();
+            //     default:
+            //         return Motherboards;
 
-            }
+            // }
+            if(searchQuery == "")
+                return Motherboards;
+             return Motherboards.Where(p => p.Name.ToLower().Contains(searchQuery.ToLower())).ToList();
         }
     }
 }

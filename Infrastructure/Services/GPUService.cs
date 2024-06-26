@@ -25,22 +25,24 @@ namespace Infrastructure.Services
 
         public List<GPU> SortGPUs(List<GPU> GPUs, string sortBy)
         {
+            if(sortBy == "")
+                return GPUs;
              switch (sortBy.ToLower())
             {
                 case "name":
                     return   GPUs.OrderBy(p => p.Name).ToList();
                 case "price":
                     return GPUs.OrderBy(p => p.Price).ToList();
-                case "producer":
-                    return GPUs.OrderBy(p => p.ProducerName).ToList();
                 default:
                     return GPUs;
             }
+            
+            
         }
 
         public List<GPU> FilterGPUs(List<GPU> GPUs, string filterBy)
         {
-            switch (filterBy.ToLower())
+            /*switch (filterBy.ToLower())
             {
                 case "name":
                     return GPUs.Where(p => p.Name==filterBy).ToList();
@@ -50,12 +52,15 @@ namespace Infrastructure.Services
                     return GPUs.Where(p => p.ProducerName == filterBy).ToList();
                 default:
                     return GPUs;
-            }
+            }*/
+            if(filterBy == "")
+                return GPUs;
+            return GPUs.Where(p => p.Price <= Int32.Parse(filterBy)).ToList();
         }
 
         public List<GPU> SearchGPUs(List<GPU> GPUs, string searchQuery)
         {
-            switch (searchQuery.ToLower())
+            /*switch (searchQuery.ToLower())
             {
                 case "name":
                     return GPUs.Where(p => p.Name.ToLower().Contains(searchQuery.ToLower())).ToList();
@@ -66,7 +71,10 @@ namespace Infrastructure.Services
                 default:
                     return GPUs;
 
-            }
+            }*/
+            if(searchQuery == "")
+                return GPUs;
+             return GPUs.Where(p => p.Name.ToLower().Contains(searchQuery.ToLower())).ToList();
         }
 
         public async Task<GPUBenchmark> GetGPUsById(string name)

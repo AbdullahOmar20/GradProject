@@ -18,9 +18,12 @@ namespace API.Controllers
         }
 
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<HDD>>> GetAllHDDs(int pageNumber = 1, int pageSize = 10)
+        public async Task<ActionResult<IEnumerable<HDD>>> GetAllHDDs(int pageNumber = 1, int pageSize = 10,string sortBy ="",string filterBy="",string searchQuery="")
         {
             var HDDs = await _HDDService.GetAllHDDs();
+            HDDs =_HDDService.SortHDDs(HDDs, sortBy);
+            HDDs=_HDDService.FilterHDDs(HDDs, filterBy);
+            HDDs=_HDDService.SearchHDDs(HDDs, searchQuery);
             var paginatedHDDs = PaginatedList<HDD>.Create(HDDs, pageNumber, pageSize);
             return Ok(paginatedHDDs);
         }

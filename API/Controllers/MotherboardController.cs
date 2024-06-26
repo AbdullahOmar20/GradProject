@@ -18,9 +18,12 @@ namespace API.Controllers
         }
 
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<Motherboard>>> GetAllMotherboards(int pageNumber = 1, int pageSize = 10)
+        public async Task<ActionResult<IEnumerable<Motherboard>>> GetAllMotherboards(int pageNumber = 1, int pageSize = 10,string sortBy ="",string filterBy="",string searchQuery="")
         {
             var Motherboards = await _MotherboardService.GetAllMotherboards();
+            Motherboards =_MotherboardService.SortMotherboards(Motherboards, sortBy);
+            Motherboards=_MotherboardService.FilterMotherboards(Motherboards, filterBy);
+            Motherboards=_MotherboardService.SearchMotherboards(Motherboards, searchQuery);
             var paginatedMotherboards = PaginatedList<Motherboard>.Create(Motherboards, pageNumber, pageSize);
             return Ok(paginatedMotherboards);
         }

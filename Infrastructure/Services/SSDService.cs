@@ -26,8 +26,6 @@ namespace Infrastructure.Services
                     return SSDs.OrderBy(p => p.Name).ToList();
                 case "price":
                     return SSDs.OrderBy(p => p.Price).ToList();
-                case "producer":
-                    return SSDs.OrderBy(p => p.ProducerName).ToList();
                 default:
                     return SSDs;
             }
@@ -35,33 +33,39 @@ namespace Infrastructure.Services
 
         public List<SSD> FilterSSDs(List<SSD> SSDs, string filterBy)
         {
-            switch (filterBy.ToLower())
-            {
-                case "name":
-                    return SSDs.Where(p => p.Name == filterBy).ToList();
-                case "price":
-                    return SSDs.Where(p => p.Price == Int32.Parse(filterBy)).ToList();
-                case "producer":
-                    return SSDs.Where(p => p.ProducerName == filterBy).ToList();
-                default:
-                    return SSDs;
-            }
+            // switch (filterBy.ToLower())
+            // {
+            //     case "name":
+            //         return SSDs.Where(p => p.Name == filterBy).ToList();
+            //     case "price":
+            //         return SSDs.Where(p => p.Price == Int32.Parse(filterBy)).ToList();
+            //     case "producer":
+            //         return SSDs.Where(p => p.ProducerName == filterBy).ToList();
+            //     default:
+            //         return SSDs;
+            // }
+             if(filterBy == "")
+                return SSDs;
+            return SSDs.Where(p => p.Price <= Int32.Parse(filterBy)).ToList();
         }
 
         public List<SSD> SearchSSDs(List<SSD> SSDs, string searchQuery)
         {
-            switch (searchQuery.ToLower())
-            {
-                case "name":
-                    return SSDs.Where(p => p.Name.ToLower().Contains(searchQuery.ToLower())).ToList();
-                case "price":
-                    return SSDs.Where(p => p.Price == Int32.Parse(searchQuery)).ToList();
-                case "producer":
-                    return SSDs.Where(p => p.ProducerName.ToLower().Contains(searchQuery.ToLower())).ToList();
-                default:
-                    return SSDs;
+            // switch (searchQuery.ToLower())
+            // {
+            //     case "name":
+            //         return SSDs.Where(p => p.Name.ToLower().Contains(searchQuery.ToLower())).ToList();
+            //     case "price":
+            //         return SSDs.Where(p => p.Price == Int32.Parse(searchQuery)).ToList();
+            //     case "producer":
+            //         return SSDs.Where(p => p.ProducerName.ToLower().Contains(searchQuery.ToLower())).ToList();
+            //     default:
+            //         return SSDs;
 
-            }
+            // }
+            if(searchQuery == "")
+                return SSDs;
+             return SSDs.Where(p => p.Name.ToLower().Contains(searchQuery.ToLower())).ToList();
         }
     }
 }

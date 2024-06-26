@@ -27,14 +27,14 @@ namespace Infrastructure.Services
 
         public List<Case> SortCases(List<Case> Cases, string sortBy)
         {
+            if(sortBy == "")
+                return Cases;
             switch (sortBy.ToLower())
             {
                 case "name":
                     return Cases.OrderBy(p => p.Name).ToList();
                 case "price":
                     return Cases.OrderBy(p => p.Price).ToList();
-                case "producer":
-                    return Cases.OrderBy(p => p.ProducerName).ToList();
                 default:
                     return Cases;
             }
@@ -42,22 +42,23 @@ namespace Infrastructure.Services
 
         public List<Case> FilterCases(List<Case> Cases, string filterBy)
         {
-            switch (filterBy.ToLower())
+            /*switch (filterBy.ToLower())
             {
                 case "name":
                     return Cases.Where(p => p.Name == filterBy).ToList();
                 case "price":
                     return Cases.Where(p => p.Price == Int32.Parse(filterBy)).ToList();
-                case "producer":
-                    return Cases.Where(p => p.ProducerName == filterBy).ToList();
                 default:
                     return Cases;
-            }
+            }*/
+            if(filterBy == "")
+                return Cases;
+            return Cases.Where(p => p.Price <= Int32.Parse(filterBy)).ToList();
         }
 
         public List<Case> SearchCases(List<Case> Cases, string searchQuery)
         {
-            switch (searchQuery.ToLower())
+            /*switch (searchQuery.ToLower())
             {
                 case "name":
                     return Cases.Where(p => p.Name.ToLower().Contains(searchQuery.ToLower())).ToList();
@@ -68,7 +69,10 @@ namespace Infrastructure.Services
                 default:
                     return Cases;
 
-            }
+            }*/
+            if(searchQuery == "")
+                return Cases;
+             return Cases.Where(p => p.Name.ToLower().Contains(searchQuery.ToLower())).ToList();
         }
     }
 }

@@ -22,9 +22,12 @@ namespace API.Controllers
         }
 
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<GPU>>> GetAllGPUs(int pageNumber = 1, int pageSize = 10)
+        public async Task<ActionResult<IEnumerable<GPU>>> GetAllGPUs([FromQuery]int pageNumber = 1, int pageSize = 10,string sortBy ="",string filterBy="",string searchQuery="")
         {
             var GPUs = await _GPUService.GetAllGPUs();
+            GPUs =_GPUService.SortGPUs(GPUs, sortBy);
+            GPUs=_GPUService.FilterGPUs(GPUs, filterBy);
+            GPUs=_GPUService.SearchGPUs(GPUs, searchQuery);
             var paginatedGPUs = PaginatedList<GPU>.Create(GPUs, pageNumber, pageSize);
             return Ok(paginatedGPUs);
         }
