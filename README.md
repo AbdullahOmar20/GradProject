@@ -27,3 +27,5 @@ To get started with Setup Master, follow these steps:
 <li>Configure the ASP.NET Web API and Flask API.</li>
 <li>Run the application and explore the features.</li>
 </ol>
+<h2>Video Preview</h2>
+Here is <a href="https://www.linkedin.com/posts/abdullah-omar-amer_excited-to-share-my-graduation-project-activity-7212534170370150402-e4l6?utm_source=share">LinkedIn Post</a> mentioning also my team and other repos for the project. 
