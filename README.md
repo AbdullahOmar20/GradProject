@@ -27,6 +27,7 @@ To get started with Setup Master, follow these steps:
 <li>Configure the ASP.NET Web API and Flask API.</li>
 <li>Run the application and explore the features.</li>
 <li>Here is Postman collection: <a href="https://netero123.postman.co/workspace/Netero-Workspace~3d23873a-da0f-424d-8e79-fc98f51c17c1/api/9c8d1cb9-3ace-4caf-9df1-99936a1fcf0e?action=share&creator=29744142">Postman</a></li>
+<li>Swagger Documentation: localhost:5001/swagger/index.html</li>
 </ol>
 <h2>Video Preview</h2>
 Here is <a href="https://www.linkedin.com/posts/abdullah-omar-amer_excited-to-share-my-graduation-project-activity-7212534170370150402-e4l6?utm_source=share">LinkedIn Post</a> mentioning also my team and other repos for the project. 
